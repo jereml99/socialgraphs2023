@@ -1,0 +1,142 @@
+{{short description|American rapper (born 1979)}}
+{{Use mdy dates|date=September 2021}}
+{{BLP sources|date=September 2021}}
+{{Infobox musical artist
+| name            = Jamal Phillips
+| image           = Jamal (rapper).jpg
+| caption         = 
+| birth_name      = Jamal Phillips
+| alias           = {{hlist|Jamal|Mally G}}
+| birth_date      = {{Birth date and age|1979|4|26}}
+| birth_place     = 
+| origin          = [[Philadelphia, Pennsylvania]], U.S.
+| genre           = [[Hip hop music|Hip hop]]
+| occupation      = {{flatlist|
+* Rapper
+* record producer
+}}
+| years_active    = 1992–present
+| label           = {{flatlist|
+* [[Rowdy Records|Rowdy]]
+* [[Smoke-a-Lot Records|Smoke-a-Lot]]
+}}
+| associated_acts = {{flatlist|
+* [[Illegal (group)|Illegal]]
+* [[Def Squad]]
+* [[Erick Sermon]]
+* [[Redman (rapper)|Redman]]
+* [[Busta Rhymes]]
+* [[Yukmouth]]
+}}
+}}
+'''Jamal Phillips''' (born April 26, 1979), known professionally [[Mononym|mononymously]] as '''Jamal''' and formerly as '''Mally G''', is an American rapper and record producer. He started his career as one-half of rap duo [[Illegal (group)|Illegal]], the rap act formed by [[Dallas Austin]] in the early 1990s.
+
+== Career ==
+
+=== Illegal and going solo ===
+Phillips' tenure with Illegal was short-lived; following the lukewarm response to 1993's [[The Untold Truth]] — the group's full-length debut — Phillips embarked on a solo career. He teamed up with [[Erick Sermon]] of the [[Def Squad]] to release 1995's ''[[Last Chance, No Breaks]]'', his debut release.
+
+The album (produced by [[Easy Mo Bee]], [[Redman (rapper)|Redman]], [[Rockwilder]] and Sermon) peaked at #10 and #37 on [[Billboard magazine]]'s ''Heatseekers'' and ''Top R&B/Hip-Hop Albums'' charts respectively. The album also spawned a pair of hit singles — "Fades Em All", which sampled [[The Notorious B.I.G.]]'s "Ready to Die", and "Keep It Real", which sampled [[Stevie Wonder]]'s "Ribbon in the Sky".
+
+=== Smoke-a-Lot Records ===
+In 2006, Jamal signed a deal with rapper [[Yukmouth]] to be a part of his [[Smoke-a-Lot Records]] label.<ref>{{cite web |url=http://www.smokealotrecords.com/artist_jamal.html |title=>>The Official Smoke-A-Lot Records Site |website=www.smokealotrecords.com |url-status=dead |archive-url=https://web.archive.org/web/20070506143044/http://www.smokealotrecords.com/artist_jamal.html |archive-date=2007-05-06}}</ref>
+
+=== Other collaborations ===
+In 1995 he performed on ''[[Conspiracy (Junior M.A.F.I.A. album)|Conspiracy]]'', the [[album|LP]] from [[Junior M.A.F.I.A.]] He has since gone on to collaborate with other renowned rappers; in 1996, he was featured on ''[[The Coming]]'' the LP from [[Busta Rhymes]] and [[Keith Murray (rapper)|Keith Murray]]'s ''[[Enigma (Keith Murray album)|Enigma]]''. The following year, he teamed up again with Busta Rhymes, performing on that rapper's 1997 LP, ''[[When Disaster Strikes]]''. In 1998, he collaborated with the Def Squad on ''[[El Niño (Def Squad album)|El Niño]]'', their debut release.
+
+He also had production duties on ''[[B.Coming]]'', the 2005 release from [[Beanie Sigel]].
+
+Jamal appears on Illegal bandmate Malik's recent (2005) CD "Malik M.D. aka Hershey Locc Hefner: The Game Needs Me".
+
+He has also appeared on songs with [[Shyheim]], [[Heltah Skeltah]], [[Coolio]], [[MC Breed]], [[Method Man]], [[Busta Rhymes]], [[Young Zee]], [[Bone Thugs N Harmony]], [[Treach]], [[The D.O.C.]] and others.
+
+Jamal also appears on Skullz' 2018 single "Everybody Can Get It" feat. Juxx Diamondz.
+
+== Discography ==
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions
+! scope="col" rowspan="2" style="width:13em;" | Title
+! scope="col" rowspan="2" style="width:20em;" | Album details
+! scope="col" colspan="2" | Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Billboard 200|US]]<br>
+! scope="col" style="width:3em;font-size:90%;" | [[Top R&B/Hip-Hop Albums|US<br>R&B]]<br>
+|-  
+! scope="row"| ''[[Last Chance, No Breaks]]''
+|
+* Released: October 10, 1995<ref name=allmusic>[{{AllMusic|class=album|id=r228502|pure_url=yes}} AllMusic review]</ref>
+* Label: [[Rowdy Records|Rowdy]]
+* Formats: [[Compact Disc|CD]], [[LP record|LP]], [[Cassette tape|cassette]]
+| 198 || 37
+|-
+|}
+
+===Collaborative albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of collaborative studio albums, with selected chart positions
+! scope="col" rowspan="2" style="width:13em;" | Title
+! scope="col" rowspan="2" style="width:20em;" | Album details
+! scope="col" colspan="2" | Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Billboard 200|US]]<br>
+! scope="col" style="width:3em;font-size:90%;" | [[Top R&B/Hip-Hop Albums|US<br>R&B]]<br>
+|-  
+! scope="row"| ''[[The Untold Truth]]''<br/><span style="font-size:85%;">(as part of [[Illegal (group)|Illegal]])</span>
+|
+* Released: August 24, 1993
+* Label: [[Rowdy Records|Rowdy]]
+* Formats: [[Compact Disc|CD]], LP, cassette
+| 119 || 19
+|-
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+!rowspan="2"|Title
+!rowspan="2"|Release
+!colspan="2"|Peak chart positions
+!rowspan="2"|Album
+|-
+!width="40"|<small>[[Hot R&B/Hip-Hop Songs|US R&B]]</small>
+!width="40"|<small>[[Hot Rap Tracks|US Rap]]</small>
+|-
+! scope="row"| "[[Fades Em All]]"
+|align="center"|1995
+|align="center"|59
+|align="center"|9
+|align="center" rowspan="2"|''[[Last Chance, No Breaks]]''
+|-
+! scope="row"| "[[Keep It Real (Jamal song)|Keep It Real]]"
+|align="center"|1996
+|align="center"|76
+|align="center"|17
+|-
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{AllMusic|class=artist|id=p169452|label=Jamal}}
+* [http://www.discogs.com/artist/Mally+G Mally G] entry at [[Discogs]] under the Mally G moniker
+* [http://www.discogs.com/artist/Jamal+(2) Jamal] entry at Discogs under the Jamal moniker
+* [http://cdbaby.com/cd/malikmusic2] Malik M.D's CD featuring Jamal at CD Baby
+* [https://distrokid.com/hyperfollow/skullz/fpAO] under the Mally G moniker
+
+{{Authority control}}
+
+{{DEFAULTSORT:Phillips, Jamal}}
+[[Category:1979 births]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Living people]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Rappers from Philadelphia]]
+[[Category:20th-century American rappers]]
+[[Category:21st-century American rappers]]
+[[Category:Def Squad members]]
+[[Category:20th-century American male musicians]]
+[[Category:21st-century American male musicians]]
+[[Category:20th-century African-American musicians]]
+[[Category:21st-century African-American musicians]]

@@ -1,0 +1,53 @@
+{{Infobox musical artist
+| name            = DJ Jazzy Joyce
+| image           =
+| caption         =
+| image_size      = <!-- Only for images narrower than 220 pixels -->
+| birth_name      = Joyce Lynn Spencer<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/886132312 |title=I LOVE IT |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 29, 2023}}</ref>
+| birth_date      = {{Birth date and age|mf=yes|1967|6|20}}
+| origin          = [[The Bronx, New York|The Bronx]], [[New York (state)|New York]], U.S.
+| instrument      = [[Turntablism|Turntables]], [[Sampler (musical instrument)|sampler]]
+| genre           = [[Hip hop music|Hip hop]], [[contemporary R&B|R&B]]
+| occupation      = [[DJ]], [[Record producer|producer]]
+| years_active    = 1983-present
+| label           = [[Profile Records|Profile]]
+| associated_acts = [[Sweet Tee]], [[Universal Zulu Nation|Zulu Nation]]
+| website         = {{URL|www.djjazzyjoyce.us}}
+}}
+
+'''Joyce Lynn Spencer''', also known as '''DJ Jazzy Joyce''' (born June 20, 1967) is an American [[Hip hop music|hip hop]] [[DJ]] from [[Bronx, New York]]<ref name="whoz">{{cite book |last=Stancell  |first=Steven  |date=1996 |title=Rap Whoz Who: The World of Rap Music, Performers, Producers & Promoters |url=https://books.google.com/books?id=UWyfAAAAMAAJ |location=New York |publisher=Schrimer Books |page=72 |isbn=0028645200 }}</ref><ref name="allmusic">[{{AllMusic|class=artist|id=jazzy-joyce-p90358/songs|pure_url=yes}} DJ Jazzy Joyce at allmusic.com]</ref> and a [[Record producer|producer]] on [[New York City]]'s [[radio station]] [[WQHT|Hot 97]]. She has been considered one of the most prominent rap DJs, known for her collaboration with rapper [[Sweet Tee]] on the 1986 single "[[It's My Beat]]".<ref name="whoz"/><ref name="allmusic"/> Joyce has performed in many areas across the United States and has also made a name for her [[mixtape]]s. She started off as a protégé of DJ Whiz Kid before deejaying for artists such as the Bad Girls and Shelly Thunder.<ref name="whoz"/> She began deejaying for the group [[Digable Planets]] in 1994<ref name="whoz"/> and was featured on "9th Wonder (Blakitolism)", the first single from "[[Blowout Comb]]", the second album from [[Grammy]] winning rap group [[Digable Planets]]. Not only were her DJ cuts prominent on the hook and the outro, but Joyce also exchanged several ad libbed lines at the end of the song's third verse with group member [[Ladybug Mecca]] and she was acknowledged by her name throughout the track, even though she is referred to as Sweet Lime Pie – a name she used as an online persona. ''DJ Jazzy Joyce'' went on to tour with Digable Planets following the release of the ''Blowout Comb'' album in 1994.<ref name="whoz"/>
+
+She was a contestant on the first season of a DJ reality show, "[[Master of the Mix]]", which aired on two cable networks: [[Black Entertainment Television|BET]] and [[BET Her|Centric]]. Joyce also performed on [[Russell Simmons]]' ''[[Def Comedy Jam]]'' on [[HBO]].<ref name="whoz"/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://www.djjazzyjoyce.us/}}
+* {{Facebook|DJ-Jazzy-Joyce/185375617264|DJ Jazzy Joyce}}
+* {{Twitter}}
+* {{SoundCloud}}
+* {{YouTube|u=djjazzyjoyce|DJ Jazzy Joyce}}
+* [http://www.discogs.com/artist/Jazzy+Joyce DJ Jazzy Joyce] discography at [[Discogs]]
+* {{IMDb name|id=2274577|name=DJ Jazzy Joyce}}
+*[https://www.namm.org/library/oral-history/dj-jazzy-joyce DJ Jazzy Joyce Interview] at [[NAMM Oral History Program|NAMM Oral History Collection]] (2012)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jazzy Joyce}}
+[[Category:1967 births]]
+[[Category:American hip hop record producers]]
+[[Category:American women DJs]]
+[[Category:American hip hop DJs]]
+[[Category:Living people]]
+[[Category:Mixtape DJs]]
+[[Category:Nightlife in New York City]]
+[[Category:Rappers from the Bronx]]
+[[Category:Profile Records artists]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Record producers from New York (state)]]
+[[Category:American women record producers]]
+
+
+{{US-DJ-stub}}
+{{Music-producer-stub}}

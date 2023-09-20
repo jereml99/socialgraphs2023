@@ -1,0 +1,65 @@
+{{short description|American rapper}}
+
+{{Infobox musical artist
+| name              = MC Trouble
+| image             = 
+| image_size        = 135px<!-- Only for images narrower than 205 pixels -->
+| background        = solo_singer
+| birth_name        = LaTasha Sheron Rogers
+| alias             = 
+| birth_date        = {{birth date|1970|7|30}}
+| death_date        = {{death date and age|1992|6|4|1970|7|30}}
+| origin            = [[Los Angeles]], California, U.S.
+| instrument        = 
+| genre             = [[Hip hop music|Hip hop]]
+| occupation        = [[Rapping|Rapper]]
+| years_active      = 1987–1992
+| label             = [[Motown Records|Motown]]
+}}
+
+'''LaTasha Sheron Rogers''' (July 30, 1970 – June 4, 1992), better known as '''MC Trouble''', was a [[hip hop music|rap]] artist and the first female rapper signed to [[Motown Records]].<ref name="LarkinDM">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Dance Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Virgin Books]]|date=1998|edition=First|isbn=0-7535-0252-6|pages=218/9}}</ref>
+
+MC Trouble had a minor hit with the song "(I Wanna) Make You Mine" featuring [[The Good Girls (group)|the Good Girls]], released on May 25, 1990. "Make You Mine" peaked at number 15 on [[Hot Rap Songs|''Billboard'' magazine's Hot Rap Singles]] chart.<ref>{{cite web|url=http://www.billboard.com/bbcom/retrieve_chart_history.do?model.vnuArtistId=82194&model.vnuAlbumId=384004|title=MC Trouble Chart History|website=Billboard.com|access-date=2008-06-14}}</ref> The title track of her debut album ''Gotta Get a Grip'' was released as the second single on September 14, 1990. ''Gotta Get a Grip'' was a mix of hardcore rap and more commercial R&B.<ref>{{AllMusic|class=album|id=r12151|label=''Gotta Get A Grip'' Review}}</ref>
+
+==Illness, death, and dedications==
+Rogers was born with epilepsy, and received daily treatment to prevent seizures; she was recording her second album when she died in her sleep on June 4, 1991, while at a friend's house in Los Angeles shortly after an [[epileptic seizure]] brought on from complications from a brain tumor, which resulted in heart failure.<ref>{{Cite web |url=https://www.xxlmag.com/news/2010/06/rip-mc-trouble-troubles-in-paradise/ |title=R.I.P. MC Trouble – Trouble's in Paradise - XXL |access-date=2020-05-31 |archive-date=2017-06-22 |archive-url=https://web.archive.org/web/20170622124751/http://www.xxlmag.com/news/2010/06/rip-mc-trouble-troubles-in-paradise/ |url-status=dead }}</ref>  Her death impacted rappers across the country.  [[Phife Dawg]] of [[A Tribe Called Quest]] paid tribute to MC Trouble in the single "Vibes and Stuff" from ''[[The Low End Theory]].''  P.E.A.C.E. of [[Freestyle Fellowship]] gave MC Trouble a shout-out in their song "Dedication" on their album ''[[To Whom It May Concern...]]'' . [[Boyz II Men]] dedicated the music video for their song "It’s So Hard to Say Goodbye to Yesterday" to MC Trouble.<ref>{{Cite web|url=https://www.youtube.com/watch?v=oK9gLkXe0xw |archive-url=https://ghostarchive.org/varchive/youtube/20211219/oK9gLkXe0xw |archive-date=2021-12-19 |url-status=live|title=Boyz II Men - It's So Hard To Say Goodbye To Yesterday|access-date=24 June 2021|publisher=[[YouTube]]}}{{cbignore}}</ref>
+
+Rogers was buried at [[Inglewood Park Cemetery]] in the center of the Pinecrest section. Her tombstone incorrectly lists 1992 as the year of her death.<ref>{{cite book |url=https://books.google.com/books?id=RVV6seGmgmkC&pg=PA80 |pages=80–81 |title=Forever L.A.: A Field Guide To Los Angeles Area Cemeteries & Their Residents |author=Douglas Keister |date=2010 |publisher=Gibbs Smith |isbn=9781423616535}}</ref>
+
+==Discography==
+* ''Highroller's Girl'' [[Extended play|EP]] (1988)
+* ''[[Gotta Get a Grip (album)|Gotta Get a Grip]]'' (1990)
+
+The posthumous track "Big Ol' Jazz" appeared on the ''[[House Party 2]]'' soundtrack in the fall of 1991. It resulted in a second and final hit for MC Trouble on the ''Billboard'' Rap Singles chart.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{AllMusic|class=artist|id=p100291|label=MC Trouble}}
+* {{Find a Grave|3832}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Trouble, MC}}
+[[Category:1970 births]]
+[[Category:1991 deaths]]
+[[Category:African-American women rappers]]
+[[Category:West Coast hip hop musicians]]
+[[Category:American women rappers]]
+[[Category:Rappers from Los Angeles]]
+[[Category:Neurological disease deaths in California]]
+[[Category:Deaths from epilepsy]]
+[[Category:People with epilepsy]]
+[[Category:American musicians with disabilities]]
+[[Category:20th-century American women singers]]
+[[Category:20th-century American rappers]]
+[[Category:Burials at Inglewood Park Cemetery]]
+[[Category:20th-century American singers]]
+[[Category:20th-century African-American women singers]]
+[[Category:Deaths from brain cancer in the United States]]
+[[Category:Deaths from cancer in California]]
+[[Category:20th-century women rappers]]
+
+
+{{US-hiphop-bio-stub}}

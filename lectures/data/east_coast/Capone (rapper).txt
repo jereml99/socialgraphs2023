@@ -1,0 +1,93 @@
+{{Short description|American rapper}}
+{{Use mdy dates|date=March 2021}}
+{{For|the gangster|Al Capone}}
+{{Other people5|Mr. Capone-E|Al Kapone}}
+{{Infobox musical artist
+| name            = Capone
+| image           = Capone Screenshot.png
+| alt             = Close-up profile image of black male
+| caption         = Capone in 2015
+| image_size      =
+| birth_name      = Kiam Akasi Holley
+| alias           =
+| birth_date      = {{Birth date and age|1976|2|8}}
+| birth_place     = [[Queens]], New York, U.S.
+| genre           = {{hlist|[[East Coast hip hop]]|[[Gangsta rap|mafioso rap]]|[[hardcore hip hop]]}}
+| occupation      = [[Rapper]]
+| years_active    = 1995–present
+| label           = [[Tommy Boy Records]], [[Def Jam]], [[SMC Recordings]]
+| associated_acts = {{hlist|[[Capone-N-Noreaga]]|[[Mobb Deep]]|[[Tragedy Khadafi]]|[[Nas]]}}
+| current_member_of = [[Capone-N-Noreaga]]
+| website         =
+}}
+
+'''Kiam Akasi Holley''' (born February 8, 1976), better known by his stage name '''Capone''', is an American [[Rapping|rapper]] known as one half of the [[East Coast hip hop]] duo [[Capone-N-Noreaga]] (C-N-N), alongside friend and fellow rapper [[N.O.R.E.]].
+
+==Career==
+Holley spent some time in jail after the release of C-N-N's debut album ''[[The War Report]].'' When he was released, he and [[N.O.R.E.]] recorded their second album ''[[The Reunion (Capone-N-Noreaga album)|The Reunion]]'', but shortly after releasing the album, Capone was sent back to jail.<ref>{{Cite web|url=https://www.allmusic.com/artist/capone-mn0001363638/biography|title=Capone {{!}} Biography & History {{!}} AllMusic|last=Ankeny|first=Jason|website=[[AllMusic]]|access-date=November 21, 2018}}</ref> In 2004, he recorded the single "I Need Speed", for exclusive use in the video game ''[[Need for Speed: Underground 2]]'', which was featured on the game's soundtrack. In early 2005, [[Def Jam Recordings]] released Capone from his contract while retaining Noreaga, leaving the group's status in disarray. Capone released his debut album titled ''Pain, Time & Glory'' in 2005, but it received poor sales. He also appeared on the [[Metta World Peace|Ron Artest]] album ''My World''.
+
+In 2020 Capone released collaborative album entitled "Guidelines" with one half of the Dogg Pound [[Daz Dillinger]] under [[Empire Distribution]]<ref>{{Cite web|last=jbanks|date=2020-08-18|title=Daz Dillinger & Capone Detail Docuseries With Kurupt + Say Ja Rule & 50 Cent Need Next Verzuz Battle|url=https://www.935kday.com/2020/08/18/daz-dillinger-capone-detail-docuseries-with-kurupt-say-ja-rule-50-cent-need-next-verzuz-battle/|access-date=2021-06-22|website=KDAY-FM|language=en-US}}</ref>
+
+==Personal life==
+Holley is of Haitian descent.<ref>{{cite web|url=https://www.youtube.com/watch?v=kV2mQbmUhrg&NR=1 |archive-url=https://ghostarchive.org/varchive/youtube/20211217/kV2mQbmUhrg |archive-date=2021-12-17 |url-status=live|title=Capone-N-Noreaga Take "The Oath"|work=[[YouTube]]|access-date=December 2, 2014}}{{cbignore}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Title
+! rowspan="2"| Release
+! colspan="3" | Peak chart positions
+|-
+! scope="col" style=font-size:90%;"|[[Top R&B/Hip-Hop Albums|US<br />R&B]]<ref>{{Cite news|url=https://www.billboard.com/artist/capone/chart-history/blp/|title=Capone Chart History|work=[[Top R&B/Hip-Hop Albums]]|access-date=November 21, 2018}}</ref>
+! scope="col" style=font-size:90%;"|[[Top Rap Albums|US<br />Rap]]<ref>{{Cite news|url=https://www.billboard.com/artist/capone/chart-history/rlp/|title=Capone Chart History|work=[[Top Rap Albums]]|access-date=November 21, 2018}}</ref>
+! scope="col" style=font-size:90%;"|[[Independent Albums|US<br />Indie]]<ref>{{Cite news|url=https://www.billboard.com/artist/capone/chart-history/ind/|title=Capone Chart History|work=[[Independent Albums]]|access-date=November 21, 2018}}</ref>
+|-
+! scope="row" | ''Pain, Time & Glory''
+|
+* Released: July 12, 2005
+* Label: Fastlife
+| style="text-align:center;" |42
+| style="text-align:center;" |21
+| style="text-align:center;" |24
+|-
+! scope="row" | ''Menace 2 Society''
+|
+* Released: March 14, 2006
+* Label: Sure Shot Recordings
+| style="text-align:center;" |—
+| style="text-align:center;" |—
+| style="text-align:center;" |—
+|-
+! scope="row" | ''Revenge Is a Promise''
+|
+* Released: September 15, 2009
+* Label: [[SMC Recordings]]
+| style="text-align:center;" |—
+| style="text-align:center;" |—
+| style="text-align:center;" |—
+|-
+|}
+
+==Video games==
+* ''[[Def Jam Vendetta]]'' (2003) as himself
+* ''[[Def Jam: Fight for NY]]'' (2004) as himself<ref>{{cite web|url=https://www.imdb.com/title/tt0426436/?ref_=nv_sr_1|title=Def Jam: Fight for NY IMDB Page|work=[[IMDb]]|access-date=February 23, 2017}}</ref>
+* ''[[Def Jam Fight for NY: The Takeover]]'' (2006) as himself<ref>{{cite web|url=http://www.giantbomb.com/def-jam-fight-for-ny-the-takeover/3030-22083/characters/|title=Def Jam: Fight for NY: The Takeover|work=Giant Bomb|access-date=February 23, 2017}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Capone-N-Noreaga}}
+{{Authority control}}
+
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:American rappers of Haitian descent]]
+[[Category:American prisoners and detainees]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Rappers from Queens, New York]]
+[[Category:Gangsta rappers]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]

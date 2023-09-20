@@ -1,0 +1,100 @@
+{{Use American English|date=December 2022}}
+{{Use mdy dates|date=December 2022}}
+{{Short description|American rapper and producer}}
+{{Infobox musical artist
+| name             = Brad "Daddy X" Xavier
+| image            = 
+| caption          = 
+| birth_name       = Thomas Bradford Xavier
+| birth_date       = {{Birth date and age|1965|2|21}}
+| alias            = {{hlist|Jonny Bravo|Daddy&nbsp;X|Brad&nbsp;X|Extra&nbsp;X}}
+| origin           = [[Placentia, California]], U.S.
+| genre            = {{hlist|[[Hip hop music|Hip hop]]|[[punk rock]]}}
+| occupation       = Rapper, producer
+| years_active     = 1983–2016
+| website          = {{url|kottonmouthkings.com}}
+}}
+'''Thomas Bradford''' "'''Brad'''" '''Xavier''' (born February 21, 1965), known by his stage name '''Daddy X''', is an American [[hip hop music|hip hop]] producer and rapper.<ref>Boehm, Mike. (November 11, 1998) [[Los Angeles Times]] ''Pop Album Review: Emphatic, Catchy, but Humorless.'' Section: Calendar; Page 2</ref><ref>Baret, Nathalie. (August 11, 2006) [[Albuquerque Journal]] ''"Kings" develop music, clothing on their terms.'' Section: Venue; Page 24.</ref><ref>Gonzales, Ron. (March 30, 2007) [[Albuquerque Journal]]. ''Kottonmouth Kings kick career into hyper-drive.'' Section: Venue; Page 18</ref> He used to be in the [[Punk rock|punk]]/[[Hardcore punk|hardcore]] band [[Doggy Style (Band)|Doggy Style]] and the hip hop group Kottonmouth Kings in which he went by the stage name of Daddy X. He was the frontman for [[Kottonmouth Kings]], [[Humble Gods]], [[Doggy Style (band)|Doggy Style]], Double Freak and [[X-Pistols]] (with The Dirtball). He has a daughter named Sky Blue Xavier, and wrote a song for her on his debut solo album [[Organic Soul]].
+
+== Discography ==
+=== LPs ===
+{| class="wikitable" style="text-align:center"
+|-
+! # !! Title !! Year !! Label
+|- props to all KMK fans – Ese Wickid Siolent
+! 1
+| [[Organic Soul]] || 2004 || [[Subnoize Records|Suburban Noize Records]]
+|-
+! 2
+| [[Family Ties (Daddy X album)|Family Ties]] || 2006 || [[Subnoize Records|Suburban Noize Records]]
+|}
+
+=== Singles ===
+{| class="wikitable" style="text-align:center"
+|-
+! # !! Title !! Year !! Label !! Album
+|-
+! 1
+| Mindbender || 2006 || [[Subnoize Records|Suburban Noize Records]] || [[Family Ties (Daddy X album)|Family Ties]]
+|-
+! 2
+| All Seeing Eye || 2006 || [[Subnoize Records|Suburban Noize Records]] || [[Family Ties (Daddy X album)|Family Ties]]
+|}
+
+== Videography ==
+{| class="wikitable" style="text-align:center"
+|-
+! # !! Title !! Year !! Album !! Director !! Label
+|-
+! 1
+| Donut Shop Rock ('''''Doggy Style''''') || 1985 || '''''Side By Side''''' ||  || Flip Side Records
+|-
+! 2
+| Price Tag ('''''Humble Gods''''') || 1996 || [[No Heroes (Album)|No Heroes]] ||  ||
+|-
+! 3
+| Luna || 1996 || [[Relief Through Release]] ||  || [[Noise Records]]
+|-
+! 4
+| Destroy ('''''Humble Gods''''') || 2003 || [[Born Free (Humble Gods album)|Born Free]] ||  || [[Subnoize Records|Suburban Noize Records]]
+|-
+! 5
+| Irie Feelin' || 2004 || [[Organic Soul]] ||  || [[Subnoize Records|Suburban Noize Records]]
+|-
+! 6
+| Mindbender || 2006 || [[Family Ties (Daddy X album)|Family Ties]] ||  || [[Subnoize Records|Suburban Noize Records]]
+|-
+! 7
+| Freedom || 2006 || '''Family Ties''' || P-Nice || [[Subnoize Records|Suburban Noize Records]]
+|-
+! 8
+| Shoot To Kill ('''''X Pistols''''') || 2010 || [[Shoot to Kill (X-Pistols album)|Shoot To Kill]] || || [[Subnoize Records|Suburban Noize Records]]
+|-
+!9
+| Wild Side ('''''X Pistols''''') || 2011 || '''Shoot To Kill''' || || [[Subnoize Records|Suburban Noize Records]]
+|}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20130802100225/http://www.kottonmouthkings.com/ Kottonmouth Kings Official Site]
+* [https://web.archive.org/web/20070129021217/http://kottonmouthkings.com/kings_daddyx.php Kottonmouth Kings' Official Website Biography on Brad "Daddy" X]
+* [http://www.myspace.com/therealdaddyx Daddy X Official Myspace]
+
+{{Kottonmouth Kings}}
+
+{{Authority control}}
+
+[[Category:Suburban Noize Records artists]]
+[[Category:American rap rock musicians]]
+[[Category:1965 births]]
+[[Category:Living people]]
+[[Category:Underground rappers]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Rappers from California]]
+[[Category:21st-century American rappers]]
+
+
+{{US-hiphop-bio-stub}}
+{{US-record-producer-stub}}

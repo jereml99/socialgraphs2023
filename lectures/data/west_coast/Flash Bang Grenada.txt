@@ -1,0 +1,46 @@
+{{short description|American rapper}}
+
+{{About|the American hip hop duo|the less-lethal explosive device|Stun grenade}}
+{{Infobox musical artist
+| name            = Flash Bang Grenada
+| image           =
+| image_size      =
+| landscape       = <!-- yes, if wide image, otherwise leave blank -->
+| alt             =
+| caption         =
+| alias           =
+| origin          = [[Los Angeles]], [[California]]
+| genre           = [[hip hop music|Hip hop]]
+| years_active    = 2011–present
+| label           = [[Hellfyre Club]]
+| associated_acts =
+| website         = <!-- {{URL|example.com}} -->
+| current_members = [[Busdriver]]<br/>[[Nocando]]
+| past_members    = 
+}}
+'''Flash Bang Grenada''' is an American hip hop duo based in [[Los Angeles]], [[California]].<ref>{{cite web|first=Jeff|last=Weiss|url=http://latimesblogs.latimes.com/music_blog/2011/09/in-rotation-flash-bang-grenadas-10-haters.html|title=In Rotation: Flash Bang Grenada's "10 Haters"|work=[[Los Angeles Times]]|date=September 11, 2011|access-date=November 8, 2015}}</ref> It consists of [[Busdriver]] and [[Nocando]].<ref>{{cite web|first=Andrew|last=Noz|url=http://www.thefader.com/2011/07/01/flash-bang-grenada-busdriver-nocando-i-can-teleport-mp3/|title=Flash Bang Grenada (Busdriver & Nocando), "I Can Teleport" MP3|work=[[The Fader]]|date=July 1, 2011|access-date=November 8, 2015}}</ref>
+
+==History==
+Flash Bang Grenada released the debut album, ''[[10 Haters]]'', on [[Hellfyre Club]] in 2011.<ref>{{cite web|first=Brett|last=Uddenberg|url=http://www.urb.com/2011/10/06/flash-bang-grenada-10-haters/|title=Flash Bang Grenada – 10 Haters (Review)|work=[[URB (magazine)|URB]]|date=October 6, 2011|access-date=November 8, 2015|archive-url=https://web.archive.org/web/20111210074444/http://www.urb.com/2011/10/06/flash-bang-grenada-10-haters/|archive-date=December 10, 2011}}</ref> It featured vocal contributions from [[Open Mike Eagle]] and [[Del the Funky Homosapien]].<ref>{{cite web|first=Eddie|last=Stats|url=http://www.okayplayer.com/news/audio-flash-bang-grenada-in-a-perfect-world-f-open-mike-eagle-debut.html|title=Audio: Flash Bang Grenada "In A Perfect World" f/ Open Mike Eagle (Debut)|work=[[Okayplayer]]|date=August 11, 2011|access-date=November 8, 2015}}</ref><ref>{{cite web|first=Derek|last=Reed|url=http://www.cmj.com/news/busdriver-and-nocando-form-flash-bang-grenada/|title=Busdriver And Nocando Form Flash Bang Grenada|work=[[CMJ]]|date=July 13, 2011|access-date=November 8, 2015}}</ref> It was chosen by ''Alarm'' as one of the 50 Unheralded Albums from 2011.<ref>{{cite web|first=Scott|last=Morrow|url=http://alarm-magazine.com/best_albums/50-unheralded-albums-from-2011/4/|title=50 Unheralded Albums from 2011|work=Alarm|date=December 30, 2011|access-date=November 8, 2015|archive-url=https://web.archive.org/web/20121101022933/http://alarm-magazine.com/best_albums/50-unheralded-albums-from-2011/4/|archive-date=November 1, 2012}}</ref>
+
+==Discography==
+;Albums
+* ''[[10 Haters]]'' (2011)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Discogs artist|Flash Bang Grenada}}
+
+{{Authority control}}
+
+[[Category:Alternative hip hop groups]]
+[[Category:American musical duos]]
+[[Category:Musical groups established in 2011]]
+[[Category:Rappers from Los Angeles]]
+[[Category:West Coast hip hop musicians]]
+[[Category:2011 establishments in California]]
+
+
+{{Hiphop-bio-stub}}

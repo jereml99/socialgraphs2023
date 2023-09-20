@@ -1,0 +1,146 @@
+{{BLP sources|date=September 2015}}
+{{Infobox musical artist
+| name            = Bkorn
+| image           =
+| caption         =
+| birth_name      = Brandon Chase Korn
+| alias           = Bkorn
+| birth_date      = {{birth date and age|1991|3|15}}
+| birth_place     =
+| origin          = [[Woodcliff Lake, New Jersey]], United States
+| instrument      = {{hlist|[[Logic Pro]]|[[guitar]]|[[bass instrument|bass]]|[[drums]]|[[piano]]}}
+| genre           = {{hlist|[[Hip hop music|Hip hop]]|[[Rhythm and blues|R&B]]}}
+| occupation      = {{hlist|[[Record producer]]|[[songwriter]]}}
+| years_active    = 2009-present
+| label           = [[Sony/ATV Music Publishing|Sony ATV]]<ref>{{cite web|url=https://twitter.com/SonyATVMusicPub/status/638841043220307969|title=Sony/ATV on Twitter|website=Twitter.com}}</ref>
+| associated_acts = [[DJ Khaled]], [[Chinx]], [[Travis Scott]], [[Lil Kim]]
+}}
+
+'''Brandon Chase Korn''' (born March 15, 1991), professionally known as '''Bkorn''', is an American [[record producer]]. Bkorn is best known for producing for [[Travis Scott]], [[DJ Khaled]], [[Nav (rapper)|Nav]], [[PnB Rock]], [[Chris Brown]], [[Lil Kim]], [[Chinx]], [[Lil Wayne]], and more.  In August 2015, Bkorn signed a publishing deal with [[Sony/ATV Music Publishing]].<ref>{{cite web|url=https://instagram.com/p/7GtItPrUO8/ |archive-url=https://ghostarchive.org/iarchive/instagram/sonymusicpub/1064736872349909948 |archive-date=2021-12-26 |url-access=registration|title=Instagram photo by Sony/ATV • Sep 1, 2015 at 10:29pm UTC|website=Instagram.com}}{{cbignore}}</ref>
+
+==Early life==
+Bkorn has been playing and writing music since he was 11 years old. As an avid rock and metal music fan, he began play the drums in 5th grade for band class, then self-taught himself how to play both guitar and bass."<ref>{{cite web|url=http://hiphopsince1987.com/2014/news/producers-of-dj-khaleds-hold-you-down-talk-creating-the-record-more-interview/|title=Producers Of DJ Khaled's 'Hold You Down' Talk Creating The Record & More (Interview)|date=9 September 2014|website=Hiphopsince1987.com}}</ref> In 2009, Bkorn started to produce primarily hip hop and R&B music using the Apple software application [[GarageBand]] typically producing [[Electronic dance music]] and cover versions of other popular songs. From there, he became more serious about a career in music production. In 2011, Bkorn graduated from [[University of Hartford]] with an Associate's degree in Contemporary Arts, and in 2014 he graduated from [[Ramapo College]] with a Bachelor's degree in Music Production.<ref name="ramapo.edu">{{cite web|url=http://www.ramapo.edu/success-stories/success-story/brandon-korn/|title=Brandon Korn - Success Stories|website=Ramapo.edu}}</ref>
+
+==Career==
+===Career beginnings===
+Bkorn continued producing throughout his college career, using [[Logic Pro]] to make beats. In 2012, Bkorn interned at Puff Daddy's studio, Daddy's House Recording Studio. In 2013, Bkorn landed his first placement on DJ Khaled's 7th studio album [[Suffering from Success]]. The song was "I'm Still".<ref name="ramapo.edu"/>
+
+===Present===
+Since then, Bkorn has co-produced DJ Khaled's 2014 [[RIAA]] Gold certified [[Hold You Down (DJ Khaled song)|Hold You Down]]<ref>[https://www.riaa.com/goldandplatinumdata.php?artist=%22Hold+You+Down%22]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and the 2015 single "How Many Times"; as well as late rapper [[Chinx]]'s first album single "On Your Body".
+In August 2015, Bkorn signed a publishing deal with [[Sony/ATV Music Publishing]]. Bkorn has also stated that he is interested in exploring [[pop music|pop]] and [[dance-pop]] music genres as well. More recently he worked on song Stargazing in the critically acclaimed album Astroworld by [[Travis Scott]]<ref name="LN">{{cite AV media notes|title=Astroworld|type=CD liner notes|others=[[Travis Scott]] | publisher=[[Epic Records]] | year=2018|id=88362-5}}</ref><ref>{{cite web|url=http://repertoire.bmi.com/StartPage.aspx|title=BMI {{!}} Repertoire Search|publisher=BMI|accessdate=May 8, 2019|at=Select "TITLE", type "Song" in the search engine, and click "Search".|archive-url=https://web.archive.org/web/20170406022825/http://repertoire.bmi.com/StartPage.aspx|archive-date=April 6, 2017|url-status=live}}</ref>
+
+== Production discography ==
+=== Singles produced ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" style="width:30em;" | Title
+! scope="col" colspan="3" | Chart positions
+! scope="col" rowspan="2" | Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Billboard Hot 100|US]]<br />
+! scope="col" style="width:3em;font-size:90%;" | [[Hot R&B/Hip-Hop Songs|US R&B/HH]]<br />
+! scope="col" style="width:3em;font-size:90%;" | [[Hot Rap Songs|US Rap]]<br />
+|-
+||2013
+|align="left"| "I'm Still"<br><small>([[DJ Khaled]] featuring [[Chris Brown]], [[Wale (rapper)|Wale]], [[Wiz Khalifa]] and [[Ace Hood]])</small> 
+| — || 54 || —
+| ''[[Suffering from Success]]''
+|-
+|rowspan="1"|2014
+|align="left"| "[[Hold You Down (DJ Khaled song)|Hold You Down]]"<br><small>([[DJ Khaled]] featuring [[Chris Brown]], [[Future (rapper)|Future]], [[August Alsina]] and [[Jeremih]]) </small>
+| 39 || 10 || —
+| ''[[I Changed a Lot]]''
+|-
+|rowspan="2"|2015
+|align="left"| "[[How Many Times (DJ Khaled song)|How Many Times]]"<br><small>([[DJ Khaled]] featuring [[Chris Brown]], [[Lil Wayne]] and [[Big Sean]]) </small>
+| 68  || 17 || 13
+| ''I Changed a Lot''
+|-
+|align="left"| "On Your Body"<br><small>([[Chinx]] featuring MeetSims)</small>
+| —  || — || —
+| ''[[Welcome to JFK]]''
+|-
+|rowspan="1"|2016
+|align="left"| "Stamina"<br><small>([[Moosh and Twist]] featuring [[Lil Uzi Vert]]) </small>
+| —  || — || —
+| ''Growing Pains''
+|-
+|rowspan="1"|2017
+|align="left"| "[[Took Us a Break]]"<br><small>([[Lil Kim]]) </small>
+| —  || — || —
+| ''Promotional Single''
+|-
+|rowspan="5"|2019
+|align="left"| "Control"<br><small>[[Vory]] </small>
+| —  || — || —
+| ''Lucky Me''
+|-
+|align="left"| "Nasty One"<br><small>[[Lil Kim]]  </small>
+| -  || - || -
+| ''-/-''
+|-
+|align="left"| "Stargazing"<br><small>[[Travis Scott]]  </small>
+| 10  || 17 || 10
+| ''Astroworld''
+|-
+|align="left"| "M.I.A."<br><small>[[Mitch (Singer)]]  </small>
+| -  || - || -
+| ''Girl Power''
+|-
+|align="left"| "Deez Streets"<br><small>[[PNB Rock]]  </small>
+| -  || - || -
+| ''Trapstar turned Popstar''
+|-
+|rowspan="1"|2020
+|align="left"| "Spent it"<br><small>[[Nav (rapper)|Nav]]</small>
+| —  || — || —
+| ''Good Intentions''
+|-
+|}
+
+<ref>{{Cite web|url=https://istandardproducers.com/bkorn/|title=Bkorn Talks Producing Lil Kim's 'Took Us A Break', How Beef Affects Producers & More|date=November 6, 2017|website=Istandardproducers.com}}</ref>
+<ref name="ramapo.edu"/>
+
+===2014===
+[[DJ Khaled]] - [[I Changed a Lot]] 
+*14 [[Hold You Down (DJ Khaled song)|Hold You Down Remix]] featuring [[Usher (singer)|Usher]], [[Rick Ross]], [[Fabolous]] and [[Ace Hood]]
+
+[[Coke Boys Records|Zack]]
+*Shots Going Off (featuring [[Chinx]]) <ref>{{cite web|url=https://twitter.com/bkornmusic/status/602550591869612033|title=bkorn on Twitter|website=Twitter.com}}</ref>
+
+[[Chinx]] - Cocaine Riot 4 
+*12 Thank You (featuring [[French Montana]] and Bynoe)
+
+===2015===
+[[Chinx]] - Cocaine Riot 5
+*12 Point Blank (featuring Zack) <ref>{{cite web|url=http://www.datpiff.com/Chinx-CR5-mixtape.674373.html|title=Chinx - CR5|website=Datpiff.com}}</ref>
+
+[[Chinx]] - [[Welcome to JFK]]
+*09 Don't Mind Me (featuring MeetSims)
+
+[[Chinx]]
+*On Your Body (Remix) featuring [[Rick Ross]] & Meet Sims <ref>{{cite web|url=https://itunes.apple.com/us/album/on-your-body-remix-feat.-rick/id1033248138|title=On Your Body (Remix) [feat. Rick Ross, Meet Sims] - Single by Chinx on Apple Music|website=Itunes.apple.com|date=24 August 2015 }}</ref>
+
+Omelly - On My Time Vol. 1
+*04 We Did That (featuring [[Meek Mill]])
+
+PnB Rock - RNB 3
+*02 What U Want
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bkorn}}
+[[Category:1991 births]]
+[[Category:Living people]]
+[[Category:American hip hop record producers]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Musicians from New Jersey]]
+[[Category:Ramapo College alumni]]
+[[Category:Sony Music Publishing artists]]
+[[Category:People from Woodcliff Lake, New Jersey]]
+[[Category:People from Bergen County, New Jersey]]
+[[Category:University of Hartford alumni]]

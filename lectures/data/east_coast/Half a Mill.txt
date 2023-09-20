@@ -1,0 +1,83 @@
+{{short description|American rapper}}
+
+{{More citations needed|date=May 2010}}
+{{Infobox musical artist
+| name              = Half a Mill
+| image             = Half a Mill.jpg
+| image_size        = 
+| caption           = 
+| background        = solo_singer
+| birth_name        = Jasun Wardlaw
+| birth_place       = [[Brooklyn, New York]], U.S.
+| alias             = <!--this field is not for nicknames. See [[Template:Infobox musical artist/doc]]-->
+| birth_date        = {{Birth date|1973|4|6}}
+| death_place       = Brooklyn, New York, U.S.
+| death_date        = {{Death date and age|2003|10|22|1973|1|25}}
+| instrument        = Vocals
+| genre             = [[Hip hop music|Hip hop]]
+| occupation        = [[Rapper]]
+| years_active      = 1992–2003
+| label             = Penalty <br> Warlock <br> Lo-Key
+| website           = 
+}}
+'''Jasun Wardlaw'''<ref name="Allmusic">{{cite web|last=Birchmeier|first=Jason|title=Half-A-Mill > Biography|url={{AllMusic|class=artist|id=p372304/biography|pure_url=yes}}|work=Allmusic|date=May 20, 2008|accessdate=March 7, 2010}}</ref> (April 6, 1973 &ndash; October 22, 2003) better known by his stage name '''Half a Mill''', was a [[Brooklyn]]-based American [[rapper]].
+
+==Career==
+Half a Mill was considered an underground rapper in the early 1990s. His mainstream breakthrough came in 1997 when he scored a guest spot on supergroup [[The Firm (hip hop group)|the Firm]]'s only release, ''[[The Album (The Firm album)|The Album]]''.
+
+==Personal life and death==
+Wardlaw committed suicide by shooting himself in the head in Brooklyn's Albany Projects on October 22, 2003. His body was found by police inside his apartment.<ref name="NYPD Daily Blotter">{{cite web|url=https://nypost.com/2003/10/24/nypd-daily-blotter-397/ |title=New York Post - NYPD Daily Blotter |date=24 October 2003 |publisher=nypost.com |accessdate=November 11, 2021}}</ref><ref name="VannDigit">{{cite web|url=https://www.vanndigital.com/bloodsport-claims-half-committed-suicide-firm-came-funeral/ |title=VannDigital - Bloodsport Claims Half A Mill Committed Suicide & No One From The Firm Came To His Funeral|publisher=vanndigital.com |accessdate=July 18, 2017}}</ref> He left behind a son, Jasun Jabbar Wardlaw Jr., who is a rapper and actor.<ref>{{Cite web|url=https://www.protejayatl.com/bio|title = BIO}}</ref>
+
+Half a Mill was the subject of the 2010 full-length documentary ''[[Player Hating: A Love Story]]'' by filmmaker [[Maggie Hadleigh-West]].<ref name="Player Hating">{{cite web|url=http://www.yomaggie.com/player-hating-a-love-story |title=Player Hating: A Love Story |publisher=YoMaggie.com |accessdate=May 6, 2017}}</ref>
+
+==Discography==
+{| class="wikitable"
+|-
+!  style="text-align:left; width:650px;"|Album information
+|-
+|align="left"|'''''Half-A-Mill Demo Tape''''' (with [[DJ Scratch]])
+*Released: 1995
+*Singles: "Any Day Can Be Ya Last"/"Another Homicide Scene"
+|-
+|align="left"|'''''[[Milíon]]'''''
+*Released: May 9, 2000
+*RIAA Certification: 40,000<ref name="Allmusic"/>
+*Billboard 200 chart position:
+*R&B/Hip-Hop chart position: 91<ref>[{{AllMusic|class=artist|id=p372304/charts-awards|pure_url=yes}} Charts & Awards - Milíon]</ref>
+*Singles: "Some Ni*gaz", "Thug Onez", "Where BK At"
+|-
+|align="left"|'''''Da Hustle Don't Stop'''''
+*Released: July 30, 2002
+*RIAA Certification:
+*Billboard 200 chart position:
+*R&B/Hip-Hop chart position:
+*Singles: "Still", "Soddom and Gomorrah", "Saprano Style"
+|}
+
+==See also==
+*[[List of murdered hip hop musicians]]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Half A Mill}}
+[[Category:1973 births]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Deaths by firearm in Brooklyn]]
+[[Category:Rappers from Brooklyn]]
+[[Category:Underground rappers]]
+[[Category:2003 deaths]]
+[[Category:Gangsta rappers]]
+[[Category:Murdered African-American people]]
+[[Category:East Coast hip hop musicians]]
+[[Category:American murder victims]]
+[[Category:20th-century American male musicians]]
+[[Category:2003 murders in the United States]]
+[[Category:20th-century African-American musicians]]
+[[Category:21st-century African-American people]]
+
+
+{{US-hiphop-bio-stub}}

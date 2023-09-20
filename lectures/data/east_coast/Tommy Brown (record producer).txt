@@ -1,0 +1,476 @@
+{{Short description|American record producer}}
+{{BLP sources|date=October 2020}}
+{{Infobox musical artist
+| name            = Tommy Brown
+| image           =
+| image_size      = 220
+| caption         = TB Hits logo
+| birth_name      = Thomas Lee Brown
+| alias           = TBHits
+| birth_date      = {{birth date and age|mf=yes|1986|5|1}}
+| birth_place     = [[Pittsburgh|Pittsburgh, Pennsylvania]], U.S.
+| genre           = {{flatlist|
+*[[Pop music|Pop]]
+*[[Contemporary R&B|R&B]]
+*[[Hip hop music|hip hop]]
+*[[Trap music|trap]]
+}}
+| occupation      = {{flatlist|
+*Record producer
+*songwriter
+*rapper
+}}
+| years_active    = 2008–present
+| label           = {{flatlist|
+*Vietom
+*[[Universal Music Publishing Group|Universal]]
+*[[UMG|Champagne Therapy]]<ref>{{cite web | url=https://www.universalmusic.com/universal-music-group-and-multi-platinum-producer-tommy-brown-launch-champagne-therapy-music-group/ | title=Universal Music Group and Multi-Platinum Producer Tommy Brown Launch Champagne Therapy Music Group | date=30 April 2019 }}</ref>
+}}
+| associated_acts = {{flatlist|
+*[[Ariana Grande]]
+*[[Victoria Monét]]
+*[[T.I.]]
+*[[Eric Bellinger]]
+*[[B.o.B]]
+}}
+}}
+
+'''Thomas Lee Brown''' (born May 1, 1986), also known as '''TBHits''', is an American record producer, songwriter and rapper. Brown currently lives in LA and was born and raised in [[Pittsburgh, Pennsylvania]]. He is an [[ASCAP]] award winner and a [[Grammy]] nominee. He has scored multiple chart topping albums while working with [[Ariana Grande]] on all six of her studio albums. Brown has also collected production credits for three songs on Grammy-award-winning artist [[Meghan Trainor]]'s second album, ''[[Thank You (Meghan Trainor album)|Thank You]]'' (2016).
+
+Brown learned from production greats [[Roy "Royalty" Hamilton]] and [[Rodney Jerkins]], while working alongside them and eventually creating a team of his own.
+
+==Producing and songwriting==
+Before working in music, Brown worked at [[Sears]] in [[Atlanta, Georgia]]. Every night, he would hand out around 50 CDs with his songs on them and snippets of [[The Notorious B.I.G.]]'s "Ten Crack Commandments" over the tracks. He was finally contacted by [[Gorilla Zoe]] who invited Brown to work in the studio with him.<ref>{{cite web|last1=Channel Dynamic|title=Tommy Brown Talks Early Grind and First Placement|url=https://www.youtube.com/watch?v=FKscvZrEnoQ|website=Youtube|date=January 29, 2014}}</ref> Originally, starting in 2008, Brown worked with production group Darkchild in his early career. During this time, he worked with artists such as [[Jennifer Lopez]], [[Wyclef Jean]]. He has also worked with [[The Black Eyed Peas]], most notably their song "[[Just Can't Get Enough (The Black Eyed Peas song)|Just Can't Get Enough]]".{{citation needed|date=August 2020}} In 2012, Brown became independent with publishing through [[Sony/ATV Music Publishing]]. He lives in [[Los Angeles]], producing tracks for established stars and new acts like [[Meek Mill]], [[Travis Scott (rapper)|Travis Scott]], [[Cee Lo Green]],<ref>{{cite web|last1=Channel Dynamic|title=Tommy Brown Details Working With CeeLo Green|url=https://www.youtube.com/watch?v=e66VQsn6KXQ|website=Youtube|date=January 29, 2014}}</ref> [[Nas]], [[T.I.]], [[Ariana Grande]], [[John Legend]], [[Teyana Taylor]], [[Cyhi the Prynce]], [[Victoria Monét]], [[Mario (American singer)|Mario]], [[Chrisette Michele]], Kelly Rowland, [[Twice]] and [[2 Chainz]].
+
+==Discography==
+{| class="wikitable"
+! Year
+! Song
+! Artist
+! Album
+|-
+|2010
+|"[[Just Can't Get Enough (Black Eyed Peas song)|Just Can't Get Enough]]"
+|[[Black Eyed Peas]]
+|''[[The Beginning (Black Eyed Peas album)|The Beginning]]''
+|-
+|2011
+|"Just A Friend"
+|Jasmine V
+| {{n/a|Non-album single}}
+|-
+| rowspan="5" |2012
+|"Write It On A Wall"
+|Xai
+| {{n/a|Non-album single}}
+|-
+|"Sin City"
+|[[GOOD Music]]
+|''[[Cruel Summer (GOOD Music album)|Cruel Summer]]''
+|-
+|"Introduction"
+| rowspan="2" |[[T.I.]]
+| rowspan="2" |''[[Trouble Man: Heavy Is the Head]]''
+|-
+|"Live On Tonight" (featuring [[Victoria Monét]])
+|-
+|"Who You're Around"
+|[[Meek Mill]]
+| ''[[Dreams and Nightmares]]''
+|-
+| rowspan="10" |2013
+| "36"
+|[[2 Chainz]]
+|''[[B.O.A.T.S. II: Me Time]]''
+|-
+|"Malice In Wonderland"
+|[[Victoria Monét]]
+| {{n/a|Non-album single}}
+|-
+|"Déjà Vu"
+|[[Coco Jones]]
+|''Made Of''
+|-
+| "Honeymoon Avenue"
+| rowspan="2" |[[Ariana Grande]]
+| rowspan="2" |''[[Yours Truly (Ariana Grande album)|Yours Truly]]''
+|-
+| "Daydreamin'"
+|-
+| "Visual Love"
+|[[Chrisette Michele]]
+|''[[Better (Chrisette Michele album)|Better]]''
+|-
+| "You Wouldn't Understand" (featuring [[Victoria Monét]])
+|[[Nas]]
+|''[[Life Is Good (Nas album)|Life Is Good]]''
+|-
+| "Animal"
+|[[Travi$ Scott]], [[B.o.B]] & T.I.
+|''[[G.D.O.D. (Get Dough or Die)]]''
+|-
+|"Find My Love"
+| rowspan="3" |[[Eric Bellinger]]
+|rowspan="3" | ''In The Meantime''
+|-
+|"Come Over"
+|-
+| rowspan="16" |2014
+|"Never Be Lonely"
+|-
+|"Made In China"
+| rowspan="6" |[[Victoria Monét]]
+| rowspan="4" |''Nightmares & Lullabies - Act 1''
+|-
+|"We Are People"
+|-
+|"Backyard"
+|-
+|"For The Trill"
+|-
+|"Save Me"
+| {{n/a|Non-album single}}
+|-
+|"Would You Wait"
+| {{n/a|Non-album single}}
+|-
+|"Intro"
+| rowspan="4" |[[Ariana Grande]]
+| rowspan="4" |''[[My Everything (Ariana Grande album)|My Everything]]''
+|-
+|"My Everything"
+|-
+|"Only 1"
+|-
+|"Cadillac Song"
+|-
+| "Ya Digg"
+|[[Shad da God]], Travi$ Scott, Spodee, T.I.
+|''[[G.D.O.D. II]]''
+|-
+|"[[New National Anthem]]" (featuring [[Skylar Grey]])
+| rowspan="2" |T.I.
+| rowspan="2" |''[[Paperwork (T.I. album)|Paperwork]]''
+|-
+|"Stay"
+|-
+|"Lean On Me"
+|[[B.o.B.]], Victoria Monét
+|''No Genre 2''
+|-
+|"Drunk Texting" (featuring [[Jhené Aiko]])
+|[[Chris Brown]]
+|''[[X (Chris Brown album)|X]]''
+|-
+| rowspan="19" |2015
+|"Everlasting Love"
+| rowspan="2" |[[Fifth Harmony]]
+| rowspan="2" |''[[Reflection (Fifth Harmony album)|Reflection]]''
+|-
+|"We Know"
+|-
+|"A Little More" (featuring [[Victoria Monet]])
+| rowspan="2" |[[Machine Gun Kelly (rapper)|Machine Gun Kelly]]
+| rowspan="2" |''[[General Admission (MGK album)|General Admission]]''
+|-
+|"Therapy"
+|-
+|"Intro"
+| rowspan="6" |[[Ariana Grande]]
+| rowspan="6" |''[[Christmas & Chill]]''
+|-
+|"Wit It This Christmas"
+|-
+|"December"
+|-
+|"Not Just on Christmas"
+|-
+|"True Love"
+|-
+|"Winter Things"
+|-
+|"More Of You"
+| rowspan="7" |[[Victoria Monét]]
+| rowspan="7" | ''Nightmares & Lullabies Act 2''
+|-
+|"Will I Do"
+|-
+|"Good Time x Trouble
+|-
+|"See The Light"
+|-
+|"Cupid"
+|-
+|"90's Babies"
+|-
+|"High Love"
+|-
+|"Maybe Never"
+|[[Eric Bellinger]]
+| ''Cuffing Season''
+|-
+|"Trippin On Me"
+|Tommy Brown
+|
+|-
+| rowspan="16" |2016
+|"Memories Faded"
+|[[Twenty88|TWENTY88]]
+|''[[Twenty88|TWENTY88]]''
+|-
+|"Yo te amo a ti" / "I Want You" {{small|(as Thomas Brown)}}
+|[[Martina Stoessel]], [[Jorge Blanco (musician)|Jorge Blanco]]
+|''[[Tini (album)|Tini]]''
+|-
+|"Moonlight"
+| rowspan="7" |[[Ariana Grande]]
+| rowspan="7" |''[[Dangerous Woman (album)|Dangerous Woman]]''
+|-
+|"[[Be Alright (Ariana Grande song)|Be Alright]]"
+|-
+|"[[Let Me Love You (Ariana Grande song)|Let Me Love You]]" (featuring [[Lil Wayne]])
+|-
+|"Leave Me Lonely" (featuring [[Macy Gray]])
+|-
+|"I Don't Care"
+|-
+|"Knew Better / Forever Boy"
+|-
+|"Step On Up"
+|-
+|"Take Da Wheel"
+|[[T.I.]]
+| ''Us or Else: Letter to the System''
+|-
+|"Get My Shit Together"
+|[[Big Sean]]
+| {{n/a|Non-album single}}
+|-
+|"Forgive Me Father"
+|[[DJ Khaled]], [[Meghan Trainor]], [[Wiz Khalifa]], [[Wale (rapper)|Wale]]
+| ''[[Major Key (album)|Major Key]]''
+|-
+|"Better"
+| [[Meghan Trainor]]
+| ''[[Thank You (Meghan Trainor album)|Thank You]]''
+|-
+|"No Pressure"
+|[[Pia Mia]]
+| {{n/a|Non-album single}}
+|-
+|"Night Bag"
+|[[Eric Bellinger]]
+| ''Choose Up Season''
+|-
+|"No Way"
+| rowspan="2" |[[Fifth Harmony]]
+|''[[7/27]]''
+|-
+| rowspan="7" |2017
+| "Bridges"
+| ''[[Fifth Harmony (album)|Fifth Harmony]]''
+|-
+|"Rock Your Body"
+|Chris Brown
+|[[Heartbreak on a Full Moon|''Heartbreak On A Full Moon'']]
+|-
+|"One At A Time"
+|Alex Aiono & T-Pain
+|
+|-
+|"Poison"
+| rowspan="3" |Njomza
+| rowspan="3" | ''Sad For You''
+|-
+|"Someone Like Me"
+|-
+|"Perfect Fit"
+|-
+|"Who Died"
+|[[T-Pain]]
+| ''[[Oblivion (T-Pain album)|Oblivion]]''
+|-
+| rowspan="11" |2018
+|"Better Off"
+| rowspan="3" |[[Ariana Grande]]
+| rowspan="3" |''[[Sweetener (album)|Sweetener]]''
+|-
+|"[[Goodnight and Go#Ariana Grande version|Goodnight n Go]]"
+|-
+|"[[Pete Davidson (song)|Pete Davidson]]"
+|-
+|"You" (featuring [[Teyana Taylor]])
+|T.I.
+|''[[Dime Trap]]''
+|-
+|"Dinero"
+|[[Jennifer Lopez|J.Lo]], [[Cardi B]], [[DJ Khaled]]
+| {{n/a|Non-album single}}
+|-
+|"Freak"
+|Victoria Monét
+| ''Life After Love, Pt. 1''
+|-
+|"[[Sugar Daddy (Macy Gray)|Sugar Daddy]]"
+| rowspan="4" |Macy Gray
+| rowspan="4" |''[[Ruby (Macy Gray album)|Ruby]]''
+|-
+|"Witness"
+|-
+|"Just Like Jenny"
+|-
+|"White Man"
+|-
+|"[[Thank U, Next (song)|Thank U, Next]]"
+| rowspan="5" |[[Ariana Grande]]
+| rowspan="5" |''[[Thank U, Next]]''
+|-
+| rowspan="9" |2019
+|"[[7 Rings]]"
+|-
+|"[[Needy (song)|Needy]]"
+|-
+|"[[NASA (Ariana Grande song)|NASA]]"
+|-
+|"Make Up"
+|-
+|"[[Boyfriend (Ariana Grande and Social House song)|Boyfriend]]"
+|[[Ariana Grande]], [[Social House]]
+|''[[Everything Changed...]]''
+|-
+|"Got Her Own"
+|[[Ariana Grande]], [[Victoria Monét]]
+|''[[Charlie's Angels: Original Motion Picture Soundtrack|Charlie's Angels]]''
+|-
+|"Love Me"
+|Stanaj
+| {{n/a|Non-album single}}
+|-
+|"Make Believe"
+|[[Juice Wrld]]
+| ''[[Death Race for Love]]''
+|-
+|"Usually"
+| rowspan="2" |[[DaniLeigh]]
+|''My Present''
+|-
+| rowspan="20" |2020
+|"Dominican Mami"
+| {{n/a|Non-album single}}
+|-
+|"Rich"
+|[[Megan Thee Stallion]]
+|''[[Suga (EP)|Suga]]''
+|-
+|"You Can't Hold My Heart"
+|[[Monsta X]]
+|''[[All About Luv]]''
+|-
+|"[[Ice Cream (Blackpink and Selena Gomez song)|Ice Cream]]" (with [[Selena Gomez]])
+| rowspan="2" |[[Blackpink]]
+| rowspan="2" |''[[The Album (Blackpink album)|The Album]]''
+|-
+|"[[Bet You Wanna]]" (featuring [[Cardi B]])
+|-
+|"[[Holy (Justin Bieber song)|Holy]]"
+|[[Justin Bieber]] featuring [[Chance the Rapper]]
+|''[[Justice (Justin Bieber album)|Justice]]''
+|-
+|"[[Positions (song)|Positions]]"
+| rowspan="14" |[[Ariana Grande]]
+| rowspan="14" |''[[Positions (album)|Positions]]''
+|-
+|"[[34+35]]"
+|-
+|"shut up"
+|-
+|"motive" (with [[Doja Cat]])
+|-
+|"just like magic"
+|-
+|"Off The Table" (with [[The Weeknd]])
+|-
+|"six thirty"
+|-
+|"safety net" (featuring [[Ty Dolla Sign]])
+|-
+|"my hair"
+|-
+|"nasty"
+|-
+|"west side"
+|-
+|"love language"
+|-
+|"obvious"
+|-
+|"pov"
+|-
+| rowspan="9" |2021
+|"someone like you - interlude"
+| rowspan="5" |[[Ariana Grande]]
+| rowspan="5" |''[[Positions (album)|Positions]] (Deluxe)''
+|-
+|"test drive"
+|-
+|"34+35 Remix (feat. Doja Cat, Megan Thee Stallion)"
+|-
+|"worst behavior"
+|-
+|"main thing"
+|-
+|"What Happens Here"
+|[[Zara Larsson]]
+|''[[Poster Girl (album)|Poster Girl]]''
+|-
+|"[[Met Him Last Night]]" (featuring [[Ariana Grande]])
+|[[Demi Lovato]]
+|''[[Dancing with the Devil... the Art of Starting Over]]''
+|-
+|"[[Scientist (Twice song)|Scientist]]"
+|[[Twice]]
+|''[[Formula of Love: O+T=＜3|Formula of Love: O+T=<3]]''
+|-
+| "[[Take It Home (Mabel song)|Take It Home]]"
+|[[Mabel (singer)|Mabel]]
+|''[[Pokémon 25th Anniversary|Pokémon 25: The Album]]''
+|-
+| rowspan="6" |2022
+|"Is There Someone Else"
+| rowspan="2" |[[The Weeknd]]
+| rowspan="2" | ''[[Dawn FM]]''
+|-
+|"Starry Eyes"
+|-
+| "Don Quixote"
+| rowspan="2" | [[Seventeen (South Korean band)|Seventeen]]
+| ''[[Face the Sun]]''
+|-
+| "World"
+| ''Sector 17''
+|-
+|"Skye’s The Limit"<ref>{{Cite web |last=Staff |first=OK! |date=2022-05-23 |title=Skye Yayoi Drynan Releases Debut Single 'Skye's The Limit' Alongside Surprise Cameo In The Season Two Finale of Netflix's 'Bling Empire' |url=https://okmagazine.com/p/skye-yayoi-debut-single-skyes-the-limit/ |access-date=2023-02-23 |website=OK Magazine |language=en-US}}</ref>
+|[[Skye Drynan]]
+|Single
+|-
+|"In the Kitchen"
+| [[Reneé Rapp]]
+| ''[[Everything to Everyone (EP)|Everything to Everyone]]''
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|http://tbhits.com}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brown, Tommy}}
+[[Category:1986 births]]
+[[Category:American hip hop record producers]]
+[[Category:Businesspeople from Pittsburgh]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Living people]]
+[[Category:Record producers from Pennsylvania]]
+[[Category:Songwriters from Pennsylvania]]

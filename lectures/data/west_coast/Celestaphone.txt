@@ -1,0 +1,88 @@
+{{For|the instrument|Celestaphone (instrument)}}
+
+{{Use mdy dates|date=May 2015}}
+{{Infobox musical artist
+| name            = Celestaphone
+| image           = Celestaphone_-_March_2015.png
+| birth_name      = Joseph Murphy<ref name="discogs page"/>
+| alias           = Cele
+| birth_date      = {{birth date and age|1996|10|04}}
+| origin          = [[Riverside, California|Riverside]], California, United States
+| genre           = [[Hip hop music|Hip hop]], [[instrumental hip hop]], [[plunderphonics]]
+| occupation      = Record producer, musician
+| years_active    = 2013–present
+| associated_acts = {{hlist|[[MC Paul Barman]]|[[Dionté BOOM]]}}
+| website         = {{URL|celestaphone.com}}
+}}
+'''Joseph Murphy''' (born October 4, 1996), professionally known as '''Celestaphone''', is an American [[record producer|music producer]] from [[Southern California]].<ref name="discogs page">{{cite web|url=http://www.discogs.com/artist/4249539-Celestaphone|title=Explore on Discogs|publisher=Discogs|date=January 31, 2015|accessdate=January 31, 2015}}</ref><ref>{{cite web|url=http://tradiio.com/blog/international-artist-of-the-month-celestaphone|title=Tradiio - Celestaphone|publisher=Tradiio|accessdate=June 1, 2015}}</ref>
+
+==Early life==
+Celestaphone was born in [[Riverside, California]].<ref name="discogs page"/> The name originates from the zither instrument, the [[Celestaphone (instrument)|Celestaphone]].
+
+==Music career==
+Celestaphone released his first solo EP, ''Glorifying'', in October 2014.<ref>{{cite web|url=https://cele.bandcamp.com/album/glorifying-ep/|title=Glorifying EP|date=October 22, 2014|publisher=Bandcamp|accessdate=2014-10-22}}</ref> His first collaborative effort was producing [[Dionté BOOM]]'s single ''Fish Market.''<ref>{{cite web|first=Ervin|last=Harris|url=https://soundcloud.com/king-boom/fish-market|title=Fish Market|publisher=SoundCloud|date=January 8, 2015|accessdate=2015-01-08}}</ref> The song was included in a 2015 edition of the [[Arkansas Times|Arkansas Times's]] Rock Candy journal.<ref>{{cite web|first=Will|last=Stephenson|url=http://www.arktimes.com/RockCandy/archives/2015/02/11/new-music-from-the-wandering-lake-dionte-boom-radradriot-pepperboy-and-more|title=New music from The Wandering Lake, Dionte BOOM, Radradriot, Pepperboy and more|publisher=[[Arkansas Times]]|date=February 11, 2015}}</ref>
+
+''Menu (01-30)'' and ''Trust (31–60)'' mixtapes followed.<ref>{{cite web|url=https://cele.bandcamp.com/album/menu-01-30|title=Menu (01-30)|publisher=Bandcamp|date=February 8, 2015|accessdate=2015-02-08}}</ref> In 2016, Murphy published a second EP entitled ''Minappi's Last Wondrous Escapade,''<ref>{{Cite web|url=https://cele.bandcamp.com/album/minappis-last-wondrous-escapade|title=Minappi's Last Wondrous Escapade|date=April 5, 2016|website=Bandcamp|access-date=2017-09-05}}</ref> and in 2017 released three full-length albums: ''Robosoul'',<ref>{{Cite web|url=https://cele.bandcamp.com/album/robosoul|title=Robosoul|date=January 9, 2017|website=Bandcamp|access-date=2017-09-05}}</ref> ''To Cite Psych'',<ref>{{Cite web|url=https://cele.bandcamp.com/album/to-cite-psych|title=To Cite Psych|date=June 28, 2017|website=Bandcamp|access-date=2017-09-05}}</ref> and ''To Cite Fright''.<ref>{{Cite web|url=https://cele.bandcamp.com/album/to-cite-fright|title=To Cite Fright|date=September 18, 2017|website=Bandcamp|access-date=2017-09-19}}</ref> The EP, along with album ''To Cite Fright'' received a nod from Raoul Rego, former webmaster at [[WREK]], in an interview with the station published by [[Bandcamp]] Daily.<ref>{{Cite web|url=https://daily.bandcamp.com/2018/08/15/better-know-a-college-radio-station-georgia-techs-wrek/|title=Better Know A College Radio Station: Georgia Tech's WREK|last=Grossan|first=Ally-Jane|date=2018-08-15|website=Bandcamp|language=en|access-date=2018-12-15}}</ref> ''Portrait of a Harlot'' was released on March 3, 2018.<ref>{{Cite web|url=https://cele.bandcamp.com/album/portrait-of-a-harlot|title=Portrait of a Harlot, by Celestaphone|date=2018-03-03|website=Bandcamp|access-date=2018-12-15}}</ref>
+
+His first vocal album, ''Tying Up Loose Friends'', was released on July 30, 2018.<ref>{{Cite web|url=https://cele.bandcamp.com/album/tying-up-loose-friends|title=Tying Up Loose Friends, by Celestaphone|date=2018-07-30|website=Bandcamp|access-date=2018-12-15}}</ref> 
+<br />
+
+==Discography==
+
+===Solo===
+* ''[[Paper Cut From the Obit]]'' (2023)
+* ''Weevil in Disguise'' (2020)
+* ''Tying Up Loose Friends'' (2018)
+* ''Portrait of a Harlot'' (2018)
+* ''To Cite Fright'' (2017)
+* ''To Cite Psych'' (2017)
+* ''Robosoul'' (2017)
+* ''Minappi's Last Wondrous Escapade'' (2016)
+* ''Trust (31–60)'' (2015)
+* ''Menu (01-30)'' (2015)
+* ''Glorifying'' (2014)
+
+=== Collaborative albums ===
+* ''[[A Year of Octobers]]'' (2021) {{small|(with [[MC Paul Barman|YOUNGMAN]])}}
+
+===Production discography===
+{| class="wikitable"
+|-
+! style="width:55px;"| Year
+! style="width:255px;"| Song/Album
+! style="width:290px;"| Artist
+! style="width:255px;"| Credits
+|-
+| rowspan=3 style="text-align:center;"|2015
+| "Fish Market"
+| [[Dionté BOOM]]
+| Production, mixing.
+|-
+| ''In Motion 2''
+| Dionté BOOM
+| Production, mixing.
+|-
+| "Let The Bands Play"
+| Dionté BOOM
+| Production, mixing.
+|-
+|}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Sisterlinks|d=Q19341086|v=no|b=no|wikt=no|commons=Category:Celestaphone|m=no|mw=no|species=no|n=no|voy=no|s=no|q=no}}
+* {{Discogs artist|Celestaphone}}
+* {{SoundCloud|cele}}
+* {{Twitter|celestaphone}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Celestaphone}}
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:American hip hop record producers]]
+[[Category:Record producers from California]]
+[[Category:American hip hop DJs]]
+[[Category:West Coast hip hop musicians]]

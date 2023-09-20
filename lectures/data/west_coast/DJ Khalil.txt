@@ -1,0 +1,65 @@
+{{Use mdy dates|date=May 2022}}
+{{short description|American record producer and DJ from Washington}}
+{{distinguish|DJ Khaled}}
+{{Infobox musical artist
+| image           =
+| name            = DJ Khalil
+| birth_name      = Khalil Abdul-Rahman
+| birth_date      = {{birth date and age|1973|10|16}}
+| birth_place     = [[Seattle, Washington]], U.S.
+| alias           = Doc Hazzard
+| origin          = [[Los Angeles]], [[California]], U.S.
+| genre           = {{hlist|[[Hip hop music|Hip hop]]|[[Soul music|soul]]}}
+| occupation      = {{hlist|Record producer|DJ}}
+| years_active    = 1997-present
+| label           = {{flatlist|
+* S.O.L.
+* Landspeed
+* [[Nature Sounds]]
+* [[Up Above Records|Up Above]]
+* [[Aftermath Entertainment|Aftermath]]}}
+| current_member_of = {{flatlist|
+*[[The New Royales]]
+*[[Strong Arm Steady]]
+*[[Soul Assassins]]}}
+| website         = {{URL|twitter.com/djkhalil}}
+}}
+
+'''Khalil Abdul-Rahman Hazzard''' (born October 16, 1973), professionally known as '''DJ Khalil''', is an American [[music producer]] and [[disc jockey|DJ]] from [[Los Angeles]]. He is the instrumental half of the hip hop duo Self Scientific (along with rapper Chace Infinite) and a member of the group [[The New Royales]], which also includes Liz Rodrigues, [[Erik Alcock]] and Pranam [[Chin Injeti]]. He produced the albums ''[[Recovery (Eminem album)|Recovery]]'' and ''[[The Marshall Mathers LP 2]]'' by the rapper [[Eminem]], as well as the multi-platinum single "[[The Man (Aloe Blacc song)|The Man]]" by [[Aloe Blacc]]. He is the third born son of former UCLA player and coach and NBA player [[Walt Hazzard]].
+
+==Early life==
+DJ Khalil was born Khalil Abdul-Rahman in [[Seattle, Washington]], and raised in Los Angeles, California. His father, [[Walt Hazzard]], who later changed his name to Mahdi Abdul-Rahman, was a professional basketball player in the [[National Basketball Association]]. At age 13, at a party thrown by his parents, he met [[Dr. Dre]], for whom he would later become a staff producer.<ref>{{cite web|title=DJ Khalil Interview|url=http://aftermathmusic.com/cms/2014/06/dj-khalil-interview-urban-daily/|website=aftermathmusic.com}}</ref> Khalil played basketball at the high school and collegiate level, as a point guard at [[North Hollywood High School]] and [[Morehouse College]].<ref>{{cite web|title=NBA free agency might end up as boring rerun|url=http://articles.latimes.com/2010/jul/01/sports/la-sp-0701-crowe-20100701|website=[[Los Angeles Times]]|date=July 2010 }}</ref>
+
+==Career==
+Khalil began his career as a [[disc jockey]] (DJ), and graduated to producing music. He began creating tracks on the [[Ensoniq ASR-10]] sampler workstation, later working in Propellerhead [[Reason (software)|Reason]].<ref>{{cite web|title=Artist Stories|url=https://www.propellerheads.se/substance/artist-stories/index.cfm?article=dj-khalil&fuseaction=get_article|website=www.propellerheads.se/}}</ref> He has produced for a large number of major artists in the hip-hop, R&B and pop genres, including [[Kanye West]], [[50 Cent]], [[Pink (singer)|Pink]], [[The Game (rapper)|The Game]], [[ASAP Rocky]], [[Drake (rapper)|Drake]], [[Eminem]], [[G-Unit]], [[Wale (rapper)|Wale]], [[Usher (singer)|Usher]] and Guess Who.
+
+==Discography==
+{{Main|DJ Khalil production discography}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{AllMusic|class=artist|id=mn0000663578|label=DJ Khalil}}
+* {{Discogs artist | artist=DJ+Khalil | name=DJ Khalil}}
+
+{{Aftermath Entertainment}}
+{{Strong Arm Steady}}
+{{Soul Assassins}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Khalil, DJ}}
+[[Category:African-American record producers]]
+[[Category:Aftermath Entertainment artists]]
+[[Category:American hip hop record producers]]
+[[Category:American hip hop DJs]]
+[[Category:African-American DJs]]
+[[Category:Living people]]
+[[Category:DJs from Los Angeles]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Record producers from California]]
+[[Category:1973 births]]
+[[Category:North Hollywood High School alumni]]
+[[Category:21st-century African-American people]]
+[[Category:20th-century African-American people]]

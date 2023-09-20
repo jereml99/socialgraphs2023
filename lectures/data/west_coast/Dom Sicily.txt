@@ -1,0 +1,74 @@
+{{short description|American rapper}}
+
+{{Infobox musical artist
+| name            = Dom Sicily
+| image           =
+| caption         =
+| birth_name      = Dominic Michael Merendino-Sarich
+| alias           = Def Dee, SCLY
+| birth_date      = {{birth date and age|1989|08|31}}
+| birth_place     = [[Seattle]], [[Washington (state)|Washington]], U.S.
+| origin          = [[Brooklyn]], [[New York (state)|New York]], U.S.
+| death_date      =
+| genre           = [[Hip hop music|Hip hop]]
+| occupation      = [[Record producer]], [[Rapping|Rapper]], [[Disc jockey|DJ]]
+| instruments     = Vocals, [[Music Production Controller|MPC]], [[Maschine]]
+| years_active    = 2010–present
+| label           = {{flatlist|
+* F5 Records <small>(present)</small>
+* Redefinition Records
+* [[Mello Music Group]] <small>(former)</small>
+}}
+| associated_acts = [[Damu the Fudgemunk]], [[One Be Lo]], [[Blu (rapper)|Blu]], Dyemond Lewis
+| website         = {{url|www.sicilyny.com/|sicilyny.com}}
+}}
+
+'''Dominic Michael Merendino-Sarich''' (born August 31, 1989), better known  by his [[stage name]] '''Dom Sicily''' (formerly '''Def Dee'''), is an American [[record producer]], [[rapper]], [[disc jockey]] (DJ) from [[Seattle, Washington]].  He is of [[Sicily|Sicilian]] and [[Croatia]]n descent.
+
+== Biography ==
+Dom Sicily started off originally as a DJ when he was in sixth grade before he became a producer/rapper.<ref>{{cite web|author= |url=https://206up.com/2011/04/06/download-interview-cheap-heat-beat-tape-def-dee/ |title=Download & Interview: Cheap Heat (Beat Tape) - Def Dee |publisher=206up.com |date=2011-04-06 |accessdate=2016-11-09}}</ref> He went on a field trip to a music exhibit when he was in the sixth grade that specialized in [[Hip hop music|Hip hop]] history, after the trip he fell in love with the history of hip hop. He then became obsessed with his turntables and really believed that he was Q from [[Juice (1992 film)|Juice]] in a past life. Sicily eventually wanted to create the music that he was hearing. He started off using [[FL Studio|Fruity Loops]], [[GarageBand]], and then the [[Music Production Controller|MCP2000XL]].
+
+Dom Sicily's first album release was his collaboration with [[Seattle]] rapper LA entitled "Gravity" that released in April 2010.<ref>{{cite web|author= |url=http://www.thestranger.com/lineout/archives/2010/04/26/def-dee-and-la |title=Def Dee & LA |publisher=thestranger.com |date=2010-04-26 |accessdate=2016-11-09}}</ref> A year later, Dom Sicily released his first instrumental album "Cheap Heat" in 2011 that gained the attention of [[Mello Music Group]].<ref>{{cite web|author= |url=http://www.mellomusicgroup.com/pages/def-dee |title=Def Dee |publisher=mellomusicgroup.com |date=2012-01-01 |accessdate=2016-11-09}}</ref> After the release of "Cheap Heat", he signed a developmental deal with Mello Music Group and re-released "Cheap Heat" under their banner in 2012. In 2013, he released his debut album "33 and a Third" which featured guest appearances from [[Black Milk]], [[Oddisee]], [[One Be Lo]], [[Kenn Starr (rapper)|Kenn Starr]], and more.<ref>{{cite web|author= |url=https://itunes.apple.com/us/album/33-and-a-third/id662846240 |title= Def Dee - 33 and a Third |publisher=itunes.apple.com |date=2013-06-23 |accessdate=2016-11-09}}</ref> On September 9, 2014, Dom Sicily released his sophomore album entitled "Deja Vu" through Redefinition Records which featured [[Roc Marciano]], [[Blu (rapper)|Blu]], [[El Da Sensei]] and others.<ref>{{cite web|author= |url=https://itunes.apple.com/us/album/deja-vu/id908454945 |title=Def Dee - Deja Vu |publisher=itunes.apple.com |date=2014-09-09 |accessdate=2016-11-09}}</ref>
+
+In the summer of 2015, Dom Sicily released his second instrumental album "D-1000".<ref>{{cite web|author= |url=https://itunes.apple.com/us/album/d-1000/id1030507818 |title=Def Dee - D-1000 |publisher=itunes.apple.com |date=2015-08-21 |accessdate=2016-11-09}}</ref> On April 29, 2016, Dom Sicily released a limited edition 7" vinyl for his EP "The Guide" through F5 Records.<ref>{{cite web|author= |url=http://f5records.com/music/def-dee-the-guide-7/ |title=Def Dee - Def Dee The Guide 7 |publisher=f5records.com |date=2016-04-29 |accessdate=2016-11-09}}</ref> In August, he changed his stage name from Def Dee to Dom Sicily.
+
+== Discography ==
+
+===Studio albums===
+*''[[33 and a Third]]'' (2013)
+*''Deja Vu'' (2014)
+
+===EP's===
+*''The Guide'' (2016)
+
+===Instrumentals===
+*''Cheap Heat'' (2011)
+*''D-1000'' (2015)
+
+===Remix albums===
+*''Take That (Mase Deemixes)'' (2012)
+*''Jesus Piece Remixes'' (2016)
+
+===Collaborations===
+*''Gravity'' (2010) <small>(with La)</small>
+*''Zula Delta EP'' (2013) <small>(with  Zar)</small>
+*"Concrete Waves" (2016) <small>(with Kung Foo Grip) </small>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{official website|http://www.sicilyny.com/}}
+* {{soundcloud|domsicily|Dom Sicily}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sicily, Dom}}
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:American hip hop record producers]]
+[[Category:American male rappers]]
+[[Category:American hip hop DJs]]
+[[Category:West Coast hip hop musicians]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]

@@ -1,0 +1,56 @@
+{{Short description|African-American musician, rapper, hip-hop producer}}
+{{About|the rap musician|the golfer|Sam Snead}}
+{{BLP sources|date=December 2011}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name                = Sam Sneed
+| image               = 
+| image_size          = 
+| caption = Sneed (right) with [[Danny Boy (singer)|Danny Boy]] and [[Nat Powers]]
+| birth_name          = Samuel D. Anderson<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/882520202 |title=COLD WORLD |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 29, 2023}}</ref>
+| birth_place         = [[McKeesport, Pennsylvania]], U.S.<ref name="McKeesport"/>
+| birth_date          = {{Birth date and age|1968|02|29}}
+| death_date          = 
+| origin              = [[Los Angeles, California]], U.S.<ref name="McKeesport"/>
+| genre               = [[Hip hop music|Hip hop]]
+| occupation          = {{hlist|[[Rapper]]|[[Record producer|producer]]}}
+| years_active        = 1991–present<ref name="McKeesport"/>
+| label               ={{hlist|[[Death Row Records|Death Row]]<ref name="Row">{{cite web|author=Paul Arnold|url=https://hiphopdx.com/news/id.13484/title.sam-sneed-talks-dr-dres-abandonment-and-that-crazy-meeting-with-tupac|title=Sam Sneed Talks Dr. Dre's Abandonment And "That Crazy Meeting" With Tupac|publisher=[[HipHopDX]]|date=2010-12-28|accessdate=2019-09-20}}</ref>|[[Roc-A-Fella Records|Roc-A-Fella]]|Street Scholar Ent.(current)}}
+| associated_acts     ={{hlist|[[J-Flexx]]|[[Dr. Dre]]|[[Snoop Dogg]]|[[Tha Dogg Pound]]|[[Nat Powers]]}}
+}}
+
+'''Sam Sneed''' (born '''Samuel D. Anderson'''; February 29, 1968) is an American [[record producer|producer]] and [[rapper]]. He originally got his start working as a producer for [[K-Solo]] and the [[Hit Squad]].<ref name="McKeesport">{{cite web|author=Jake Paine|url=https://www.post-gazette.com/ae/music/2011/02/03/Surviving-Death-Row-Two-decades-later-Sam-Sneed-McKeesport-rapper-producer-s-Dre-assisted-debut-is-finally-released/stories/201102030659|title=Surviving Death Row: Two decades later, Sam Sneed, McKeesport rapper/producer's Dre-assisted debut is finally released|date=2011-02-03|accessdate=2019-09-19}}</ref>
+
+==Biography==
+===Early years===
+In 1993 he was signed to [[Death Row Records]], releasing only one single, "[[U Better Recognize]]" featuring [[Dr. Dre]], in 1994.  The single appeared on the ''[[Murder Was the Case (soundtrack)|Murder Was the Case]]'' soundtrack, and peaked at #16 on the ''[[Billboard (magazine)|Billboard]]'' [[Hot Dance Singles Sales|Hot Dance Music/Maxi-Singles Sales]] chart, #18 on the [[Hot Rap Tracks]] chart and #48 on the [[Hot R&B/Hip-Hop Singles & Tracks]] chart.. He became well known for a [[catchphrase]], "My name is Sam Sneed, you better recognize!" which originally appeared on the Snoop Dogg debut album, [[Doggystyle]]. He also appeared in the Death Row movie, ''[[Murder Was the Case]]''.<ref>{{cite web|url=https://www.imdb.com/title/tt0166278/|title=''Murder Was The Case'' |publisher=imdb.com }}</ref>
+
+Sam Sneed also co-produced the hit songs "[[Keep Their Heads Ringin']]" and "[[Natural Born Killaz]]" with Dr. Dre. "Natural Born Killaz" was originally supposed to be a Sam Sneed and [[J-Flexx]] song called "The Heist". The original alternate version of "Natural Born Killaz" with Sam Sneed rapping a verse was released on the Ultimate Death Row Collection on November 24, 2009.  He recorded an album on Death Row Records with his group ''Street Scholars'' in 1996 which included [[J-Flexx]], Sharief (now known as Killer Ben) & Drauma (now known as Stocks McGuire) which remains unreleased.
+
+Sneed was diagnosed with a [[brain tumor]] in 1999, which put a temporary halt to his career;<ref>{{cite web|url=http://www.ballerstatus.com/2003/09/05/qa-sam-sneed-recalls-past-with-death-row-beatdown-rumors/|title=Q&A: Sam Sneed Recalls Past With Death Row, Beatdown Rumors |publisher=BallerStatus.com |date=September 5, 2003}}</ref>  but has since recovered and is once again an active [[Hip hop music|hip hop]] producer. He has since produced songs for the likes of [[G-Unit]], [[Scarface (rapper)|Scarface]], [[Jay-Z]] and many others, Sam went to work with Dr. Dre in 2007 again, but nothing manifested. He has since started a new company with his business partner Craig "Stretch" Mason, Nustarz Entertainment. The label features new artists managed by Sam such as The Boy Goldy, Money Ink and British rapper, producer and songwriter [[Nat Powers]].<ref>[http://destinnations.org/ceos_cousin_sam_sneedstreet_scholars Destinations Magazine], December 2011</ref>
+
+In 2010 Death Row/WIDEawake Entertainment announced the release date (January 25, 2011)  for Sam Sneed's album ''Street Scholars'', which contained four unreleased songs from Sneed's time at Death Row, along with 10 newly recorded tracks.
+
+==Discography==
+{{Main|Sam Sneed discography}}
+{{Main|Sam Sneed production discography}}
+* ''Street Scholars'' (2011)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sneed, Sam}}
+[[Category:1968 births]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century American rappers]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:African-American record producers]]
+[[Category:American hip hop record producers]]
+[[Category:Death Row Records artists]]
+[[Category:East Coast hip hop musicians]]
+[[Category:G-funk artists]]
+[[Category:Living people]]
+[[Category:People from McKeesport, Pennsylvania]]
+[[Category:Record producers from Pennsylvania]]

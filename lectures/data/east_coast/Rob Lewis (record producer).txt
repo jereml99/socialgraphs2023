@@ -1,0 +1,42 @@
+{{Dablink|You may be looking for [[Rob Lewis (producer)]] or [[Rob Lewis (entrepreneur)]].}}
+{{BLP sources|date=March 2009}}
+
+{{Infobox musical artist
+|name = Rob Lewis
+|image =  
+|background = non_performing_personnel
+|origin = {{Flagicon|USA}} [[Bronx]], [[New York City]], [[United States]]
+|occupation = [[Record producer]]
+|genre = [[Hip hop music|Hip hop]]
+|years_active = 1982–present
+}}
+
+'''Rob Lewis''' is a [[record producer]] from the [[Bronx]], [[New York (state)|New York]] who met D.J. Chuck Chillout, a legendary New York [[Hip hop music|hip-hop]] D.J. and radio personality, and crew (Kool Chip, Deuces Wild and D.J. [[Funkmaster Flex]]) during the late 1980s / early 1990s and was asked to do pre-production on Chuck and Chip's album, "Rhythm is the Master".
+
+Lewis being an unknown producer was introduced to D.J. Chuck Chillout by DJ Wildstyle from Co-Op City in the Bronx. Wildstyle suggested that Lewis create a radio promo for Chuck. A radio promo is a short musical segment giving props and promotion to the radio D.J. and these promos were very popular at the time. Lewis's promo, known as "Chuck Is Chillin', was revolutionary for that time as it was created using individual word samples taken from various records and strung together to create a new lyric line. This style of [[Sampling (music)|sampling]] has since been copied numerous times both in radio promos as well as complete songs.
+
+Lewis went on to produce songs on Chuck Chillout and Cool Chip's album ''Rhythm is the Master'' and later produced the majority of songs for the Bronx artist known as [[Nine (rapper)|Nine]]<ref name="Nelson">{{cite magazine|url=https://books.google.com/books?id=ZwgEAAAAMBAJ&dq=Rob+Lewis&pg=PA23|title=Label improves East Coast profile with debut by N.Y. ragga rapper|last=Nelson|first=Havelock|magazine=[[Billboard (magazine)|Billboard]]|date=3 December 1994|page=23|accessdate=19 January 2011}}</ref> whose two albums, ''[[Nine Livez]]'' and ''[[Cloud 9 (Nine album)|Cloud 9]]'', are widely sought-after. Lewis's production for Nine includes the songs "[[Whutcha Want?]]", "[[Any Emcee]]", "[[Lyin' King]]", and "Make or Take” (featuring [[Smoothe da Hustler]]), among others.
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{commons}}
+* {{Allmusic|class=artist|id=mn0000278231|label=Rob Lewis}}
+* {{Discogs artist | artist=151243-Rob-Lewis| name=Rob Lewis}}
+* {{MusicBrainz artist | id=c0499bfa-294c-43c2-ace0-dd30a70ec8dc | name=Rob Lewis}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lewis, Rob}}
+[[Category:American hip hop record producers]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Musicians from the Bronx]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Businesspeople from New York City]]
+[[Category:American hip hop musicians]]
+[[Category:Record producers from New York (state)]]
+
+
+{{US-record-producer-stub}}

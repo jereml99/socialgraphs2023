@@ -1,0 +1,77 @@
+{{Use mdy dates|date=October 2020}}
+{{notability|Biographies|date=July 2014}}
+{{Infobox musical artist
+| name            = Hurt-M-Badd
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Tyrone Wrice
+| alias           =
+| birth_date      =
+| origin          = California, United States
+| instrument      = Synthesizer, keyboards, [[phonograph|turntables]], [[drum machine]], [[sampler (musical instrument)|sampler]]
+| genre           = {{hlist|[[Contemporary R&B|R&B]]|[[Hip hop music|hip hop]]}}
+| occupation      = {{hlist|[[Singer]]|[[record producer]]|[[Disc jockey|DJ]]}}
+| years_active    = 1994–2002, 2013
+| label           = {{hlist|[[Death Row Records|Death Row]]|[[Rap-A-Lot Records|Rap-A-Lot]]}}
+| associated_acts = {{hlist|B Rezell|[[2Pac]]|[[Outlawz]]|[[Bad Azz (rapper)|Bad Azz]]}}
+}}
+
+'''Tyrone Wrice''', better known by his [[stage name]] '''Hurt-M-Badd''', is an American singer and record producer. He is a former member of short-lived R&B duo B-Rezell with Marc "MGM" McWilliams, which appeared on [[Death Row Records]] 1994 compilations ''[[Murder Was the Case]]'' and ''[[Above the Rim (soundtrack)|Above the Rim – The Soundtrack]]'' before the break-up. He participated on [[Tupac Shakur|2Pac]]'s 1996 ''[[The Don Killuminati: The 7 Day Theory]]'' album, most notably produced the single "[[Hail Mary (2Pac song)|Hail Mary]]". In 1997 he co-produced one song each for [[The Lady of Rage]]'s [[Necessary Roughness (album)|debut album]] and ''[[Gang Related – The Soundtrack]]''. From 1998 to 2002, he continued to produce songs for the [[Outlawz]] and 2Pac's posthumous releases,<ref>{{Cite web|url=http://www.allmusic.com/artist/hurt-m-badd-mn0001753842|title = Hurt-M-Badd &#124; Credits|website = [[AllMusic]]}}</ref><ref>{{Cite web|url=http://www.rapnews.net/0-202-257410-00.html|title = Rap News Network - RapNewsDirect Talks to 2Pac Producer Hurt M Badd}}</ref><ref>{{cite web |url=http://www.bomb1st.com/hurt-m-badd-interview-clip/ |title=bomb1st {{!}} HURT-M-BADD INTERVIEW CLIP |website=www.bomb1st.com |url-status=dead |archive-url=https://web.archive.org/web/20140727051446/http://www.bomb1st.com/hurt-m-badd-interview-clip/ |archive-date=2014-07-27}} </ref> as well as worked with [[Willie D]] and [[Snypaz]]. In 2013 he produced a bonus track for [[Hussein Fatal|Fatal]]'s ''[[The Interview: It's Not a Gimmik 2 Me]]''.
+
+==Discography==
+===Guest appearances===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" style="width:20em;"| Title
+! scope="col" | Year
+! scope="col" | Other performer(s)
+! scope="col" | Album
+|-
+! scope="row"| "Horny"
+| rowspan="2" | 1994
+| rowspan="2" | B-Rezell
+| ''[[Murder Was the Case]]''
+|-
+! scope="row"| "Blowed Away"
+| ''[[Above the Rim (soundtrack)|Above the Rim – The Soundtrack]]''
+|-
+! scope="row"| "Hold Ya Head"
+| rowspan="2" |1996
+| [[Tupac Shakur|2Pac]]
+| ''[[The Don Killuminati: The 7 Day Theory|Makaveli - The Don Killuminati: The 7 Day Theory]]''
+|-
+! scope="row" |"Hammer Time Brings It"
+|[[MC Hammer]]
+|''Too Tight''
+|-
+! scope="row" |"If I Was White"
+| rowspan="2" |2000
+| rowspan="2" |[[Willie D]]
+| rowspan="2" |''[[Loved by Few, Hated by Many (Willie D album)|Loved by Few, Hated by Many]]''
+|-
+! scope="row" | "She Likes 2 Ball"
+|}
+
+===Production discography===
+
+{{Main|Hurt-M-Badd production discography}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Twitter}}
+{{Authority control}}
+
+[[Category:American hip hop record producers]]
+[[Category:African-American record producers]]
+[[Category:American hip hop DJs]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Musicians from California]]
+[[Category:21st-century African-American people]]
+
+
+{{US-record-producer-stub}}

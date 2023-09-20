@@ -1,0 +1,122 @@
+{{Short description|American rapper (born 1969)}}
+{{distinguish|Nines (rapper)}}
+{{Use mdy dates|date=November 2021}}
+{{Infobox musical artist
+| name         = Nine
+| image        = HAUNTING MUMBLE RAPPERS AT NIGHT!.png
+| caption      = 
+| birth_name   = Derrick Keyes
+| alias        = {{hlist|Ricochet|9 Double M|9MM}}
+| origin       = New York City, U.S.
+| birth_date   = {{Birth date and age|1969|9|19}}
+| genre        = [[Hardcore hip hop]]
+| years_active = 1985–present
+| label        = {{hlist|Danya|Turngold|[[Smoke On Records|Smoke On]]|[[Profile Records|Profile]]/[[Arista Records|Arista]]/[[Bertelsmann Music Group|BMG]]|Goon MuSick}}
+}}
+'''Derrick Keyes''' (born September 19, 1969), known professionally as '''Nine''', is an American rapper from [[The Bronx]], New York City. He is also known as '''9MM''' or '''Nine Double M'''. Keyes got his break in early 1993 as a featured guest on [[Funkmaster Flex]] and the Ghetto Celebs' "Six Million Ways to Die".
+
+Keyes originally recorded under the moniker 9MM (or Nine Double M) before changing his name to simply Nine. He stated, "I didn't want to be just be named after the gun ([[9mm]])."<ref name="HalftimeOnline.net Nine 9MM">{{Cite web |url=http://halftimeonline.net/portfolio/nine/ |website= HalftimeOnline.net |title= Nine (9MM) |access-date=December 24, 2012 |archive-url= https://web.archive.org/web/20140317034020/http://halftimeonline.net/portfolio/nine/ |archive-date=March 17, 2014 |url-status=dead }}</ref> His stage name refers to his date of birth (September 19, 1969), his shoe size, and his lucky number.<ref>{{cite news| first= Tina| last= Maple| url= http://findarticles.com/p/articles/mi_qn4207/is_19950407/ai_n10191995 |title= Tina's tip sheet| url-status= dead| work= [[Milwaukee Journal]]| via= findarticles.com| archive-url= https://web.archive.org/web/20070716205334/http://findarticles.com/p/articles/mi_qn4207/is_19950407/ai_n10191995| archive-date= July 16, 2007| access-date= May 21, 2020}}</ref>
+
+== Career ==
+Portions of Nine's "Whutcha Want?" were featured in advertisements by US automobile manufacturer [[Jeep]]. The ads used the song "Steady Bounce" by [[KRS-One]] from his album ''Strickly For Da Breakdancers & Emceez'', which also used a sample from Nine's "Whutcha Want?". According to an interview conducted with HalftimeOnline.net, Jeep never sought permission to use the sample, and Nine pursued legal action.<ref name="HalftimeOnline.net Nine 9MM" />
+
+After Nine joined the [[Snowgoons]] on their album ''Goon Bap'' in 2016, they have been talking about new music and finally decided to move forward on a collaboration album. In February 2018, Nine and Snowgoons announced a new studio album for summer 2018. The first single/visual "The Revenant" from the forthcoming album was released on February 7, 2018.<ref>{{Cite web| url= https://weeklyrapgods.com/2018/02/07/snowgoons-bring-back-nine-double-m-for-the-revenant-video|title= Snowgoons Bring Back Nine (Double M) for 'The Reventant' (Music)| website=weeklyrapgods.com | date= February 7, 2018 |author= Teckman| access-date=July 11, 2018}}</ref> On July 6, 2018, Nine and Snowgoons announced the release date for their album, ''King'', as September 9, 2018. 4 days later, the second single/visual "Pull Up" was released.<ref>{{Cite web| url= https://weeklyrapgods.com/2018/07/11/snowgoons-pull-up-with-nine-for-his-new-single |title= Snowgoons 'Pull Up' with the Legendary Nine for His New Single | website=weeklyrapgods.com| date= July 11, 2018 |access-date=July 11, 2018}}</ref><ref>{{Cite web| url= https://hiphop4real.com/video-nine-pull-up |title=Nine — "Pull Up" (prod. by Snowgoons)| website= hiphop4real.com |date=July 10, 2018|access-date=July 11, 2018}}</ref>
+
+Nine acted in an episode of the [[police drama]] television series ''[[New York Undercover]]'' (1997).<ref>[{{AllMusic|class=artist|id=p141707|pure_url=yes}} Nine > Overview] at allmusic.com</ref>
+
+== Discography ==
+=== Albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of albums, with selected chart positions and certifications
+! rowspan="2" scope="col" style="width:12em;" | Title
+! rowspan="2" scope="col" style="width:16em;" | Album details
+! colspan="2" scope="col" | Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;" |[[Billboard 200|US]]
+! scope="col" style="width:3em;font-size:90%;" |[[Top R&B/Hip-Hop Albums|US R&B]]
+|-
+
+! scope="row" |''[[Nine Livez]]''
+|
+*Released: March 7, 1995
+*Label: [[Profile Records|Profile]]
+*Format: CD, cassette, digital download, LP
+| 90 || 18
+|-
+
+! scope="row" |''[[Cloud 9 (Nine album)|Cloud 9]]''
+|
+*Released: August 6, 1996
+*Label: Profile
+*Format: CD, cassette, digital download, LP
+| — || 45
+|-
+
+! scope="row" |''[[Quinine (album)|Quinine]]''
+|
+*Released: April 9, 2009
+*Label: Smoke On
+*Format: CD, digital download
+| — || —
+|-
+
+! scope="row" |''[[King (Nine album)|King]]''
+|
+*Released: September 9, 2018
+*Label: Goon MuSick
+*Format: CD, LP, digital download
+| — || —
+|}
+
+=== Singles ===
+{| class="wikitable"
+! rowspan="2" |Year
+! rowspan="2" |Single
+! colspan="3" |Chart positions
+! rowspan="2" |Album
+|-
+! width="40" |<small>[[Billboard Hot 100|U.S. Hot 100]]</small>
+! width="40" |<small>[[Hot R&B/Hip-Hop Songs|U.S. R&B]]</small>
+! width="40" |<small>[[Hot Rap Tracks|U.S. Rap]]</small>
+|-
+| rowspan="2" align="center" |1995
+| align="left" |"[[Whutcha Want?]]"
+| align="center" |50
+| align="center" |32
+| align="center" |3
+| rowspan="2" align="left" |''[[Nine Livez]]''
+|-
+| align="left" |"[[Any Emcee]]"
+| align="center" |–
+| align="center" |90
+| align="center" |35
+|-
+| align="center" |1996
+| align="left" |"[[Lyin' King]]"
+| align="center" |–
+| align="center" |82
+| align="center" |21
+| align="left" |''[[Cloud 9 (Nine album)|Cloud 9]]''
+|-
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*{{Official website|http://therealmcnine.com}}
+*[{{BillboardURLbyName|artist=nine|chart=all}} ''Billboard'' chart history]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nine}}
+[[Category:Rappers from the Bronx]]
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:Profile Records artists]]
+[[Category:Songwriters from New York (state)]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Hardcore hip hop artists]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:American male songwriters]]

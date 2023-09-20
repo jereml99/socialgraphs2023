@@ -1,0 +1,117 @@
+{{short description|American rapper}}
+{{Use dmy dates|date=August 2020}}
+{{BLP sources|date=June 2010}}
+{{Infobox musical artist
+|name                = Ms. Jade
+|image               =
+|caption             =
+|background          = solo_singer
+|birth_name          = Chevon Young
+|birth_date          = {{birth date and age|df=yes|1979|08|3}}
+|alias               = <!--this field is not for nicknames. See [[Template:Infobox musical artist/doc]]-->
+|origin              = [[Philadelphia, Pennsylvania]], United States
+|genre               = [[Hip hop music|Hip hop]] 
+|occupation          = [[Rapper]], [[songwriter]], actress
+|years_active        = 1995–present
+|label               = [[Fort Knocks Entertainment|Fort Knocks]], [[Atlantic Records|Atlantic]]
+|associated_acts = {{hlist|[[Timbaland]]|[[Pastor Troy]]}}
+}}
+'''Chevon Young''' (born 1979), better known by the stage name '''Ms. Jade''' is an American [[rapper]] from [[Philadelphia]], [[Pennsylvania]].<ref>{{cite web|url={{AllMusic|class=artist|id=p529526|pure_url=yes}}|title=Biography: Ms. Jade|last=Seida|first=Linda|publisher=[[Allmusic]]|accessdate=6 June 2010}}</ref>
+
+In 2002 she released her only [[album]] to date, ''[[Girl Interrupted (album)|Girl Interrupted]]'', which featured the [[single (music)|singles]] "[[Big Head (song)|Big Head]]", "Feel The Girl" and "Ching Ching".
+
+In 2008, she released new music on her Myspace page,<ref>[http://www.myspace.com/msjade001 Myspace.com]</ref> including "Cha Cha 2008" and "A Millie Freestyle". In 2009 she was featured in an interview with newfreemixtape.com, discussing her comeback.
+
+She also was featured on [[Beyoncé Knowles|Beyoncé]]'s official [[remix]] to her [[hit single]], "[[Diva (Beyonce song)|Diva]]", with [[Ciara]].
+
+In 2010 she released a video for her single "Blowin' Up" featuring [[Freeway (rapper)|Freeway]]. It is to be the first single from her new mixtape, "Str8 No Chaser".
+
+==Discography==
+
+===Studio albums===
+* ''[[Girl Interrupted (album)|Girl Interrupted]]'' (2002)
+
+===Singles===
+{| class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Title
+!colspan="3"|Chart positions
+!rowspan="2"|Album
+|-
+!width="50"|<small>[[Billboard Hot 100|U.S.]]</small>
+!width="50"|<small>[[R&B/Hip-Hop Tracks chart|U.S. R&B]]</small>
+!width="50"|<small>[[Hot Rap Tracks|U.S. Rap]]</small>
+|-
+|align="center" rowspan="6"|2002
+|"Big Head" <small>(featuring [[Timbaland]])</small>
+|align="center"|-
+|align="center"|106
+|align="center"|-
+|rowspan="3"|''[[Girl Interrupted (album)|Girl Interrupted]]''
+|-
+|align="left"|"[[Ching Ching]]" <small>(featuring [[Nelly Furtado]] & Timbaland)</small>
+|align="center"|114
+|align="center"|41
+|align="center"|22
+|-
+|align="left"|"Feel The Girl"
+|align="center"|92
+|align="center"|52
+|align="center"|22
+|-
+|align="left"|"Are We Cuttin'" <small>([[Pastor Troy]] featuring Ms. Jade)</small>
+|align="center"|96
+|align="center"|47
+|align="center"|-
+|rowspan="1"|''[[Universal Soldier (Pastor Troy album)|Universal Soldier]]''
+|-
+|align="left"|"[[Turn off the Light|Turn off the Light (remix) ]]" <small>(Nelly Furtado featuring Timbaland & Ms. Jade)</small>
+|align="center"|5
+|align="center"|52
+|align="center"|-
+|rowspan="1"|''[[Turn off the Light|Turn off the Light (CD single)]]''
+|-
+|align="left"|"Sexual Healing" <small>([[Tweet (singer)|Tweet]] featuring Ms. Jade)</small>
+|align="center"|-
+|align="center"|124
+|align="center"|-
+|rowspan="1"|''[[Southern Hummingbird]]''
+|-
+|align="center" rowspan="2"|2003
+|"Funky Fresh Dressed" <small>([[Missy Elliott]] featuring Ms. Jade)</small>
+|align="center"|-
+|align="center"|107
+|align="center"|-
+|rowspan="1"|''[[Under Construction (Missy Elliott album)|Under Construction]]''
+|-
+|align="left"|"Disco" <small>([[Slum Village]] featuring [[Raje Shwari]] & Ms. Jade)</small>
+|align="center"|-
+|align="center"|93
+|align="center"|-
+|rowspan="1"|''[[Trinity (Past, Present and Future)]]''
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{Improve categories|date=April 2021}}
+
+{{DEFAULTSORT:Jade, Ms.}}
+[[Category:Living people]]
+[[Category:American women rappers]]
+[[Category:African-American women rappers]]
+[[Category:American women singers]]
+[[Category:Rappers from Philadelphia]]
+[[Category:Atlantic Records artists]]
+[[Category:1979 births]]
+[[Category:East Coast hip hop musicians]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American women musicians]]
+[[Category:21st-century African-American women]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]
+[[Category:20th-century African-American women]]
+[[Category:21st-century women rappers]]

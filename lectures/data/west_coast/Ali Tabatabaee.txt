@@ -1,0 +1,59 @@
+{{short description|Iranian-American musician (born 1973)}}
+{{other uses|Ali Tabatabaei (disambiguation)}}
+{{Use mdy dates|date=June 2023}}
+{{Infobox musical artist
+|image=Ali Tabatabaee (cropped).jpg
+| caption = Tabatabaee performing with Zebrahead in 2019
+| name = Ali Tabatabaee
+| birth_name = 
+| birth_date = {{birth date and age|1973|02|27}}
+| death_date =
+| birth_place = [[Tehran]], Iran
+| origin     = 
+| genre = {{flatlist|
+*[[Punk rock]]
+*[[pop punk]]
+*[[rapcore]]
+*[[rap rock]]
+*[[alternative metal]]
+*[[nu metal]]
+*[[funk rock]]
+}}
+| occupation = {{hlist|Singer|rapper|songwriter}}
+| years_active = 1996–present
+| current_member_of = [[Zebrahead]]
+| website =
+}}
+'''Ali Tabatabaee''' ({{Lang-fa|علی طباطبایی‌پور}}; born February 27, 1973)<ref name="Bio" /> is an Iranian-American musician who is one of two main vocalists in the rock band [[Zebrahead]]. Alongside bandmate [[Matty Lewis]], he performed the titular character's [[His World|theme song]] in the 2006 video game ''[[Sonic the Hedgehog (2006 video game)|Sonic the Hedgehog]]''.<ref>https://www.vgmusic.com/file/5c08f72b61e2c3cd27f711720cde15ad.html</ref>
+
+==Biography==
+Tabatabaee was born in [[Tehran]], [[Iran]]<ref name="Bio">{{cite web |title=Ali Tabatabaee's profile |url=https://musicbrainz.org/artist/621ad2f1-2cfe-4f8b-912f-29740e5bb02b |website=[[MusicBrainz]] |access-date=June 27, 2023}}</ref> on February 27, 1973. Before joining [[Zebrahead]], Tabatabaee was a pre-med student at [[UC Irvine]] majoring in Biology and minoring in Theater. After graduating, he decided to take a year off from school to take the [[MCAT]] and to apply to medical school. It was during this time that he started singing with the other members of Zebrahead. After a year away from school he was accepted into the [[University of Chicago Medical School]]. However, due to Zebrahead's early success, he deferred acceptance for one year. "I didn't expect music to go anywhere. I thought I'd do it for a year and then I'd leave, and in a week's period, I got an acceptance to med school and we were supposed to do a showcase and the label was going to fly us to New York and I had to tell the school; they wanted to know. So I deferred for a year and then decided that I didn't want to go back after a year.... I think [music is] the ultimate way to express culture. To do that for a living? Everybody should aspire to do that."<ref name="ocweekly2000">{{cite web |last=Rosen |first=Alison M. |url=http://www.ocweekly.com/2000-08-24/features/zebrahead/full/ |title=Zebrahead |publisher=OC Weekly |date=August 17, 2000 |accessdate=December 24, 2015 |archive-url=https://web.archive.org/web/20150924054819/http://www.ocweekly.com/2000-08-24/features/zebrahead/full/ |archive-date=September 24, 2015 |url-status=dead }}</ref> Tabatabaee cites some of his favorite bands as [[A Tribe Called Quest]], [[System of a Down]], and [[N.W.A.]]<ref>{{Cite web|date=May 24, 2015|title=On The Line with Ali Tabatabaee of Zebrahead|url=https://www.journeyofafrontman.com/2015/05/24/on-the-line-with-ali-tabatabaee-of-zebrahead/|access-date=September 29, 2020|website=Journey of a Frontman|language=en-US}}</ref>
+[[Image:Ali Tabatabaee - Zebrahead.jpg|thumb|left|upright|Tabatabaee performing in 2011]]
+In 1999, while on the Warped Tour, Tabatabaee was diagnosed with [[Hodgkin's lymphoma|Hodgkin's Disease]], a type of cancer, which he underwent chemo therapy and radiation therapy to cure. While being treated, he continued to work with his bandmates in writing songs for their album, ''[[Playmate of the Year (album)|Playmate of the Year]]'', and a few months before the album's release, he completed his therapy. He claims that because of what he was going through, some of the songs from that album are very special to him.<ref name="ocweekly2000"/>
+
+Tabatabaee is featured on the [[Reel Big Fish]] DVD ''You're All in This Together'' on the song "Unity" (originally by [[Operation Ivy (band)|Operation Ivy]]).
+
+Due to Zebrahead's growing popularity in Japan, Tabatabaee and Zebrahead bandmate [[Matty Lewis]] were asked by [[Sega]] to record vocals for a new theme song, titled "[[His World]]", which appears in the 2006 game ''[[Sonic the Hedgehog (2006 video game)|Sonic The Hedgehog]]''. Tabatabaee also composes most of the songs that Zebrahead performs.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{commons category-inline}}
+
+{{Zebrahead}}
+{{Authority control}}
+
+{{DEFAULTSORT:Tabatabaee, Ali}}
+[[Category:Rappers from California]]
+[[Category:American rap rock musicians]]
+[[Category:West Coast hip hop musicians]]
+[[Category:American punk rock singers]]
+[[Category:Nu metal singers]]
+[[Category:Living people]]
+[[Category:American people of Iranian descent]]
+[[Category:21st-century American rappers]]
+[[Category:1973 births]]
+
+
+{{US-rock-singer-stub}}

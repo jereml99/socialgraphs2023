@@ -1,0 +1,100 @@
+{{short description|American rapper}}
+
+{{Infobox musical artist
+| name            = LoveRance
+| image           =
+| caption         = LoveRance (Rapper)
+| birth_name      = Rance Love Oliver II
+| birth_date      = {{Birth date and age |1989|9|6}}
+| origin          = [[San Francisco]], [[California]], [[U.S.]]
+| genre           =
+| occupation      = [[Rapper]], [[Record producer|producer]], [[deejay|DJ]]
+| associated_acts = [[Tyga]], [[Omarion]], [[Dom Kennedy]], [[Droop-E]], [[50 Cent]]
+| years_active    = 2010–present
+| label           = [[EMPIRE Distribution|EMPIRE]]
+| website         = http://loverance.tumblr.com/
+}}
+
+'''LoveRance''' (born Rance Love Oliver II) is an American [[rapper]], [[record producer|producer]] and [[deejay|DJ]] from the [[San Francisco Bay Area]]. He is best known for his 2011 hit single [[Up! (LoveRance song)|"Up!"]] featuring [[50 Cent]] and produced by [[Iamsu!]].<ref>{{cite web|url=http://www.billboard.com/articles/columns/the-juice/497057/loverance-rep-talk-success-of-up-interscope-signing|title=LoveRance, Rep Talk Success of 'Up!' & Interscope Signing|date=April 6, 2012|website=Billboard.com|accessdate=2020-04-16}}</ref> "Up!" hit number 46 on the US [[Billboard Hot 100|''Billboard'' Hot 100]] and number two on the [[Hot Rap Songs|Rap]] charts.<ref>{{cite web|url=https://www.bet.com/news/music/2012/06/13/loverance-breaks-down-backstory-behind-up.html?cid=facebook|title=LoveRance Breaks Down Backstory Behind "Up!"|website=Bet.com|accessdate=2020-04-16}}</ref>
+
+== Music video ==
+The music video for LoveRance's hit single "UP!" was uploaded to his [[Vevo]] account on January 31, 2012.<ref>{{cite web|url=https://www.youtube.com/watch?v=q93F03BhbXg |title=LoveRance - UP! (Explicit) ft. 50 Cent |publisher=[[YouTube]] |date=2012-01-31 |accessdate=2020-04-16}}</ref> The video takes place in the Bay Area and most of the video is recorded inside a night club.<ref>{{cite web |url=http://www.mtv.com/videos/loverance/725488/up-w-intro.jhtml |title=Up w/Intro &#124; LoveRance &#124; Music Video &#124; MTV |website=www.mtv.com |access-date=2 February 2022 |archive-url=https://archive.today/20130129103215/http://www.mtv.com/videos/loverance/725488/up-w-intro.jhtml |archive-date=29 January 2013 |url-status=dead}}</ref>
+
+'''https://www.youtube.com/user/LoveRanceRadio
+
+https://www.youtube.com/user/LoveRanceVEVO'''
+
+== Discography ==
+===Mixtapes===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of mixtapes
+! scope="col" style="width:10em;"| Title
+! scope="col" style="width:15em;"| Album details
+|-
+|scope="row"|''Freak Of The Industry''
+|
+* Release Date: December 2, 2012
+* Hosted by [[DJ Skee]]
+* Format: Digital download
+|-
+|scope="row"|''Freak Show Rancey''
+|
+* Release Date: March 31, 2015
+* Format: Digital download
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, as lead artist, with selected chart positions, showing year released and album name 
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="3" | Peak chart positions
+! scope="col" rowspan="2" | Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Billboard Hot 100|US]]<br /><ref>{{cite magazine|title=LoveRance Album & Song Chart History: Hot 100|url={{BillboardURLbyName|artist=loverance|chart=all}}|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 21, 2012}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Hot R&B/Hip-Hop Songs|US R&B]]<br /><ref>{{cite magazine|title=LoveRance Album & Song Chart History: R&B/Hip-Hop Songs|url={{BillboardURLbyName|artist=loverance|chart=R&B/Hip-Hop Songs}}|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=December 21, 2012}}</ref>
+! scope="col" style="width:3em;font-size:90%;" | [[Hot Rap Songs|US Rap]]<br /><ref>{{cite magazine|title=LoveRance Album & Song Chart History: Rap Songs|url={{BillboardURLbyName|artist=loverance|chart=Rap Songs}}|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|accessdate=February 6, 2013}}</ref> 
+|-
+! scope="row" | "[[Up! (LoveRance song)|UP!]]"<br /><span style="font-size:85%;">(featuring [[50 Cent]])</span>
+|2011
+| 46 || 3 || 2
+| rowspan="2" {{n/a|non-album singles}}
+|-
+! scope="row" | "Akup"<br /><span style="font-size:85%;">(featuring [[Tyga]] & [[Problem (rapper)|Problem]])</span>
+|2012
+| — || — || —
+|-
+! scope="row" | "On Her"
+|2015
+| — || — || —
+| ''Freak Show Rancey''
+|-
+! scope="row" | "Let Me Tell You"
+| rowspan="2" |2016
+| — || — || —
+| rowspan="2" {{TBA}}
+|-
+! scope="row" | "Drill"
+| — || — || —
+|}
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+[[Category:1989 births]]
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:African-American record producers]]
+[[Category:American hip hop record producers]]
+[[Category:American hip hop singers]]
+[[Category:American hip hop DJs]]
+[[Category:Interscope Records artists]]
+[[Category:Rappers from the San Francisco Bay Area]]
+[[Category:West Coast hip hop musicians]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]

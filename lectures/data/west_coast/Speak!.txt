@@ -1,0 +1,102 @@
+{{short description|American rapper}}
+
+{{Infobox musical artist
+| name            = Speak!
+| image           =
+| caption         =
+| birth_name      = Anthony David Negrete<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/896587935 |title=AMORES 401 |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 27, 2023}}</ref>
+| alias           = Speakz
+| birth_date      = {{birth date and age|1987|2|24}}
+| birth_place     = [[Los Angeles, California, U.S.]]
+| genre           = [[Hip hop music|Hip hop]]
+| occupation      = {{hlist|Rapper|songwriter|Producer|}}
+| years_active    = 2007–present
+| label           =
+| associated_acts = Dream Panther
+| website         = 
+}}
+
+'''Anthony David Negrete''' (born February 24, 1987), better known by his [[stage name]]s '''Speak!''' and '''Speakz''', is an American rapper and songwriter from [[Los Angeles, California]]. He is known for having co-written the 2011 song "[[Gucci Gucci]]" performed by [[Kreayshawn]]<ref>{{cite web| url=http://www.laweekly.com/music/meet-speak-who-co-wrote-kreayshawns-gucci-gucci-2409134 |title= Meet Speak, Who Co-Wrote Kreayshawn's "Gucci Gucci"|date= 31 October 2011|publisher= LA Weekly|accessdate=May 2, 2015}}</ref> and collaborating with various Odd Future members such as [[Mike G]] and [[Syd (singer)|Syd tha Kyd]], who recorded his 2011 album ''Inside Out Boy''.<ref>{{cite web| url=http://oddfuturetalk.com/2011/11/speak-inside-out-boy/ |title=SPEAK! – Inside Out Boy (DOWNLOAD)|publisher= Odd Future Talk|accessdate=May 2, 2015}}</ref> He is based in Mexico City.{{citation needed|date=January 2023}}
+
+==Discography==
+
+===Extended plays===
+* ''Beautiful Sounds For Interesting People With Fantastic Taste'' (2010)
+* ''Summer Time Radness'' (2014)
+* ''Sex Quest'' (2014)
+* ''Sex Quest 2'' (2015)
+* ''Sex Quest 3'' (2015)
+* ''Fall Time Radness'' (2015)
+* ''My Lonely Primavera'' (2017)
+* ''A Man + His Plants '' (2018)
+* ''Singularity'' (2019)
+
+===Mixtapes===
+* ''Inside Out Boy'' (2011)
+* ''Gnarly Davidson vs. the Marlboro Men'' (2014)
+* ''Inside Out Boy B-Sides & Bootlegs'' (2014)
+* ''Speakpanther'' (with Dream Panther) (2017)
+
+===Guest appearances===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" style="width:16em;" | Title
+! scope="col" | Year
+! scope="col" | Artist(s)
+! scope="col" | Album
+|-
+! scope="row" | "Michael Douglas"
+| rowspan="2" | 2011
+| [[Mike G]], [[Vince Staples]]
+| ''Award Tour''
+|-
+! scope="row" | "Aintnofun"
+| Vince Staples
+| ''Shyne Coldchain Vol. 1''
+|-
+! scope="row" | "Ridin Feelin Good"
+| rowspan="4" | 2012
+| Hollywood Floss, [[Fat Tony (rapper)|Fat Tony]]
+| ''The Legend Continues''
+|-
+! scope="row" | "Julienne"
+| [[Kilo Kish]], Vince Staples, [[Pyramid Vritra]]
+| ''Homeschool''
+|-
+! scope="row" | "Chill"
+| Lofty305
+| ''Maxine''
+|-
+! scope="row" | "Drogas"
+| Mike Dece, Ruben Slikk, [[Denzel Curry]], Lofty305
+| ''1996''
+|-
+! scope="row" | "I Suppose"
+| rowspan="3" | 2013
+| rowspan="2" | Mike G
+| rowspan="3" | ''Verses''
+|-
+! scope="row" | "Seasons Change"
+|-
+! scope="row" | "Savion Glover"
+| Mike G, [[Alexander Spit]], Cashius Green
+|-
+|}
+
+==References==
+
+{{Reflist|2}}
+
+{{authority control}}
+
+{{DEFAULTSORT:SPEAK!}}
+[[Category:Living people]]
+[[Category:1987 births]]
+[[Category:American male rappers]]
+[[Category:Rappers from California]]
+[[Category:People from Moreno Valley, California]]
+[[Category:American people of Jewish descent]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Alternative hip hop musicians]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]

@@ -1,0 +1,102 @@
+{{short description|American rapper}}
+{{BLP sources|date=October 2018}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject Musicians -->
+|name = Lil Italy
+|birth_name = Clifton Ray Dixon<ref name="Excite News">{{cite web|title=Excite News - Kenneth Franklin sues Master P|url=http://entertainment.excite.com/article/id/318930%7Centertainment%7C04-21-2003::14:45%7Creuters.html|website=Excite.com|accessdate=10 July 2012}}</ref>{{dead link|date=May 2023}}
+|birth_date = 
+|image = 
+|caption = 
+|background = solo_singer
+|alias = [[Funk Mobb|G-Note]]
+|origin = [[Vallejo, California]]
+|genre = [[Hip hop music|Hip hop]], [[West Coast Rap]]
+|occupation = [[Rapper]]
+|years_active = 1994–2011
+|label = [[No Limit Records|No Limit]], [[Priority Records|Priority]]
+|associated_acts = [[Funk Mobb]], [[UGK]],  [[Silkk the Shocker]], [[Mia X]], [[Snoop Dogg]], [[Mystikal]], [[Magic (rapper)|Magic]], [[Master P]],  [[Fiend (rapper)|Fiend]]
+}}
+
+'''Lil Italy''' is an American rapper who began his career as G-Note of California rap group [[Funk Mobb]], who were signed to [[E-40]]'s label [[Sick Wid It Records|Sick Wid It Records]] from 1994 to 1998, when the group disbanded.<ref>{{cite web|url=http://www.cdbaby.com/cd/bossplayers1|title=♫ The Clicks D-Shot Presents: Boss Players Vol 1 - Boss Players.|website=Cdbaby.com|accessdate=9 October 2018}}</ref>
+
+He joined [[No Limit Records]]<ref>{{Cite web |url=http://www.angelfire.com/fl2/southsideballers/lilitaly.bio.html |title=Archived copy |access-date=2009-10-27 |archive-url=https://web.archive.org/web/20121111014810/http://www.angelfire.com/fl2/southsideballers/lilitaly.bio.html |archive-date=2012-11-11 |url-status=dead }}</ref> in 1998 under the new stage name of Lil Italy, and released his first and only album with No Limit, ''[[On Top of da World]]'', in 1999. The record peaked at #99 on the [[Billboard 200|''Billboard'' 200]] and #20 on the [[Top R&B/Hip-Hop Albums]] chart, and featured guest appearances from the likes of [[Silkk the Shocker]], [[Snoop Dogg]], and [[Magic (rapper)|Magic]], but Lil Italy was soon dropped from the label due to poor sales.
+
+Lil Italy's second album, ''Full Blown,'' was distributed by independent label K-Lou in 2001, but it did not chart. In 2011, he returned after a decade-long hiatus with the new release ''My Life,'' which is only available as an MP3 download.<ref name="My Life - Lil Italy">{{cite web|title=My Life|url=http://www.rhapsody.com/album/Alb.46200504|website=Rhapsody.com|accessdate=10 July 2012}}</ref>
+
+He was born to American parents.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+
+! scope="col" rowspan="2" style="width:14em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| Release
+! scope="col" colspan="2"| Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Billboard 200|US]]
+! scope="col" style="width:3em;font-size:90%;" | [[Top R&B/Hip-Hop Albums|US R&B]]
+|-
+! scope="row" |''[[On Top of da World]]''
+|
+*Released: August 3, 1999
+*Label: [[No Limit Records|No Limit]], [[Priority Records|Priority]]
+*Format: CD, digital download, LP
+| 99 || 20
+|-
+! scope="row" |''Full Blown''
+|
+* Released: November 13, 2001
+* Label: K-Lou
+* Format: CD, digital download, LP
+| — || —
+|-
+! scope="row" |''My Life''
+|
+* Released May 2011
+* Label: Bungalow
+* Format: digital download, LP
+| — || —
+|-
+| colspan="4" style="font-size:90%" | "—" denotes a recording did not chart.
+|}
+
+===Collaboration albums===
+*''[[It Ain't 4 Play]]'' <small>with Funk Mobb</small> (1996)
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+
+! scope="col" rowspan="1" style="width:16em;"| <br/>Title<br/><br/>
+! scope="col" rowspan="1" | Release
+! scope="col" rowspan="1" | Album
+|-
+!scope="row"|"Ghetto Fame"<br><small>(featuring [[Silkk The Shocker]])</small>
+|1999
+|''[[On Top of da World]]''
+|-
+!scope="row"|"All About You"
+|2011
+|''My Life''
+|-
+|}
+
+==References==
+{{reflist}}
+
+{{No Limit Records}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Lil Italy}}
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:West Coast hip hop musicians]]
+[[Category:No Limit Records artists]]
+[[Category:Living people]]
+[[Category:Rappers from California]]
+[[Category:Gangsta rappers]]
+[[Category:American people of Jamaican descent]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]
+[[Category:Year of birth missing (living people)]]

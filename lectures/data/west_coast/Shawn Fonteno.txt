@@ -1,0 +1,105 @@
+{{short description|American actor and rapper}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox person
+| name               = Shawn Fonteno
+| image_upright      = 0.9
+| caption            = Fonteno in 2019
+| birth_name         = Shawn Darnell Fonteno
+| birth_date         = <!-- NOTE: Birth date should not be added without a [[WP:RS|reliable source]] supporting it. This is per our WP:BLP policy. -->
+| birth_place        = [[Los Angeles, California]], U.S.
+| other_names        = Solo
+| occupation         = {{flatlist|
+* Actor
+* rapper
+}}
+| years_active       = 1999–present
+| children           = 1
+| relatives          = [[Young Maylay]] (cousin)
+}}
+'''Shawn Darnell Fonteno''', <!-- NOTE: Birth date should not be added without a [[WP:RS|reliable source]] supporting it. This is per our WP:BLP policy. --> also known as '''Solo''', is an American actor and rapper. He is best known for playing Franklin Clinton in the 2013 video game ''[[Grand Theft Auto V]]''. Aside from his portrayal of Franklin Clinton, Fonteno has acted in films such as ''[[The Wash (2001 film)|The Wash]]''.<ref name=NYT>{{cite web |url=https://www.nytimes.com/2001/11/15/movies/film-review-with-just-a-hint-of-a-plot-taking-it-easy-very-easy.html |title=FILM REVIEW; With Just a Hint of a Plot, Taking It Easy. Very Easy. |last=Mitchell |first=Elvis |authorlink=Elvis Mitchell |work=[[The New York Times]] |date=November 15, 2001 |accessdate=March 24, 2021 }}</ref>
+
+In 2021, Fonteno and fellow ''Grand Theft Auto V'' actor [[Slink Johnson]] reprised their roles as Franklin Clinton and Lamar Davis respectively in a live-action re-enactment of a cutscene in the game where Lamar mocks Franklin for his haircut. The scene experienced a resurgence in popularity in late 2020 when parodies of the cutscene were uploaded on [[YouTube]] and other video hosting sites, usually involving Lamar's character model being replaced with various popular culture icons such as [[Darth Vader]], [[Vegeta]] and [[Snow White (Disney character)|Snow White]] among others.<ref name="reenactment">{{Cite news |last=Good |first=Owen S. |date=2021-01-13 |title=GTA 5's 'Lamar roasts Franklin' meme goes IRL with original actors |language=en |url=https://www.polygon.com/2021/1/13/22228982/gta-5-lamar-roasts-franklin-original-actors-video |access-date=2021-01-23}}</ref><ref name="cnet">{{Cite news |last=Boom |first=Daniel Van |title=GTA V's dumbest meme re-created IRL with the game's actual actors |language=en |url=https://www.cnet.com/news/gta-vs-dumbest-meme-recreated-irl-with-the-games-actual-actors/ |access-date=2021-01-23}}</ref> Later that year, Fonteno and Johnson once again reprised their roles in ''The Contract'' DLC for ''[[Grand Theft Auto Online]]'', which featured an homage to the original cutscene.<ref name="gtacontract">{{Cite news |title=Lamar roasts Franklin again in GTA Online's The Contract update |language=en-GB |url=https://www.pcgamesn.com/grand-theft-auto-v/franklin-mission |access-date=2022-01-06}}</ref>
+
+==Personal life==
+Fonteno was raised in [[Watts, Los Angeles]]. He has a daughter named Bria.<ref>{{cite web |url=https://www.youtube.com/watch?v=yxdeo8baGBc |title=GTA V SHAWN "SOLO" FONTENO FULL INTERVIEW |last=Fonteno |first=Bria |work=Fonteno Media |publisher=[[YouTube]] |date=August 19, 2019 |accessdate=June 30, 2021 }}</ref><ref>{{cite web|url=https://www.youtube.com/watch?v=LUQOQxfU9a0&t=20m5s|title=IGN's GTA 5 Panel - NY Comic Con 2013|publisher=[[IGN]]|access-date=January 12, 2018}}</ref> Fonteno is also the cousin of voice actor and rapper [[Young Maylay]] who voiced Carl Johnson in ''[[Grand Theft Auto: San Andreas]]''.<ref>{{Citation|title=IGN's GTA 5 Panel - NY Comic Con 2013|url=https://www.youtube.com/watch?v=LUQOQxfU9a0|language=en|access-date=2021-03-29}}</ref> He currently resides in [[Atlanta|Atlanta, Georgia]].<ref>{{Citation |title=Shawn Fonteno chilling with Ned Luke #gta |url=https://www.youtube.com/shorts/viE_iWNaZ1Q |access-date=2023-08-18 |language=en}}</ref>
+
+==Filmography==
+===Film===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 2000 || ''[[3 Strikes (film)|3 Strikes]]'' || Big Mo ||
+|-
+| 2001 || ''[[The Wash (2001 film)|The Wash]]'' || Face ||
+|-
+| 2017 || ''[[Grow House]]'' || Bam ||
+|}
+
+===Television===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 2015 || ''Messyourself'' || Franklin Clinton (voice) || Episode: "GTA V with Oculus Rift!"
+|}
+
+===Video games===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 2004 || ''[[Grand Theft Auto: San Andreas]]'' || Grove Street Families gang member || Voice – credited as "Solo"
+|-
+| 2013 || ''[[Grand Theft Auto V]]'' || rowspan="2" | Franklin Clinton || Voice and [[motion-capture]]
+|-
+|2021
+|''[[Grand Theft Auto Online]]'' || Voice and motion-capture<br />The Contract expansion
+|-
+
+|}
+
+==References==
+{{notelist}}
+
+{{reflist}}
+
+==External links==
+*{{IMDb name|1062259}}
+*{{Twitter}}
+*{{facebook|shon.harris.370}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Fonteno, Shawn}}
+[[Category:Living people]]
+[[Category:African-American male actors]]
+[[Category:American male voice actors]]
+[[Category:American male film actors]]
+[[Category:American male video game actors]]
+[[Category:Male motion capture actors]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Gangsta rappers]]
+[[Category:21st-century American male actors]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Rappers from Los Angeles]]
+[[Category:Male actors from California]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Male actors from Los Angeles]]
+[[Category:People from South Los Angeles]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+
+
+{{US-voice-actor-stub}}

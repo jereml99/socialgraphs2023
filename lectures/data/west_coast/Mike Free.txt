@@ -1,0 +1,352 @@
+{{Use mdy dates|date=April 2023}}
+{{Short description|American musical artist (born 1992)}}
+{{Infobox musical artist
+| name             = Mike Free
+| image            =
+| image_size       = 300
+| landscape        = 
+| alt              = 
+| caption          = 
+| birth_name       = Mikely Wilhelm Adam<ref>https://www.ascap.com/repertory#ace/work/887887405 {{Bare URL inline|date=August 2022}}</ref>
+| native_name      = 
+| native_name_lang = 
+| alias            = Mike Free
+| birth_date       = {{birth date and age|1992|01|08}}
+| origin           = [[South Central, Los Angeles]]
+| birth_place      = Los Angeles, California
+| death_date       = 
+| death_place      = 
+| genre            = [[Hip hop music|Hip hop]]
+| occupation       = {{hlist|Record producer|disc jockey|songwriter}}
+| instrument       = {{flatlist |
+*Vocals
+*Synthesizer
+*Keyboards
+*[[Turntables]]
+*[[Drum Machine]]
+*[[Sample (music)|Sample]]}}
+| years_active     = 2011&ndash;present
+| label            = 
+| associated_acts  = {{flatlist |
+*[[Dom Kennedy]]
+*[[YG (rapper)|YG]]
+*[[O.T. Genasis]]
+*[[E-40]]
+*[[Ty Dolla Sign]]
+*[[Tyga]]
+*[[Mustard (record producer)|Mustard]]}}
+| website          = <!-- {{URL|example.com}} -->
+}}
+'''Mikely Wilhelm Adam''' (born January 8, 1992), better known by his stage name '''Mike Free''', is an American record producer, DJ, and songwriter from [[South Central, Los Angeles]].<ref>{{cite web|last1=Pub|first1=Songs|title=Mike Free|url=http://songspub.com/OneSheet/198/Mike%20Free|website=songspub.com/|access-date=December 17, 2014}}</ref> While attending [[Hampton University]] in [[Virginia]], Free began working with [[DJ Mustard]], who introduced him to Los Angeles- based artists including [[YG (rapper)|YG]] and [[Ty Dolla Sign]].<ref>{{cite web|last1=Thompson|first1=Paul|title=Producer Mike Free Says Big Sean's "IDFWU" Was Originally For Justin Bieber|url=http://www.xxlmag.com/news/2014/12/mike-free-production-credit-interview/|website=xxlmag.com|publisher=XXL}}</ref><ref>{{cite web|last1=Pub|first1=Songs|title=Mike Free|url=http://songspub.com/OneSheet/198/Mike%20Free|website=songspub.com|access-date=December 17, 2014}}</ref> Free's first success came via his co-production work on [[Tyga]]’s "Rack City" with [[DJ Mustard]], which was certified 4 times platinum by the [[Recording Industry Association of America]] (RIAA).<ref>{{cite web|last1=Staff|first1=TMZ|title=DJ Mustard Pulled A 'Rack City' Rip-Off On Me...Says Ex-Pal|url=http://www.tmz.com/2014/12/02/dj-mustard-rack-city-ripoff-tyga-lawsuit/|website=tmz.com|access-date=December 2, 2014}}</ref><ref>{{cite web|title=American Single certifications – Tyga – Rack City|url=https://www.riaa.com/goldandplatinumdata.php?artist=%22Rack+City%22|website=riaa.com}}</ref>
+
+== Singles Produced ==
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles produced, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:20em;" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="8" | Peak chart positions
+! scope="col" rowspan="2" style="width:12em;" | [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" | Album
+|-
+! scope="col" style="width:3em;font-size:90%;"|[[Billboard Hot 100|US]]
+! scope="col" style="width:3em;font-size:90%;"|[[Hot R&B/Hip-Hop Songs|US R&B/Hip Hop]]
+! scope="col" style="width:3em;font-size:90%;"|[[Hot Rap Songs|US Rap]]
+! scope="col" style="width:3em;font-size:90%;"|[[ARIA Charts|AUS]]
+! scope="col" style="width:3em;font-size:90%;"|[[Canadian Hot 100|CAN]]<br />
+! scope="col" style="width:3em;font-size:90%;"|[[Syndicat National de l'Édition Phonographique|FRA]]<br />
+! scope="col" style="width:3em;font-size:90%;"|[[GfK Entertainment|GER]]
+! scope="col" style="width:3em;font-size:90%;"|[[UK Singles Chart|UK]]<br />
+|-
+! scope="row"| "[[Rack City]]"<br /><small>([[Tyga]])</small>
+|2011<br />
+| 7 || 1 ||2
+| 56 || 53 || 150 || 60 || 39
+|
+* [[Recording Industry Association of America|RIAA]]: 4× Platinum
+*[[ARIA]]: Gold
+*[[Bundesverband Musikindustrie|BVMI]]: Gold
+|''[[Careless World: Rise of the Last King]]''
+|-
+! scope="row"| "[[Headband (song)|Headband]]"<br /><small>([[B.o.B]]. featuring [[2 Chainz]])</small>
+| rowspan="7" |2013
+| 53 || 16 || 15 || — || 67 || — || — || —
+|
+* RIAA: 2× Platinum
+|''[[Underground Luxury]]''
+|-
+! scope="row"| "Helluva Night"<br /><small>([[Ludacris]])</small>
+| 96 || 31 || 23 || — || — || — || — || —
+|
+|''#IDGAF''
+|-
+! scope="row"| "[[My Nigga]]"<br /><small>([[YG (rapper)|YG]] featuring [[Jeezy]] & [[Rich Homie Quan]])</small>
+|19|| 5 ||4
+| 69 || 62 || 106 || — || 53
+|
+* RIAA: 5× Platinum
+|''[[My Krazy Life]]''
+|-
+! scope="row"| "[[Paranoid (Ty Dolla Sign song)|Paranoid]]"<br /><small>(Ty Dolla Sign featuring B.o.B.)</small>
+|29|| 9 ||—
+| — || — || — || — || —
+|
+* RIAA: 2× Platinum
+*MC: Gold
+|''[[Beach House EP]]''
+|-
+! scope="row"| "[[Show Me (Kid Ink song)|Show Me]]"<br /><small>([[Kid Ink]] featuring [[Chris Brown]])</small>
+|13|| 4 ||3
+| 46 || 21 || 58 || 36 || 23
+|
+* RIAA: 3× Platinum
+*ARIA: Platinum
+*BVMI: Gold
+|''[[My Own Lane]]''
+|-
+! scope="row"| "[[Up Down (Do This All Day)]]"<br /><small>([[T-Pain]] featuring [[B.o.B.]])</small>
+|62|| 15 || — || — || — || — || — || 43
+|
+* RIAA: Platinum
+| ''[[T-Pain Presents Happy Hour: The Greatest Hits]]''
+|-
+! scope="row"| "[[Feelin' Myself (will.i.am song)|Feelin' Myself]]"<br /><small>([[Will.i.am]] featuring [[French Montana]], [[Miley Cyrus]], [[Wiz Khalifa]] and [[DJ Mustard]])</small>
+| 96 || 29 || 18 || 34 || — || 50 || 55
+|2
+|
+|''[[Willpower (will.i.am album)|#willpower]]''
+|-
+! scope="row"| "[[Na Na (song)|Na Na]]"<br /><small>([[Trey Songz]])</small>
+| rowspan="11" |2014
+|21|| 5 || 5 || 83 || 94 || 21 || — || 20
+|
+* RIAA: 2× Platinum
+|''[[Trigga (album)|Trigga]]''
+|-
+! scope="row"| "[[Na Na (song)|Or Nah]]"<br /><small>([[Ty Dolla Sign]] featuring Wiz Khalifa and DJ Mustard)</small>
+|48|| 12 || — || — || 78 || — || — || —
+|
+* RIAA: 6× Platinum
+*[[Music Canada|MC]]: 2× Platinum
+*[[British Phonographic Industry|BPI]]: Silver
+|''[[Beach House EP]]''
+|-
+! scope="row"| "[[24 Hours (TeeFlii song)|24 Hours]]"<br /><small>([[TeeFlii]] featuring 2 Chainz)</small>
+|85|| 21 || 15 || — || — || — || 6 || —
+|
+|''Starr''
+|-
+! scope="row"| "[[No Mediocre]]"<br /><small>([[T.I.]] featuring [[Iggy Azalea]])</small>
+|33|| 8 || 6 || 36 || 59 || 35 || 1 || 49
+|
+* RIAA: Platinum
+*MC: Gold
+*ARIA: Gold
+|''[[Paperwork (T.I. album)|Paperwork]]''
+|-
+! scope="row"| "[[You and Your Friends]]"<br /><small>(Wiz Khalifa featuring [[Snoop Dogg]] and Ty Dolla Sign)</small>
+|82|| 21 ||18
+| 14 || — || — || 3 || —
+|
+* RIAA: Gold
+|''[[Blacc Hollywood]]''
+|-
+! scope="row"| "[[Don't Panic (French Montana song)|Don't Panic]]"<br /><small>([[French Montana]])</small>
+|—|| 37 || — || — || — || — || — || —
+|
+| 
+|-
+! scope="row"| "[[My Main]]"<br /><small>([[Mila J]] featuring Ty Dolla Sign)</small>
+|—|| — || — || — || — || — || — || —
+|
+|[[Made in L.A. (EP)|M.I.L.A.]]
+|-
+! scope="row"|"[[I Don't Fuck With You]]"<br /><small>([[Big Sean]] featuring [[E-40]])</small>
+|11|| 1 || 1 || 47 || 35 || 138 || 95 || 67
+|
+* RIAA: 6× Platinum
+*ARIA: Gold
+*BPI: Gold
+| ''[[Dark Sky Paradise]]''
+|-
+! scope="row"| "Party Ain't A Party"<br /><small>([[Jamie Foxx]] featuring 2 Chainz)</small>
+|—|| — ||—
+| — || — || — || — || —
+|
+|
+|-
+! scope="row"| "[[Post to Be]]"<br /><small>([[Omarion]] featuring Chris Brown & [[Jhene Aiko|Jhené Aiko]])</small>
+|13|| 5 || — || 79 || 49 || — || — || 74
+|
+* RIAA: 3× Platinum
+*BPI: Gold
+|''[[Sex Playlist]]''
+|-
+! scope="row"| "It Ain't You"<br /><small>([[Jordin Sparks]])</small>
+| — || — || — || — || — || — || —
+|—
+|
+|''[[Right Here Right Now (Jordin Sparks album)|Right Here, Right Now]]''
+|-
+! scope="row"| "I'm Tha Man"<br /><small>([[Cozz]])</small>
+| rowspan="3" |2015|| — ||—
+| — || — || — || — || —
+|—
+|
+|''[[Cozz & Effect]]''
+|-
+! scope="row"| "Only Right"<br /><small>(Ty Dolla Sign featuring YG, TeeCee 4800 and Joe Moses)</small>
+|—|| — || — || — || — || — || — || —
+|
+|''[[Free TC]]''
+|-
+! scope="row"| "[[The Fix (song)|The Fix]]"<br /><small>([[Nelly]])</small>
+|62|| 20 || — || 3 || 88 || — || — || 82
+|
+* RIAA: Platinum
+* ARIA: 2× Platinum
+* [[RMNZ]]: Gold
+|
+|-
+! scope="row"| "All On You"<br /><small>(Raven Felix featuring [[Wiz Khalifa]])</small>
+| rowspan="5" |2016
+|—|| — || — || — || — || — || — || —
+|
+|
+|-
+! scope="row"| "Strive"<br /><small>([[ASAP Ferg]] featuring [[Missy Elliott]])</small>
+|—|| — || — || — || — || — || — || —
+|
+|''[[Always Strive and Prosper]]''
+|-
+! scope="row"| "League of Your Own"<br /><small>(DJ Spinking featuring French Montana, [[Nico & Vinz]], and [[Velous]])</small>
+|—|| — || — || — || — || — || — || —
+|
+|
+|-
+! scope="row"| "I Do This"<br /><small>([[Nipsey Hussle]] featuring [[Young Thug]] and [[Mozzy]])</small>
+|—|| — || — || — || — || — || — || —
+|
+|''Slauson Boy 2''
+|-
+! scope="row"| "Craccin"<br /><small>(G Perico)</small>
+|—|| — || — || — || — || — || — || —
+|
+|Shit Don't Stop
+|-
+! scope="row"|"Swap Meet"<br /><small>(Tyga)</small>
+| rowspan="2" |2018
+|—|| — || — || — || — || — || — || —
+|
+| 
+|-
+! scope="row"| "Bae"<br /><small>([[O.T. Genasis]])</small>
+|—|| — || — || — || — || — || — || —
+|
+|-
+! scope="row"|"Big League"<br /><small>(O.T. Genasis)</small>
+| rowspan="2" |2021
+|—|| — || — || — || — || — || — || —
+|
+| 
+|-
+! scope="row"| "What Is Your Name"<br /><small>(O.T. Genasis)</small>
+|—|| — || — || — || — || — || — || —
+| 
+|-
+! scope="row"|"Been Thru"<br /><small>(HeyDeon)</small>
+| rowspan="2" |2022
+|—|| — || — || — || — || — || — || —
+| 
+| ''[[Snoop Dogg Presents Algorithm]]''
+|-
+! scope="row"| "Pourin'"<br /><small>(''[[03 Greedo]]'')</small>
+|—|| — || — || — || — || — || — || —
+|
+|}
+
+== Other Production ==
+
+=== 2013 ===
+
+* '''Nipsey Hussle – ''[[Crenshaw (mixtape)|Crenshaw]]'''''
+** 02. "U See Us"
+* '''[[R. Kelly]] – ''[[Black Panties]]'''''
+** 11. "Spend That" (featuring Young Jeezy)
+
+===2014===
+
+* '''YG – ''[[My Krazy Life]]'''''
+** 06. "Meet The Flockers" (featuring Tee Cee)
+**17. "My Nigga (Remix)" (featuring [[Lil Wayne]], [[Nicki Minaj]], [[Meek Mill]] and Rich Homie Quan)
+* '''DJ Mustard – ''[[10 Summers]]'''''
+**05. "Giuseppe" (featuring 2 Chainz, Young Jeezy and [[Yo Gotti]])
+**07. "Down On Me" (featuring 2 Chainz and Ty Dolla Sign)
+**13. "Vato" (featuring Que, YG, and Jeezy)
+* '''E-40 – ''[[Sharp On All 4 Corners: Corner 1]]'''''
+**03. "Money Sack" (featuring [[Boosie Badazz]])
+**07. "Three Jobs"
+* '''E-40 – ''[[Sharp On All 4 Corners: Corner 2]]'''''
+**01. "It's The First" (featuring Cousin Fik & [[Turf Talk|Turk Talk]])
+**02. "That's Right" (featuring Ty Dolla Sign)
+* '''YG – ''[[Blame It On the Streets]]'''''
+**03. "Blame It On The Streets" (featuring Jay 305)
+**06. "If I Ever" (featuring TeeCee4800 & Charley Hood)
+* '''Kid Ink'''
+**"Show Me (Remix)" (featuring Trey Songz, [[Juicy J]], 2 Chainz & Chris Brown)
+
+===2015===
+* '''Chris Brown & Tyga – ''[[Fan of a Fan: The Album]]'''''
+**02. "Nothin' Like Me" (featuring Ty Dolla Sign)
+**16. "Banjo"
+* '''[[Jamie Foxx]] – ''[[Hollywood: A Story of a Dozen Roses|Hollywood: A Story of a Dozen Rose]]'''''
+**17. "Pretty Thing"
+
+===2016===
+* '''E-40 – ''[[The D-Boy Diary: Book 1]]'''''
+**10. "Stay Away" (featuring [[Eric Bellinger]])
+* '''[[Dom Kennedy]] – ''[[Los Angeles Is Not For Sale, Vol. 1]]'''''
+**13. "U Got It Like That" (featuring Niko G4)
+**14. "Johnny Bench"
+
+===2017===
+
+* '''[[Problem (rapper)|Problem]] – ''Chachiville'''''
+**13. "All Year"
+* '''Jay 305 – ''Taking All Bets'''''
+**09. "Why You So Nasty?" (featuring [[Travis Scott]])
+
+===2018===
+
+* '''Rich The Kid – ''[[The World Is Yours (Rich the Kid album)|The World Is Yours]]'''''
+**03. "No Question" (featuring [[Future (rapper)|Future]])
+* '''Lil Wayne – ''[[Tha Carter V]]'''''
+**16. "Open Safe"
+* '''Problem – ''[[S2 (album)|S2]]'''''
+**02. "Put It Down" (featuring [[03 Greedo]])
+* '''Salma Slims'''
+**"Nobody"
+
+===2020===
+* '''Eric Bellinger & Nieman J – ''Optimal Music'''''
+**03. "Alone" (featuring [[Blxst]])
+
+===2021===
+* '''Philthy Rich – ''Phillip Beasley'''''
+**09. "Too Bad" (featuring [[Jim Jones (rapper)|Jim Jones]] & Landstrip Chip)
+
+==References==
+{{reflist}}
+
+__FORCETOC__
+
+{{DEFAULTSORT:Free, Mike}}
+[[Category:Record producers from California]]
+[[Category:Living people]]
+[[Category:Musicians from Los Angeles]]
+[[Category:1992 births]]
+[[Category:African-American record producers]]
+[[Category:21st-century American musicians]]
+[[Category:West Coast hip hop musicians]]
+[[Category:American people of Belizean descent]]
+[[Category:American people of Haitian descent]]
+[[Category:21st-century African-American musicians]]

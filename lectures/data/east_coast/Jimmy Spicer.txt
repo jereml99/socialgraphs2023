@@ -1,0 +1,63 @@
+{{Short description|American rapper (1958–2019)}}
+
+{{Infobox musical artist
+| name = Jimmy Spicer
+| image =Jimmy Spicer.jpg
+| imagesize = 
+| caption = 
+| background = solo_singer
+| alias = 
+| birth_name = James Bromley Spicer
+| birth_date = May 12, 1958
+| birth_place = [[Brooklyn, New York]], U.S.
+| death_date = {{death date and age|2019|9|27|1958|05|12}}
+| death_place = Brooklyn, New York, U.S.
+| origin = 
+| genre = [[Hip hop music|Hip hop]]<!--Do not add subgenres to this infobox. Subgenres are not to be found in artist infoboxes.-->
+| occupation = [[Rapping|Rapper]], [[songwriter]]
+| years_active = 1970–1990
+| label = Dazz, [[Mercury Records|Mercury]], [[Spring Records|Spring]], [[Def Jam Recordings|Def Jam]]
+| associated_acts = 
+| website = 
+}}
+
+'''James Bromley Spicer''' (May 12, 1958<ref>{{cite web|url=http://hiphop101a.blogspot.com/2016/01/godfather-of-storytelling-adventures-of.html|title=Hip Hop 101A: The Adventures of Jimmy Spicer|first=Mark|last=Skillz|date=26 January 2016|website=Hiphop101a.blogspot.com}}</ref> – September 27, 2019) was an American [[hip hop music|hip hop]] [[recording artist]] who released a number of [[old school rap]] [[Single (music)|singles]] during the late 1970s and early 1980s including the classic "Dollar Bill Y'all," for which he was perhaps best known.<ref name="Kellman">Kellman, Andy "[https://www.allmusic.com/artist/jimmy-spicer-p127439/biography Jimmy Spicer Biography]", [[AllMusic]], retrieved 2011-08-08</ref><ref>{{Cite web|url=https://hiphopdx.com/news/id.48533/title.jimmy-spicer-calls-out-russell-simmons-for-unpaid-royalties-disingenuous-ig-post|title = Jimmy Spicer Calls Out Russell Simmons for Unpaid Royalties & Disingenuous IG Post|date = 21 September 2018}}</ref>  Spicer was managed by [[Russell Simmons]]' Rush Management. His single "The Bubble Bunch" featured  [[Jellybean Benitez|Jellybean Benitez's]] first [[remix]].<ref name="Kellman" />
+
+An obituary of Spicer in ''[[The New York Times]]'' described his 15-minute-long debut single, "Adventures of Super Rhyme," as being "widely regarded as the first true storytelling rap." Spicer's music was sampled by hip-hop artists including the [[Wu-Tang Clan]], [[2Pac]], [[De La Soul]], and [[Busta Rhymes]]. Rapper [[LL Cool J]] has cited Spicer's music as sparking his interest in hip-hop.<ref name="caramanica">{{cite news |last1=Caramanica |first1=Jon |title=Jimmy Spicer, Influential Early Rapper, Is Dead at 61 |url=https://www.nytimes.com/2019/09/30/arts/music/jimmy-spicer-dead.html |access-date=4 August 2023 |work=New York Times |date=30 September 2019}}</ref>
+
+Spicer had four daughters, Angelina, Leticia, Janel, and Princess and one son, James. In 2018, he was diagnosed with advanced [[brain cancer|brain]] and [[lung cancer]].<ref>{{cite web |title=Hip Hop Pioneer Jimmy Spicer Diagnosed With Advanced Brain & Lung Cancer |url=https://hiphopdx.com/news/id.48382/title.hip-hop-pioneer-jimmy-spicer-diagnosed-with-advanced-brain-lung-cancer# |website=HipHopDX.com |date=9 September 2018 |accessdate=14 September 2018}}</ref> He died on September 27, 2019, at the age of 61.<ref>{{Cite news|url=https://www.nytimes.com/2019/09/30/arts/music/jimmy-spicer-dead.html|title = Jimmy Spicer, Influential Early Rapper, is Dead at 61|newspaper = The New York Times|date = 30 September 2019|last1 = Caramanica|first1 = Jon}}</ref><ref>{{Cite web|url=https://hiphopdx.com/news/id.52970/title.jimmy-spicers-family-launches-gofundme-to-make-final-days-as-peaceful-as-possible|title=Hip Hop Pioneer Jimmy "Super Rhymes" Spicer Passes Away|date=September 27, 2019|website=HipHopDX.com}}</ref>
+
+==Discography==
+*"Adventures of Super Rhyme (Rap)" (1980), Dazz Records - 12-inch single
+*"The Bubble Bunch" (1982), Mercury (US) - 12-inch single
+*"Money (Dollar Bill Y'all)" (1983), Spring Records - 12-inch single
+*"This Is It" / "Beat The Clock" (1985), Def Jam Recordings - 12-inch single
+*"I Rock Boots" (1990), Def Valley Records - 12-inch single<ref>{{Cite web|url=https://www.discogs.com/Jimmy-Spicer-I-Rock-Boots/release/446115|title=Jimmy Spicer - I Rock Boots|website=Discogs|year=1990 }}</ref>
+*"$ Can't Buy U Luv (Money Can't Buy You Love)" (2010), Spice Rhymes <ref>{{cite web|url=https://www.youtube.com/watch?v=6BOlc3E6yiU&feature=g-all-lik&context=G230545bFAAAAAAAACAA |archive-url=https://ghostarchive.org/varchive/youtube/20211221/6BOlc3E6yiU |archive-date=2021-12-21 |url-status=live|title=JIMMY SPICER - "$ CAN'T BUY U LUV" (MONEY CAN'T BUY YOU LOVE)|last=Leticia Spicer|date=24 May 2010|publisher=|via=YouTube}}{{cbignore}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.oldschoolhiphop.com/artists/emcees/jimmyspicer.htm Bio at Oldschoolhiphop.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Spicer, Jimmy}}
+[[Category:1958 births]]
+[[Category:2019 deaths]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:African-American record producers]]
+[[Category:American hip hop record producers]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Rappers from Brooklyn]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:Deaths from brain cancer in the United States]]
+[[Category:Deaths from lung cancer in New York (state)]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]
+
+
+{{US-hiphop-bio-stub}}

@@ -1,0 +1,95 @@
+{{short description|American former rapper}}
+{{BLP sources|date=July 2020}}
+{{Use mdy dates|date=February 2020}}
+{{Infobox musical artist
+| name            = Passion
+| image           =
+| birth_name      =
+| alias           = Passion Broussard
+| birth_date      =
+| birth_place     = [[Oakland, California]]
+| origin          =
+| genre           = [[Hip hop music|Hip hop]], [[Contemporary R&B|R&B]]
+| occupation      = Singer, [[rapper]], songwriter, dancer, music producer
+| years_active    = 1995–2003
+| label           = [[MCA Records|MCA]], Yo Playa Patna Records
+| associated_acts = [[Erick Sermon]], [[Rappin' 4-Tay]], [[Jamal (rapper)|Jamal]], [[The D.O.C.]], [[Domino (rapper)|Domino]], [[Too Short]], [[E-40]], [[Master P]], [[MC Breed]], [[Turf Talk]], [[Redman (rapper)|Redman]], [[Levitti]]
+| website         = 
+}}
+'''Passion''' is an American former rapper. From 1996 to 1998, she appeared as guest on numerous albums by artists including [[Jamal (rapper)|Jamal]] and [[Rappin' 4-Tay]]. In 1996, she signed a deal with [[MCA Records]] and released her first single "[[Where I'm From (Passion song)|Where I'm From]]", which peaked at 29 on the [[Rap Songs|Hot Rap Singles]]. Her first album, ''[[Baller's Lady]],'' was released on August 27, 1996, and entered the [[Top R&B/Hip-Hop Albums]] chart, peaking at 85. She continued to perform until 1998, with her last major appearance being on [[No Limit Records]]' compilation ''[[Mean Green: Major Players Compilation|Mean Green]]''.<ref name="BB">{{cite magazine | url = {{BillboardURLbyName|artist=passion|chart=all}}| title = ''Baller's Lady'' chart positions| magazine = Billboard | date = October 29, 2010}}</ref>
+
+==Discography==
+===Albums===
+{|class="wikitable"
+|-
+!rowspan="2"| Year
+!rowspan="2"| Title
+!colspan="2"| Chart positions
+|-
+! <small>[[Top R&B/Hip-Hop Albums|U.S. R&B]]</small>
+|-
+|1996
+|''[[Baller's Lady]]''
+*Released: August 27, 1996
+*Label: [[MCA Records|MCA]]
+|align="center"|85
+|-
+|-
+|1999
+|''Blame It On the Game''
+*Released: March 23, 1999
+*Label: Yo Playa Patna
+|align="center"|-
+|-
+|}
+
+===Singles===
+{| class="wikitable"
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="3"|Chart positions
+!rowspan="2"|Album
+|-
+!width="40"|<small>[[Billboard Hot 100|U.S. Hot 100]]</small>
+!width="40"|<small>[[Hot R&B/Hip-Hop Songs|U.S. R&B]]</small>
+!width="40"|<small>[[Hot Rap Tracks|U.S. Rap]]</small>
+|-
+|align="center" rowspan="4"|1996
+|align="left"|"[[Where I'm From (Passion song)|Where I'm From]]"
+|align="center"|-
+|align="center"|88
+|align="center"|29
+| ''Baller's Lady''
+|}
+
+===Music videos===
+{|class="wikitable"
+|-
+!Year
+!Song title
+!Director
+|-
+|rowspan="2"|1996
+|"[[Where I'm From (Passion song)|Where I'm From]]"
+| Unknown
+|-
+|"Where I'm From (Remix)" <small>(Passion featuring [[Rappin' 4-Tay]], [[Too $hort]] and Soul Depot)</small>
+| Unknown
+|}
+
+== References == 
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Passion}}
+[[Category:American women rappers]]
+[[Category:African-American women rappers]]
+[[Category:Living people]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Year of birth missing (living people)]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American women musicians]]
+[[Category:21st-century African-American women]]
+[[Category:21st-century African-American musicians]]
+[[Category:21st-century women rappers]]

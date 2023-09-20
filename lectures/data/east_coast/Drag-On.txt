@@ -1,0 +1,271 @@
+{{short description|American rapper}}
+{{BLP sources|date=May 2019}}
+{{Use mdy dates|date=October 2021}}
+{{Infobox musical artist
+| name            = Drag-On
+| image           =
+| caption         =
+| birth_name      = Melvin Jason Smalls
+| alias           = 
+| birth_date      = 
+| death_date      =
+| birth_place     = [[New York City]], U.S.
+| genre           = [[Hip hop music|Hip hop]]
+| occupation      = Rapper, songwriter, actor
+| years_active    = 1997–present
+| label           = {{hlist|[[Interscope]]|[[Ruff Ryders Entertainment|Ruff Ryders]]|[[Full Surface Records|Full Surface]]<ref name=XXL.com>{{cite web|url=https://www.xxlmag.com/drag-on-signs-with-swizz-beatz-full-surface-records/|title=Drag-On Signs with Swizz Beatz's Full Surface- XXL|date=October 25, 2007 }}</ref>}}
+| associated_acts = {{hlist|[[Ruff Ryders Entertainment|Ruff Ryders]]|[[Swizz Beatz]]|[[DMX (rapper)|DMX]]}}
+}}
+
+'''Melvin Jason Smalls''',<ref name=MTV.com>{{cite web|url=https://www.mtv.com/news/1428342/drag-on-arrested-on-assault-charges/|title= DRAG-ON ARRESTED ON ASSAULT CHARGES|website= [[MTV]]}}</ref> known professionally as '''Drag-On''', is an American rapper. He is best known for his time on [[Ruff Ryders Entertainment|Ruff Ryders]], through whom he released his debut album, ''[[Opposite of H2O]]'' (2000). The album was successful, debuting at number five on the US [[Billboard 200|''Billboard'' 200]] chart and eventually sold over 500,000 copies and earning a [[RIAA certification|Gold certification]] from the [[Recording Industry Association of America]] (RIAA). Drag-On released his second album ''[[Hell and Back (album)|Hell and Back]]'', in 2004.
+
+Drag-On has appeared in the 2001 film ''[[Exit Wounds]]'' and the 2003 ''[[Cradle 2 the Grave]]'', both of which stars his then-Ruff Ryders label-mate [[DMX (rapper)|DMX]].
+
+== Discography ==
+
+=== Studio albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of albums, with selected chart positions
+! scope="col" rowspan="2" style="width:12em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| Album details
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| [[List of music recording certifications|Certifications]]
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Billboard 200|US]]
+! scope="col" style="width:3em;font-size:90%;" | [[Top R&B/Hip-Hop Albums|US R&B]]
+|-
+
+! scope="row" | ''[[Opposite of H2O]]''
+|
+*Released: March 28, 2000
+*Label: [[Ruff Ryders Entertainment|Ruff Ryders]], [[Interscope Records|Interscope]]
+*Format: CD, cassette, digital download
+| 5 || 2
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref name="RIAA">{{Cite web | url=https://www.riaa.com/gold-platinum/?tab_active=default-award&se=drag-on#search_section | title=RIAA – Searchable Database: Drag-On | publisher=[[Recording Industry Association of America]] | access-date=April 28, 2012}}</ref>
+|-
+
+! scope="row" | ''[[Hell and Back (album)|Hell and Back]]''
+|
+*Released: February 10, 2004
+*Label: Ruff Ryders, [[Virgin Records|Virgin]]
+*Format: CD, digital download
+| 47 || 5
+|
+|-
+
+! scope="row" | ''[[Hood Environment]]''
+|
+*Released: September 4, 2007
+*Label: Hood Environment Records
+*Format: Digital downloads
+| – || —
+|
+|}
+
+=== Singles ===
+
+==== As lead artist ====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2" style="width:16em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;" | [[Hot R&B/Hip-Hop Songs|US R&B]]
+! scope="col" style="width:3em;font-size:90%;" | [[Hot Rap Tracks|US Rap]]
+|-
+! scope="row" | "Down Bottom"<br /><small>(with [[Swizz Beatz]] and [[Juvenile (rapper)|Juvenile]])</small>
+|rowspan="2"|1999
+| 43 || 5
+| ''[[Ryde or Die Vol. 1|Ryde or Die]]''
+|-
+! scope="row" | "Spit These Bars"<br /><small>(featuring [[Swizz Beatz]])</small>
+| 80 || –
+| ''Opposite of H2O''
+|-
+|}
+
+=== Guest appearances ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" style="width:16em;" | Title
+! scope="col" | Year
+! scope="col" | Artist(s)
+! scope="col" | Album
+|-
+! scope="row" | "For My Dogs"
+| rowspan="3" | 1998
+| [[DMX]], Big Stan, Loose, Kasino
+| ''[[It's Dark and Hell Is Hot]]''
+|-
+! scope="row" | "[[Ruff Ryders' Anthem]]" (Remix)
+| DMX, [[Eve (rapper)|Eve]], [[Jadakiss]], [[Styles P]]
+| ''[[The Professional (album)|The Professional]]''
+|-
+! scope="row" | "No Love 4 Me"
+| DMX, [[Swizz Beatz]]
+| ''[[Flesh of My Flesh, Blood of My Blood]]''
+|-
+! scope="row" | "100 Shiesty's"
+| rowspan="8" |1999
+| [[Harlem World (group)|Harlem World]]
+| ''[[The Movement (Harlem World album)|The Movement]]''
+|-
+! scope="row" | "Ryde or Die"
+| [[The Lox]], DMX, Eve
+| rowspan="3" |''[[Ryde or Die Vol. 1]]''
+|-
+! scope="row" | "Down Bottom"
+| Swizz Beatz, [[Juvenile (rapper)|Juvenile]]
+|-
+! scope="row" | "The Hood"
+| Swizz Beatz, [[Beanie Sigel]], Infa-Red, NuChild, Mysonne
+|-
+! scope="row" | "We Got That"
+| [[Warren G]], Eve, Shadow
+| rowspan="2" | ''[[I Want It All (album)|I Want It All]]''
+|-
+! scope="row" | "[[I Want It All (Warren G song)|I Want It All]]" (Remix)
+| Warren G, [[Memphis Bleek]], Tikki Diamond
+|-
+! scope="row" | "Pay Per View"
+| Jadakiss, Eve, Styles P
+| ''[[WCW Mayhem: The Music]]''
+|-
+! scope="row" | "D-X-L (Hard White)"
+| DMX, The Lox
+| ''[[... And Then There Was X]]''
+|-
+! scope="row" | "Move Right Now"
+| rowspan="6" |2000
+| Swizz Beatz, Eve
+| ''[[Any Given Sunday (soundtrack)|Music from the Motion Picture Any Given Sunday]]''
+|-
+! scope="row" | "If You Know"
+| The Lox, Eve, Swizz Beatz
+|''[[We Are the Streets]]''
+|-
+! scope="row" | "You Was Wrong"
+| [[Big Pun]], [[Fat Joe]], [[Remy Ma]]
+| ''[[Yeeeah Baby]]''
+|-
+! scope="row" | "Weed, Hoes, Dough"
+| {{n/a}}
+| rowspan="2" |''[[Ryde or Die Vol. 2]]''
+|-
+! scope="row" | "Twisted Heat"
+| Swizz Beatz, [[Twista]]
+|-
+! scope="row" | "Call Me Drag-On"
+| {{n/a}}
+| ''[[The Mix Tape, Vol. IV|60 Minutes of Funk, Volume IV: The Mixtape]]''
+|-
+! scope="row" | "Got What You Need"
+| rowspan="7" |2001
+| Eve, Swizz Beatz
+| rowspan="2" | ''[[Scorpion (Eve album)|Scorpion]]''
+|-
+! scope="row" | "Thug in the Street"
+| Eve, The Lox
+|-
+! scope="row" | "It's Time I See You"
+| The Lox, Eve, Infa-Red, Cross
+| ''[[Kiss tha Game Goodbye]]''
+|-
+! scope="row" | "It Was Written"
+| [[Damian Marley]], [[Stephen Marley (musician)|Stephen Marley]], [[Capleton]]
+| ''[[Halfway Tree]]''
+|-
+! scope="row" | "Dirrty"
+| [[Petey Pablo]]
+| rowspan="3" |''[[Ryde or Die Vol. 3: In the "R" We Trust]]''
+|-
+! scope="row" | "We Don't Give a Fuck"
+| Fiend
+|-
+! scope="row" | "Street Team"
+| Infa-Red, Cross
+|-
+! scope="row" |"Untouchable"
+| rowspan="1" |2003
+| DMX, [[Syleena Johnson]], Cross, Infa-Red, [[Sheek Louch]]
+| ''[[Grand Champ]]''
+|-
+! scope="row" |"Move Back"
+| rowspan="4" |2005
+| [[Ol' Dirty Bastard]], The Lenox Ave. Boys, [[Jae Millz]], Cardan, Terra Blacks
+| ''[[Osirus (album)|Osirus]]''
+|-
+! scope="row" |"BMW (Bronx Most Wanted)"
+| [[Lord Tariq]]
+| ''The Barcode''
+|-
+! scope="row" |"Knock Knock"
+| Chocolate Ty
+| rowspan="2" | ''[[Vol. 4: The Redemption]]''
+|-
+! scope="row" |"Throw It Up" 
+| {{n/a}}
+|-
+! scope="row" | "Bust Ya Gunz"
+| rowspan="2" |2007
+| Swizz Beatz
+| ''[[One Man Band Man]]''
+|-
+! scope="row" | "Cook It Up"
+| [[Big Sha]], Iveta
+| ''[[Bread and Amphetamines|Хляб И Амфети]]''
+|-
+! scope="row" | "World's Greatest"
+| rowspan="2" |2011
+| Mook, DMX, The Lox, Swizz Beatz
+| rowspan="2" |''[[Ruff Ryders: Past, Present, Future]]''
+|-
+! scope="row" | "Hip Hop"
+| Swizz Beatz
+|-
+! scope="row" | "Say Word"
+|2015
+| [[Sy Ari da Kid]], [[K Camp]], DC Young Fly, [[Snootie Wild]], [[OG Maco]], [[Kap G]], Tha Joker, [[Jarren Benton]], Zach Farlow, Nyemiah Supreme, [[Scotty ATL]], Mike Fresh, Zuse, Royce Rizzy, Wave Chapelle, [[Katie Got Bandz]], [[Rich the Kid]], A1 the Supergroup, Yowda, Bandit Gang Marco, Translee, Zip K, Fat Bax, D Chamberz, Math Hoffa
+| ''S.O.O.N (Somethin Out of Nothin)''
+|-
+! scope="row" | "Rolling 110 Deep"
+|2021
+| [[DJ Kay Slay]], Sheek Louch, Styles P, [[Dave East]], [[Crooked I]], [[Black Thought]], [[Conway the Machine]], [[Raekwon]], [[Ghostface Killah]], [[Inspectah Deck]], [[Papoose (rapper)|Papoose]], Loaded Lux, [[AZ (rapper)|AZ]], [[Bun B]], [[Fred the Godson]], [[Jim Jones (rapper)|Jim Jones]], Ransom, [[Rah Digga]], [[M.O.P.]], [[Trae tha Truth]], [[Joell Ortiz]], [[Lord Tariq and Peter Gunz]], [[Cory Gunz]], [[Shaquille O'Neal]], [[Roy Jones Jr.]], [[Kool DJ Red Alert]], [[Redman (rapper)|Redman]], [[Young Buck]], [[MC Serch]], [[Big Daddy Kane]], [[MC Shan]], [[KRS-One]], [[Jon Connor]], Twista, [[Chris Rivers]], Nino Man, Locksmith, 3D Na'Tee, [[Trick Trick]], [[Tragedy Khadafi]], [[E-A-Ski]], [[Cassidy (rapper)|Cassidy]], [[Freddie Foxxx]], Gillie da King, [[Ice-T]], [[Treach]], [[Kool G Rap]], [[Lil' Cease]], RJ Payne, [[J.R. Writer]], Shoota 93, Ms. Hustle, [[Vado (rapper)|Vado]], Mysonne, [[Mistah F.A.B.]], [[Saigon (rapper)|Saigon]], [[Melle Mel]], [[Grandmaster Caz]], [[Havoc (musician)|Havoc]], Tracey Lee, [[E.D.I. Mean]], [[Young Noble]], [[McGruff (rapper)|McGruff]], Stan Spit, Sickflo, [[Fredro Starr]], [[Sticky Fingaz]], [[Ras Kass]], [[Termanology]], DJ Doo Wop, [[Junior Reid]], Oun P, Merkules, Wais P, [[Maino (rapper)|Maino]], [[Uncle Murda]], PT Capone Mobstyle, Mike Cee, [[Royal Flush (rapper)|Royal Flush]], Super Lover Cee, [[Page Kennedy]], [[Rock (rapper)|Rockness]], [[Gunplay (rapper)|Gunplay]], [[Brand Nubian]], Sonja Blade, Coke La Rock, [[Nice & Smooth]], [[Consequence (rapper)|Consequence]], Millyz, OT the Real, Ron Artest, Kaflow, Tone Trump, Hocus 45th, [[Omar Epps]], [[Bodega Bamz]], Bynoe, PTKNY, Aobie, King Kirk, Big Dubez, Tony Moxberg, Styleon, [[Chuck D]], [[Sauce Money]]
+| ''Accolades''
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official|https://hoodenvironment.com/}}
+*{{AllMusic|id=p384225}}
+*{{IMDb name|0236657}}
+
+{{Ruff Ryders}}
+
+{{Authority control}}
+
+[[Category:Year of birth missing (living people)]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:American male film actors]]
+[[Category:Interscope Records artists]]
+[[Category:Living people]]
+[[Category:Male actors from New York City]]
+[[Category:Rappers from the Bronx]]
+[[Category:Ruff Ryders artists]]
+[[Category:Virgin Records artists]]
+[[Category:East Coast hip hop musicians]]
+[[Category:African-American songwriters]]
+[[Category:Songwriters from New York (state)]]
+[[Category:Underground rappers]]
+[[Category:Gangsta rappers]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]
+[[Category:American male songwriters]]

@@ -1,0 +1,72 @@
+{{Use mdy dates|date=June 2023}}
+{{short description|American rapper}}
+{{Infobox musical artist
+| name              = McGruff
+| image             = 
+| caption           = 
+| birth_name        = Herbert Malburn Brown<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/906636680 |title=CITY IN THE SKY |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 29, 2023}}</ref>
+| birth_date        = {{birth date and age|1973|3|20}}
+| alias             = Herb McGruff
+| origin            = [[Harlem]], New York, U.S.
+| genre             = [[Hip hop music|Hip hop]]
+| occupation        = Rapper
+| years_active      = 1994–present
+| label             = 
+| associated_acts   = Bronx Most Wanted, [[Children of the Corn (group)|Children of the Corn]]
+}}
+
+'''Herbert Malburn Brown''' (born March 20, 1973) better known by his stage name '''McGruff''' (also known as '''Herb McGruff''') is an American hip hop recording artist from [[Harlem]], New York, perhaps best known for being a member of [[Children of the Corn (group)|Children of the Corn]] alongside [[Big L]], [[Cam'ron]], Bloodshed, and [[Mase]].
+
+==Career==
+Brown started rapping in his early teens. He embarked on his music career in the hip hop group Bronx Most Wanted, alongside rappers Jay Q and Tee U.B. Brown later became a member of the hip hop collective [[Children of the Corn (group)|Children of the Corn]].<ref>{{cite web|url=http://oneleguprecords.blogspot.ca/2008/04/herb-mcgruff-interview.html|title=HERB MCGRUFF: INTERVIEW!|website=oneleguprecords.blogspot.ca|date=April 11, 2008|accessdate=February 5, 2018}}</ref> As a member of Children of the Corn, Brown worked alongside [[Big L]], [[Cam'ron]], Bloodshed and [[Mase]], all of whom would go on to have successful careers in the music industry.<ref>[http://mikebschoolofhiphop.blogspot.ca/2012/02/blog-birth-briefly-brief-bio-of-herb.html] {{dead link|date=May 2023}}</ref> After the group disbanded without releasing any material, Brown made his first appearance on Big L's debut album, ''[[Lifestylez ov da Poor & Dangerous]]'' (1995), on the tracks "8 Iz Enuff" and "Danger Zone". Eventually, Brown signed a deal with popular hip hop label, [[Uptown Records]] and began recording his debut album, ''[[Destined to Be]]''. In early 1998, the album's lead single "Before We Start" became a minor hit, charting on several ''Billboard'' charts. In the Summer of 1998, ''Destined to Be'' was released but failed to sell many copies, only peaking at 169 on the [[Billboard 200|''Billboard'' 200]], and Brown was released from his contract. Brown would make appearances with [[Heavy D]] on his album, ''[[Waterbed Hev]]'' and the [[Woo (soundtrack)|''Woo'' soundtrack]]. 
+
+McGruff contributed guest vocals on the song ''Stop Calling'' on [[Cam'ron]]'s Platinum-RIAA certified album, ''[[Come Home With Me]]'', which sold over a million copies in America. In 2009, Brown appeared on Mase's [[mixtape]] ''I Do the Impossible''.<ref name="AMG">{{cite web | url = {{AllMusic|class=artist|id=p291026|pure_url=yes}}| title = McGruff's chart history at Allmusic.com| website = Allmusic.com | date = September 27, 2010}}</ref> In 2010, he was featured heavily on [[The Diplomats]] mixtape, ''The D.I.P. Agenda.''<ref>[http://ughh.com/dukedagod-presents-the-dip-agenda/MBR0466CD/] {{dead link|date=May 2023}}</ref> In 2014, [[DJ Kay Slay]], enlisted Brown, along with [[Raekwon]], [[Fat Joe]], [[Ghostface Killah]], [[Sheek Louch]], [[N.O.R.E.]], [[M.O.P.|Lil' Fame]], [[Prodigy (rapper)|Prodigy]] and [[Rell (singer)|Rell]], for a song titled "90s Flow".<ref>{{cite magazine| url=http://www.complex.com/music/2014/01/kay-slay-fat-joe-ghostface-killah-raekwon-sheek-louch-mcgruff-nore-lil-fame-prodigy-rell | title=DJ Kay Slay Enlists Fat Joe, Ghostface Killah, Raekwon, Sheek Louch, McGruff, N.O.R.E., Lil Fame, Prodigy and Rell for "90s Flow" | magazine=Complex | author=Kramer, Kyle | date=January 15, 2014 | accessdate=January 24, 2014}}</ref> In 2020, Brown featured on the single "City In The Sky" by independent artist [[Rayne Storm]], along with fellow Harlemite Stan Spit and singer/songwriter Phoenixx.<ref>{{cite web |url= http://www.digiindie.com/2020/02/city-in-the-sky-rayne-storm-ft-mcgruff-stan-spit-phoenixx-raynestormmusic-lenoxavespit-phirocks/ |title= "City In The Sky" - Rayne Storm ft. McGruff, Stan Spit & Phoenixx |work=Digiindie.com |date=February 2, 2020 |access-date=December 30, 2020}}</ref>
+
+== Legal issues ==
+in May 16, 2008, McGruff was arrested in [[Yonkers, New York]], and charged with second degree criminal possession of controlled substance. Police reportedly recovered a cannabis on his person.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of albums, with selected chart positions, showing year released
+! scope="col" rowspan="2" style="width:8em;"| Title
+! scope="col" rowspan="2" style="width:16em;"| Album details
+! scope="col" colspan="2"| Peak chart positions
+|-
+
+! scope="col" style="width:2.2em;font-size:90%;" | [[Billboard 200|US]]<br /><ref>{{cite magazine|title=McGruff Album & Song Chart History|url={{BillboardURLbyName|artist=McGruff|chart=all}}|magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]]|accessdate=May 1, 2011}}</ref>
+
+! scope="col" style="width:2.2em;font-size:90%;" | [[Top R&B/Hip-Hop Albums|US R&B]]<br /><ref>{{cite magazine|title=McGruff Album & Song Chart History|url={{BillboardURLbyName|artist=McGruff|chart=R&B/Hip-Hop Albums B}}|magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]]|accessdate=May 1, 2011}}</ref> 
+|-
+
+! scope="row" | ''[[Destined to Be]]''
+|
+* Released: June 16, 1998
+* Label: [[Uptown Records|Uptown]]
+* Format: [[Compact disc|CD]]
+| 169
+| 19
+|-
+|}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:McGruff}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Musicians from Harlem]]
+[[Category:Rappers from Manhattan]]
+[[Category:Rappers from the Bronx]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]
+
+
+{{hiphop-bio-stub}}

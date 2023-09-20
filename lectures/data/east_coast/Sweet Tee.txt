@@ -1,0 +1,311 @@
+{{short description|American rapper}}
+
+{{Infobox musical artist
+| name              = Sweet Tee
+| caption           = 
+| image_size        = <!-- Only for images narrower than 220 pixels -->
+| background        = solo_singer
+| birth_name        = Toi Crystal Jackson<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/884099594 |title=AS THE BEAT GOES ON |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 29, 2023}}</ref>
+| alias             = Sweet Tee
+| origin            = [[Queens]], [[New York City|New York]], United States
+| instrument        = 
+| genre             = [[Hip hop music|Hip hop]]
+| occupation        = [[Rapper]]
+| years_active      = 1985–present
+| label             = [[Profile Records]]
+| associated_acts   = [[DJ Jazzy Joyce|Jazzy Joyce]]<br>[[Kid 'n Play]]<br>[[Salt-N-Pepa]]<br>[[Antoinette (rapper)|Antoinette]]<br>[[Kwamé]]
+| website           = {{URL|instagram.com/sweetteethemc/}}
+}}
+
+'''Toi Crystal Jackson''', known professionally as '''Sweet Tee''', is an American [[rapper]] who was signed to [[Profile Records]] in the 1980s.<ref name="LarkinDM">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Dance Music]]|editor=[[Colin Larkin (writer)|Colin Larkin]]|publisher=[[Virgin Books]]|date=1998|edition=First|isbn=0-7535-0252-6|page=330}}</ref>  Her first single in 1986 was the hit "It's My Beat" featuring [[DJ Jazzy Joyce]].<ref name="whoz">{{cite book |last=Stancell  |first=Steven  |date=1996 |title=Rap Whoz Who: The World of Rap Music, Performers, Producers & Promoters |url=https://books.google.com/books?id=UWyfAAAAMAAJ |location=New York |publisher=Schrimer Books |page=72 |isbn=0028645200 }}</ref> Sweet Tee would be part of the crew of producer [[Hurby Azor]]’s "[[Idol Makers]]". She scored minor [[record chart|chart]] success with her debut [[album]], ''[[It's Tee Time]]'' in 1988,<ref name="LarkinDM"/> which peaked at No. 31 on the [[United States|US]] ''[[Billboard (magazine)|Billboard]]'' [[Hot R&B/Hip-Hop Songs|R&B]] chart.<ref>[{{AllMusic|class=artist|id=p103|pure_url=yes}} AllMusic]</ref> She scored four chart [[hit record|hit]] [[Single (music)|singles]] from her debut album. These included "I Got da Feelin'" (No. 48 US R&B, No. 31 [[UK Singles Chart]]), "On the Smooth Tip" (No. 36 US R&B) and "Why Did It Have to Be Me". In the [[United Kingdom|UK]], "It's Like That Y'All" peaked in the Top 40.<ref name="British Hit Singles & Albums">{{cite book
+| first= David
+| last= Roberts
+| year= 2006
+| title= British Hit Singles & Albums
+| edition= 19th
+| publisher= Guinness World Records Limited 
+| location= London
+| isbn= 1-904994-10-5
+| page= 543}}</ref>
+
+JMJ Records a subsidiary of Def Jam Recordings signed Sweet Tee and in 1995, Sweet Tee released the single "What's up, Star?" under the moniker Suga. The song appeared on Russell Simmons presents The Show: The Soundtrack.<ref name="LarkinDM"/> 
+
+UK-based act [[Tin Tin Out]]'s 1994 debut single, "The Feeling", was a piano-based house track that [[sampling (music)|sampled]] Sweet Tee's lyrics from "I Got da Feelin'". The song reached No. 32 in the [[UK Singles Chart]]. It is credited to Tin Tin Out featuring Sweet Tee.<ref name="British Hit Singles & Albums 2">{{cite book
+| first= David
+| last= Roberts
+| year= 2006
+| title= British Hit Singles & Albums
+| edition= 19th
+| publisher= Guinness World Records Limited 
+| location= London
+| isbn= 1-904994-10-5
+| page= 560}}</ref>
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of albums, with selected chart positions
+! scope="col" rowspan="2" style="width:10em;" | Title
+! scope="col" rowspan="2" style="width:23em;" | Album details
+! scope="col" colspan="2" | Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Billboard 200|US]]<br/><ref name="Sweet Tee Chart History">{{Cite news|url=https://www.billboard.com/music/sweet-tee/chart-history/r-b-hip-hop-albums|title=Sweet Tee Chart History|work=[[Top R&B/Hip-Hop Albums]]|access-date=2020-11-28}}{{dead link|date=December 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+! scope="col" style="width:3em;font-size:90%;"| [[Top R&B/Hip-Hop Albums|US<br />R&B<br/>/HH]]<br/><ref name="Sweet Tee Chart History"/>
+|-
+! scope="row"|  ''[[It's Tee Time]]''
+|
+* Released: 1988
+* Label: [[Profile Records|Profile]]
+* Formats: [[Compact Disc|CD]], [[LP record|LP]], [[Compact Cassette|Cassette]], [[Music download|digital download]], [[Streaming media|streaming]]
+| 169
+| 31
+|-
+|}
+
+===Compilation albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of compilation albums
+! scope="col" rowspan="1" style="width:11em;" | Title
+! scope="col" rowspan="1" style="width:16em;" | Album details
+|-
+! scope="row" | ''Profile Singles''
+|
+* Released: March 5, 2021<ref>{{cite web|url=https://music.apple.com/us/album/profile-singles/1555752686?l=en|title=Profile Singles - Sweet Tee - Release Info|website=Apple Music|access-date=25 April 2021}}</ref>
+* Label: [[RCA Records|RCA]]
+* Formats: digital download, streaming
+|-
+|}
+
+===Mixtapes===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of mixtapes, with year released 
+! scope="col" style="width:10em;"| Title
+! scope="col" style="width:16em;"| Mixtape details
+|-
+! scope="row"| ''Best of Both Worlds''<br /><span style="font-size:85%;">(hosted by [[Kid Capri]])</span>
+|
+* Released: August, 2009<ref>{{cite web|url=https://www.reverbnation.com/sweetteeqmusic|title=Sweet Tee|website=[[ReverbNation]]}}</ref>
+* Label: MIKE29 Entertainment
+* Formats: Digital download
+|-
+|}
+
+=== As lead artist===
+<!-- ALL SINGLES MUST BE LISTED HERE. ANY SINGLE RELEASED THROUGHOUT THE COUNTRY TO RADIO IS CLASSIFIED AS A SINGLE. PLEASE DO NOT CHANGE -->
+
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="4"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Dance Club Songs|US Dance]]<br><ref>{{cite web|url=https://www.billboard.com/music/sweet-tee/chart-history/DSI|title=Sweet Tee Chart History|work=[[Dance Club Songs]]|access-date=2020-11-28}}{{dead link|date=December 2021|bot=medic}}{{cbignore|bot=medic}}
+</ref>
+
+! scope="col" style="width:3em;font-size:90%;"| [[Hot R&B/Hip-Hop Songs|US R&B]]<br /><ref name="R&B">{{cite web|url=https://www.billboard.com/music/sweet-tee/chart-history/r-b-hip-hop-songs|title=Sweet Tee Chart History|work=[[Hot R&B/Hip-Hop Songs]]|access-date=2020-11-28}}{{dead link|date=December 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+! scope="col" style="width:3em;font-size:90%;"| [[Hot Rap Songs|US Rap]]<br /><ref name="Sweet Tee - US Hot Rap Songs">{{cite magazine|url=https://www.billboard.com/music/sweet-tee/chart-history/RAP |title=Sweet Tee - US Hot Rap Songs |magazine=Billboard |access-date=25 April 2021}}{{dead link|date=December 2021|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+! scope="col" style="width:3em;font-size:90%;"| [[UK Singles Chart|UK]]<br/><ref name="UK">{{cite web|url=https://www.officialcharts.com/artist/24653/sweet-tee/|title=Sweet Tee - UK Chart |publisher=The Official Charts Company |access-date=28 November 2020}}</ref>
+|-
+! scope="row"| "[[It's My Beat]]"<br /><span style="font-size:85%;">(with [[DJ Jazzy Joyce]])</span>
+| 1986
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| 98
+| rowspan="4" | ''It's Tee Time''
+|-
+! scope="row"| "[[I Got Da Feelin']]"
+| rowspan="2" | 1987
+| align="center"| —
+| align="center"| 48
+| align="center"| —
+| align="center" rowspan="2"| 31
+|-
+! scope="row"| "[[It's Like That Y'all]]"
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+! scope="row"| "[[On The Smooth Tip]]"
+| rowspan="2" | 1988
+| align="center"| —
+| align="center"| 36
+| align="center"| 16
+| align="center"| —
+|-
+! scope="row"| "[[Let the Jingle Bells Rock]]"{{efn|"Let the Jingle Bells Rock" was released as a [[Split album|split single]] with "[[Christmas in Hollis]]" by [[Run-D.M.C.]]}}<ref>{{cite AV media notes | others=Run-D.M.C./Sweet Tee | date=1988 | title=Christmas In Hollis/Let The Jingle Bells Rock | type=track listing | publisher=Profile Records | id=PRO-5235}}</ref>
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| ''Christmas Rap''
+|-
+! scope="row"| "[[Let's Dance (Sweet Tee song)|Let's Dance]]"
+| 1989
+| align="center"| 27
+| align="center"| —
+| align="center"| —
+| align="center"| 79
+| ''It's Tee Time''
+|-
+! scope="row"| "[[What's Up Star?]]"{{efn|name=Suga|Published as "Suga"}}
+| 1995
+| align="center"| —
+| align="center"| 72
+| align="center"| 38
+| align="center"| —
+| ''[[The Show (soundtrack)|The Show: The Soundtrack]]''
+|-
+! scope="row"| "It's My Beat (The UK Remixes)"<ref>{{cite AV media notes | others=Sweet Tee | date=1996 | title=It's My Beat (The UK Remixes) | type=track listing | publisher=Deep Distraxion | id=0090795DDX}}</ref>
+| 1996
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|rowspan="8" {{N/A|Non-album singles}}
+|-
+! scope="row"| "You're a Winner"<br /><span style="font-size:85%;">(featuring [[Lost Boyz]]){{efn|name=Suga}}</span><ref>{{cite AV media notes | others=Suga Feat. Lost Boyz | date=1997 | title=You're A Winner | type=track listing | publisher=J's Records | id=J 0001}}</ref>
+| 1997
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+! scope="row"| "Breakin MC"{{efn|name=Suga Sweet Tee|Published as "Suga Sweet Tee"}}<ref>{{cite web|url=https://music.apple.com/us/album/breakin-mc-single/1329640861|title=Breakin MC - Sweet Tee - Release Info|website=Apple Music|access-date=25 April 2021}}</ref>
+| 2000
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+! scope="row"| "T.Y.T: Take You There"<ref>{{cite web|url=https://music.apple.com/us/album/t-y-t-take-you-there-single/1194955214|title=T.Y.T: Take You There - Sweet Tee - Release Info|website=Apple Music|access-date=25 April 2021}}</ref>
+| 2017
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+! scope="row"| "I Ain't Doin' Love"<ref>{{cite web|url=https://music.apple.com/us/album/i-aint-doin-love-single/1498287032|title=I Ain't Doin' Love - Sweet Tee - Release Info|website=Apple Music|access-date=28 April 2021}}</ref>
+| rowspan="2" | 2020
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+! scope="row"| "911"<ref>{{cite web|url=https://music.apple.com/us/album/911-single/1512403657|title=911 - Sweet Tee - Release Info|website=Apple Music|access-date=25 April 2021}}</ref>
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+! scope="row"| "Don't Play Wit It"<br /><span style="font-size:85%;">(featuring Pudgee Tha Phat Bastard)</span><ref>{{cite web|url=https://music.apple.com/nz/album/dont-play-wit-it-feat-pudgee-tha-phat-bastard-single/1591275604|title=Don't Play Wit It (feat. Pudgee Tha Phat Bastard) - Sweet Tee - Release Info|website=Apple Music|access-date=4 September 2023}}</ref>
+| 2021
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+! scope="row"| "Hunger Games"<ref>{{cite web|url=https://music.apple.com/nz/album/hunger-games-single/1669993458|title=Hunger Games - Sweet Tee - Release Info|website=Apple Music|access-date=4 September 2023}}</ref>
+| 2023
+| align="center"| —
+| align="center"| —
+| align="center"| —
+| align="center"| —
+|-
+| colspan="15" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Featured singles===
+<!-- ALL SINGLES MUST BE LISTED HERE. ANY SINGLE RELEASED THROUGHOUT THE COUNTRY TO RADIO IS CLASSIFIED AS A SINGLE. PLEASE DO NOT CHANGE -->
+
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles, with selected chart positions
+! scope="col" rowspan="2" style="width:18em;"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="4"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:3em;font-size:90%;"| [[Hot Rap Songs|US Rap]]<br /><ref name="Sweet Tee - US Hot Rap Songs"/>
+
+! scope="col" style="width:3em;font-size:90%;"| [[ARIA Charts|AUS]]<br><ref>{{cite web|url=http://i.imgur.com/rYlw97T.jpg|title=Response from ARIA re: chart inquiry, received 17 February 2016|publisher=imgur.com|accessdate=26 April 2021}}</ref>
+
+! scope="col" style="width:3em;font-size:90%;"| [[UK Singles Chart|UK]]<br /><ref name="UK" />
+! scope="col" style="width:3em;font-size:90%;"| [[UK Singles Chart|UK Dance]]<br /><ref name="UK" />
+|-
+! scope="row"|  "	This Is It Y'all"<br /><span style="font-size:85%;">(Poizon Posse featuring Sweet Tee)</span>
+|1993
+|align="center"| 18
+|align="center"| —
+|align="center"| —
+|align="center"| —
+| ''Stompin'''
+|-
+! scope="row"|  "The Feeling"<br /><span style="font-size:85%;">([[Tin Tin Out]] featuring Sweet Tee)</span>
+|1994
+| —
+|align="center"| 225
+|align="center"| 32
+|align="center"| 3
+| ''Always''
+|-
+| colspan="7" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+===Guest appearances===
+{| class="wikitable plainrowheaders" style="text-align:center;" 
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" style="width:19em;" | Title
+! scope="col" | Year
+! scope="col" | Other artist(s)
+! scope="col" | Album
+|-
+!scope="row"|"The DMX Will Rock (Rap Mix)" (uncredited)<ref>{{cite AV media notes | others=Davy DMX | date=1985 | title=The DMX Will Rock | type=track listing | publisher=[[Tuff City Records|Tuff City]] | id=TUF 120003}}</ref>
+| 1985
+| [[Davy DMX]], Leonie J
+| ''The DMX Will Rock (single)''
+|-
+!scope="row"|"I'm the Other Woman"<ref>{{Cite web |url=https://www.allmusic.com/album/stompin-mw0000099222 |title=Poizon Posse - Stompin' |last= |first= |publisher=[[TiVo Corporation]] |work=[[AllMusic]] |access-date=May 17, 2021}}</ref>
+| 1993
+| Poizon Posse
+|''Stompin'''
+|-
+!scope="row"|"Who's Next?"<ref>{{Cite web |url=https://www.allmusic.com/album/non-fiction-mw0000119973 |title=Black Sheep - Non-Fiction |last=Bush |first=John |publisher=[[TiVo Corporation]] |work=[[AllMusic]] |access-date=April 28, 2021}}</ref>
+| 1994
+| [[Black Sheep (group)|Black Sheep]]
+|''[[Non-Fiction (Black Sheep album)|Non-Fiction]]''
+|-
+!scope="row"|"And I Say"{{efn|name=Suga}}<ref>{{Cite web |url=https://www.allmusic.com/album/girlstown-mw0000649004 |title=Original Soundtrack - Girlstown |last= |first= |publisher=[[TiVo Corporation]] |work=[[AllMusic]] |access-date=May 3, 2022}}</ref>
+| 1996
+| {{n/a}}
+| ''[[Girls Town (soundtrack)|Girls Town Soundtrack]]''
+|-
+|}
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [{{AllMusic|class=artist|id=p103|pure_url=yes}} Allmusic Profile] Album and singles info, chart info and music video links.
+* {{Instagram|sweetteethemc}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tee, Sweet}}
+[[Category:Living people]]
+[[Category:MCA Records artists]]
+[[Category:Profile Records artists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American women rappers]]
+[[Category:African-American women rappers]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Rappers from Queens, New York]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American women musicians]]
+[[Category:21st-century African-American women]]
+[[Category:21st-century women rappers]]

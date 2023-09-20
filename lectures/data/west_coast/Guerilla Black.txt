@@ -1,0 +1,111 @@
+{{short description|American rapper}}
+
+{{BLP sources|date=April 2010}}
+{{Infobox musical artist
+| name = Guerilla Black 
+| image = 
+| background = solo_singer
+| birth_name = Charles Williamson
+| alias =
+| birth_date = {{birth year and age|1977}}
+| birth_place = [[Chicago, Illinois]], U.S.
+| origin = [[Compton, California]], U.S.
+| death_date =
+| death_place =
+| genre = [[West Coast hip hop]]
+| occupation = [[Rapper]], [[Songwriter]]
+| years_active =
+| label = [[Virgin Records|Virgin]]/[[EMI|EMI Records]]
+| associated_acts = [[Hot Dollar]], [[Beenie Man]]
+| website =
+| current_members = 
+| past_members =
+}}
+
+'''Charles Williamson''' (born 1977), better known by his stage name '''Guerilla Black''', is an American [[rapper]] from [[Compton, California]].<ref>[https://www.imdb.com/name/nm1812319/ Guerilla Black], Imdb.com, accessed April 20, 2010.</ref>  Born in [[Chicago, Illinois]], he came to fame after releasing his debut album ''[[Guerilla City]]'' (2004), which featured the singles "Compton" featuring [[Beenie Man]] and "You're The One" featuring [[Mario Winans]]. Williamson released a track titled "400 Shotz, the Funeral" taking aim at [[Game (rapper)|The Game]], [[Jermaine Dupri]] and [[Daz Dillinger]]. His latest mixtape, "The Black Tapes" was released in 2009. It is notable for Williamson's change in rapping style, a change he acknowledges on several tracks. Featured artists on the Mixtape included [[Hot Dollar]], [[T-Pain]], and [[Akon]].
+
+He has been both criticized and praised for having a similar voice and delivery to [[The Notorious B.I.G.]] and even pays homage to Biggie on his "Real Niggaz Say Real Shit" mixtape, on the track "Letter to B.I.G." Williamson also bears a resemblance to Biggie.<ref>{{Cite web |last=Wallace |first=Riley |title=Nas Confuses Guerilla Black For Biggie During Beenie Man & Bounty Killer Verzuz Battle {{!}} HipHopDX |url=https://hiphopdx.com/news/id.56057/title.nas-confuses-guerilla-black-for-biggie-during-beenie-man-bounty-killer-verzuz-battle |access-date=2022-12-09 |website=hiphopdx.com |language=en}}</ref>
+
+He is the brother of rapper [[Hot Dollar]], and both rappers are part of the Dolla Figga hip-hop collective.
+
+Williamson has also contributed both his music and performed voice work of the character Dupree in the [[video game]] ''[[187 Ride or Die]]''.
+
+==Discography==
+===Albums===
+*2004: ''[[Guerilla City]]''
+*2007: ''[[God Bless the Child (Guerilla Black album)|God Bless The Child]]''
+
+===Mixtapes===
+*1999: ''N.O.T.O.R.I.O.U.S. B.L.A.C.K.''
+*2004: ''Black by Popular Demand''
+*2007: ''Real Niggaz Say Real Shit (Vol. 1)''
+*2009: ''The Blacktapes''
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:17em;"| Title
+! scope="col" rowspan="2" style="width:1em;"| Year
+! scope="col" colspan="4"| Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Billboard Hot 100|US]]<br /><ref name="US-100">{{cite web | url={{BillboardURLbyName|artist=Guerilla Black|chart=HSI}} | title=Guerilla Black – Chart History: Hot 100 | work=Billboard | access-date=July 10, 2022}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Hot R&B/Hip-Hop Songs|US<br />R&B]]<br /><ref name="US-R&B">{{cite web | url={{BillboardURLbyName|artist=Guerilla Black|chart=BSI}} | title=Guerilla Black – Chart History: Hot R&B/Hip-Hop Songs | work=Billboard | access-date=July 10, 2022}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Hot Rap Songs|US<br />Rap]]<br /><ref name="US-Rap">{{cite web | url={{BillboardURLbyName|artist=Guerilla Black|chart=RAP}} | title=Guerilla Black – Chart History: Hot Rap Songs | work=Billboard | access-date=July 10, 2022}}</ref>
+! scope="col" style="width:2.5em;font-size:90%;"| [[Rhythmic (chart)|US<br />Rhyth.]]<br /><ref name="US-Rhyth.">{{cite web | url={{BillboardURLbyName|artist=Guerilla Black|chart=TFC}} | title=Guerilla Black – Chart History: Rhythmic Airplay | work=Billboard | access-date=July 10, 2022}}</ref>
+|-
+! scope="row"| "Guerilla Nasty"<br /><span style="font-size:85%;">(featuring [[Jazze Pha]] and [[Brooke Valentine]])</span>
+| rowspan="2"| 2004
+| — || 79 || — || —
+| rowspan="3"| ''Guerilla City''
+|-
+! scope="row"| "Compton"<br /><span style="font-size:85%;">(featuring [[Beenie Man]])</span>
+| —{{efn|group=upper-alpha|"Compton" did not enter the ''Billboard'' Hot 100, but peaked at number three on the [[Bubbling Under Hot 100 Singles]] chart.<ref>{{cite web | url={{BillboardURLbyName|artist=Guerilla Black|chart=HBU}} | title=Guerilla Black – Chart History: Bubbling Under Hot 100 | work=Billboard | access-date=July 17, 2022}}</ref>}} || 30 || 22 || 38
+|-
+! scope="row"| "You're the One"<br /><span style="font-size:85%;">(featuring [[Mario Winans]])</span>
+| 2005
+| 77 || 43 || 24 || 23
+|-
+! scope="row"| "Whatever"<br /><span style="font-size:85%;">(featuring [[Hot Dollar]])</span>
+| 2006
+| — || — || — || —
+| ''God Bless the Child''
+|-
+| colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart.
+|}
+
+==Guest appearances==
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" style="width:19em;" | Title
+! scope="col" | Year
+! scope="col" | Other artist(s)
+! scope="col" | Album
+|-
+! scope="row"| "West Coast" 
+| rowspan="1"| 2012
+| [[Shorty Mack]]
+| {{n/a}}
+|-
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Black, Guerilla}}
+[[Category:1977 births]]
+[[Category:African-American rappers]]
+[[Category:Rappers from California]]
+[[Category:Living people]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Musicians from Compton, California]]
+[[Category:Gangsta rappers]]
+[[Category:Virgin Records artists]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]

@@ -1,0 +1,118 @@
+{{Use mdy dates|date=May 2022}}
+{{short description|American R&B singer}}
+{{confuse|Marques Houston}}
+{{update|date=December 2018}}
+{{Infobox musical artist
+|name = Houston
+|image =
+|birth_name = Houston Edward Summers IV
+|alias =
+|birth_date = {{birth date and age|1983|10|26}}
+|origin = [[Los Angeles, California]], U.S.
+|genre = [[Contemporary R&B|R&B]]<ref name="allmusic.com">{{Cite web|url=https://www.allmusic.com/artist/houston-mn0000959916|title = Houston Songs, Albums, Reviews, Bio & More| website=[[AllMusic]] }}</ref>
+|occupation = Singer
+|years_active = 2003–2005
+|label = [[Capitol Records]]
+}}
+
+'''Houston Edward Summers IV''' (born October 26, 1983), known mononymously as '''Houston''', is an American former [[Contemporary R&B|R&B]] singer,<ref name="allmusic.com">{{Cite web|url=https://www.allmusic.com/artist/houston-mn0000959916|title = Houston Songs, Albums, Reviews, Bio & More| website=[[AllMusic]] }}</ref> best known for his hit single "[[I Like That (Houston song)|I Like That]]".
+
+Houston made headlines in 2005 when he attempted suicide in a London hotel room, and later gouged his eye out with a fork on the 13th floor of his hotel building. He was subsequently dropped from his contract with [[Capitol Records]].
+
+== Early life ==
+Summers attended the Academy of Music at [[Alexander Hamilton High School (Los Angeles)|Hamilton High School]] in Los Angeles.<ref name="AMG">{{cite web |url={{AllMusic|class=artist|id=p554793/biography|pure_url=yes}} |title=Biography by David Jeffries |website=[[AllMusic]] |access-date=March 24, 2009}}</ref> He would regularly be invited to participate in activities taking place in the school's music academy. His management team recorded a videotape of Summers's performances, which they hoped would help the singer land a recording contract. He was signed to [[Capitol Records]].<ref name="AMG" />
+
+== Career ==
+Houston's debut single, "[[I Like That (Houston song)|I Like That]]" featuring [[Chingy]] and [[Nate Dogg]] was released on March 13, 2004, and was a hit therefore peaking at number three on the US Billboard [[Hot R&B/Hip-Hop Songs]] chart and number 11 on both [[Billboard Hot 100]] and the [[UK Singles Chart]]. His debut and only album, ''[[It's Already Written]]'' was released on August 10, 2004, being certified [[Gold certification|gold]] by the [[Recording Industry Association of America]] (RIAA).<ref>{{cite web|url=https://www.riaa.com/goldandplatinumdata.php?resultpage=1&table=SEARCH_RESULTS&action=&title=&artist=houston&format=ALBUM&debutLP=&category=&sex=&releaseDate=&requestNo=&type=&level=&label=capitol&company=&certificationDate=&awardDescription=&catalogNo=&aSex=&rec_id=&charField=&gold=&platinum=&multiPlat=&level2=&certDate=&album=&id=&after=&before=&startMonth=1&endMonth=1&startYear=1958&endYear=2010&sort=Artist&perPage=25 |title=''It's Already Written'' RIAA certification |publisher=[[Recording Industry Association of America]] |access-date=November 15, 2010}}</ref>
+
+== 2005 suicide attempt ==
+On January 27, 2005, while on tour in London, England, Summers suffered an emotional breakdown and reportedly tried to commit suicide by jumping from a hotel window while under the influence of [[Phencyclidine|PCP]]. When people in his entourage stopped him, he was restrained and locked in a first floor room. While in that room, Summers gouged his left eye out with a plastic fork.<ref>{{cite web|author= |url=http://www.mtv.com/news/articles/1496457/20050202/houston_rap.jhtml |title=R&B Singer Houston Gouges Eye Out After Apparent Suicide Attempt |website=Mtv.com |date=February 2, 2005 |access-date=April 12, 2020}}</ref> After the incident, Summers was arrested by London police and was sent to a rehablitation facility. After a two-week stint in rehab, Houston went home to Los Angeles and apologized for the incident. Houston attributed the incident to stress caused by the music industry, saying ''"Everything was clobbering down on me. Everything was going a little bit too hard on me"''.<ref>{{cite web|url=http://madnewsuk.com/2008/05/24/video-new-interview-with-former-rb-singer-houston/ |title=Video: New Interview With Former R&B Singer Houston|publisher=Madnewsuk.com |date= May 24, 2008|access-date=April 11, 2012}}</ref><ref>{{Cite web|url=http://www.ballerstatus.com/2008/05/24/singer-houston-breaks-silence-about-eye-gouging-incident/|archive-url=https://web.archive.org/web/20090804054134/http://www.ballerstatus.com/2008/05/24/singer-houston-breaks-silence-about-eye-gouging-incident/|archive-date=August 4, 2009|title=Singer Houston Breaks Silence About Eye Gouging Incident|date=May 25, 2008}}</ref>
+
+== Discography ==
+=== Albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of albums, with selected chart positions and certifications
+! scope="col" rowspan="2" style="width:11em;" | Title
+! scope="col" rowspan="2" style="width:16em;" | Album details
+! scope="col" colspan="5" | Peak chart positions
+! scope="col" rowspan="2" style="width:12em;" | [[List of music recording certifications|Certifications]]
+|-
+!style="width:3em;font-size:90%;"|[[Billboard 200|US]]<br /><ref name="US200">{{cite magazine|title=Houston Album & Song Chart History: Billboard 200|url={{BillboardURLbyName|artist=houston|chart=Billboard 200}}|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=June 25, 2012}}</ref>
+!style="width:3em;font-size:90%;"|[[Top R&B/Hip-Hop Albums|US<br />R&B]]<br /><ref name="USR&BAl">{{cite magazine|title=Houston Album & Song Chart History: R&B/Hip-Hop Albums|url={{BillboardURLbyName|artist=houston|chart=R&B/Hip-Hop Albums B}}|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=June 25, 2012}}</ref>
+!style="width:3em;font-size:90%;"|[[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA">{{cite web|title=Discographie Houston|url=http://lescharts.com/showinterpret.asp?interpret=Houston|work=lescharts.com|publisher=Hung Medien|access-date=June 25, 2012|language=French}}</ref>
+!style="width:3em;font-size:90%;"|[[Swiss Music Charts|SWI]]<br /><ref name="SWI">{{cite web|title=Discographie Houston|url=http://hitparade.ch/showinterpret.asp?interpret=Houston|work=hitparade.ch|publisher=Hung Medien|access-date=June 25, 2012|language=German}}</ref>
+!style="width:3em;font-size:90%;"|[[UK Albums Chart|UK]]<br /><ref name="UKAl">{{cite web|last=Zywietz|first=Tobias|title=Chart Log UK: H & Claire – Hysterix|url=http://zobbel.de/cluk/CLUK_H.HTM|work=Zobbel.de|publisher=Tobias Zywietz|access-date=June 25, 2012|date=February 6, 1997}}</ref>
+|-
+!scope="row"|''[[It's Already Written]]''
+|
+* Released: August 10, 2004
+* Label: [[Capitol Records|Capitol]]
+* Format: [[Compact Disc|CD]], [[Music download|digital download]]
+| 14 || 8 || 83 || 50 || 101
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref>{{cite certification|region=United States|artist=Houston|title=Already Written|type=album|accessdate=June 25, 2012}}</ref>
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of singles, with selected chart positions and certifications, showing year released and album name
+! scope="col" rowspan="2" style="width:17em;" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="10" | Peak chart positions
+! scope="col" rowspan="2" style="width:12em;" | [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" | Album
+|-
+!style="width:3em;font-size:90%"|[[Billboard Hot 100|US]]<br /><ref name="US100">{{cite magazine|title=Houston Album & Song Chart History: Hot 100|url={{BillboardURLbyName|artist=houston|chart=Hot 100}}|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=June 26, 2012}}</ref>
+!style="width:3em;font-size:90%"|[[Hot R&B/Hip-Hop Songs|US<br />R&B]]<br /><ref name="USR&B">{{cite magazine|title=Houston Album & Song Chart History: R&B/Hip-Hop Songs|url={{BillboardURLbyName|artist=houston|chart=R&B/Hip-Hop Songs}}|magazine=[[Billboard (magazine)|Billboard]]|publisher=[[Prometheus Global Media]]|access-date=June 26, 2012}}</ref>
+!style="width:3em;font-size:90%"|[[ARIA Charts|AUS]]<br /><ref name="AUS">Australian chart peaks:
+*"I Like That": {{cite web|title=Discography Houston|url=http://australian-charts.com/showinterpret.asp?interpret=Houston|work=australian-charts.com|publisher=Hung Medien|access-date=June 26, 2012}}
+*"Ain't Nothing Wrong": {{cite web|url=http://www.aria.com.au/issue789.pdf|archive-url=https://webarchive.nla.gov.au/awa/20050419140000/http://pandora.nla.gov.au/pan/23790/20050420-0000/issue789.pdf|url-status=dead|archive-date=April 19, 2005|title=The ARIA Report: Issue 789 (Week Commencing 11 April 2005)|publisher=[[Australian Recording Industry Association]]|page=4|access-date=June 9, 2019}}{{cbignore|bot=medic}}</ref>
+!style="width:3em;font-size:90%"|[[Ultratop 50|BEL<br />(FL)]]<br /><ref name="BELFL">{{cite web|title=Discografie Houston|url=http://www.ultratop.be/nl/showinterpret.asp?interpret=Houston|work=ultratop.be|publisher=Hung Medien|access-date=June 26, 2012|language=Dutch}}</ref>
+!style="width:3em;font-size:90%"|[[Syndicat National de l'Édition Phonographique|FRA]]<br /><ref name="FRA" />
+!style="width:3em;font-size:90%"|[[Media Control Charts|GER]]<br /><ref name="GERsin">{{cite web|title=Chartverfolgung / Houston / Single|url=http://musicline.de/de/chartverfolgung_summary/artist/Houston/11056/single|work=musicline.de|publisher=[[Media Control Charts]]|access-date=June 26, 2012|language=German|archive-url=https://web.archive.org/web/20141006150339/http://musicline.de/de/chartverfolgung_summary/artist/Houston/11056/single|archive-date=October 6, 2014|url-status=dead}}</ref>
+!style="width:3em;font-size:90%"|[[Irish Singles Chart|IRE]]<br /><ref name="IRE">{{cite web|title=Discography Houston|url=http://irish-charts.com/showinterpret.asp?interpret=Houston|work=irish-charts.com|publisher=Hung Medien|access-date=June 26, 2012}}</ref>
+!style="width:3em;font-size:90%"|[[Recording Industry Association of New Zealand|NZ]]<br /><ref name="NZ">{{cite web|title=Discography Houston|url=https://charts.nz/showinterpret.asp?interpret=Houston|work=charts.nz|publisher=Hung Medien|access-date=June 26, 2012}}</ref>
+!style="width:3em;font-size:90%"|[[Swiss Music Charts|SWI]]<br /><ref name="SWI" />
+!style="width:3em;font-size:90%"|[[UK Singles Chart|UK]]<br /><ref name="UKsin">{{cite web|title=Houston|url=http://www.officialcharts.com/artist/_/houston/|publisher=[[The Official Charts Company]]|access-date=June 26, 2012}}</ref>
+|-
+!scope="row"|"[[I Like That (Houston song)|I Like That]]"<br /><span style="font-size:85%;">(featuring [[Chingy]], [[Nate Dogg]], and [[I-20 (rapper)|I-20]])</span>
+|rowspan="2"|2004
+| 11 || 14 || 12 || 26 || 29 || 18 || 39 || 4 || 5 || 11
+|
+* RIAA: Gold<ref>{{cite certification|region=United States|artist=Houston|title=I Like That|type=single|accessdate=June 26, 2012}}</ref>
+* [[Australian Recording Industry Association|ARIA]]: Gold<ref>{{cite web|title=ARIA Charts – Accreditations – 2004 Singles |url=http://www.aria.com.au/pages/aria-charts-accreditations-singles-2004.htm |publisher=[[Australian Recording Industry Association]] |access-date=June 26, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20061013053032/http://www.aria.com.au/pages/aria-charts-accreditations-singles-2004.htm |archive-date=October 13, 2006 }}</ref>
+|rowspan="2"|''It's Already Written''
+|-
+!scope="row"|"Ain't Nothing Wrong"
+| — || 70 || 52 || 61 || — || — || — || — || — || 33
+|
+|-
+|colspan="14" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20050507103553/http://www.mtv.com/bands/az/houston_rap/artist.jhtml Houston at MTV.com]
+* [{{AllMusic|class=artist|id=p554793/biography|pure_url=yes}} Houston at Allmusic.com]
+* [{{BillboardURLbyName|artist=houston|bio=true}} Houston at Billboard.com]
+* {{IMDb name|id=1641143|name=Houston Summers}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Houston}}
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:African-American Christians]]
+[[Category:20th-century African-American male singers]]
+[[Category:American crooners]]
+[[Category:American hip hop singers]]
+[[Category:American contemporary R&B singers]]
+[[Category:American people of Belizean descent]]
+[[Category:Capitol Records artists]]
+[[Category:Singers from Los Angeles]]
+[[Category:West Coast hip hop musicians]]
+[[Category:21st-century American singers]]
+[[Category:21st-century American male singers]]
+[[Category:21st-century African-American male singers]]

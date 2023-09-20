@@ -1,0 +1,66 @@
+{{short description|American rapper}}
+
+{{Infobox musical artist
+| name = Tha Trademarc
+| background = solo_singer
+| birth_name = Marc Joseph Predka<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/321606151 |title=BAD BAD MAN |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=May 1, 2023}}</ref>
+| birth_date = {{birth date and age|1975|04|21|mf=yes}}
+| death_date =
+| birth_place = {{nowrap|[[Peabody, Massachusetts]], U.S.}}
+| instrument = Vocals
+| genre = [[Hip hop music|Hip hop]]
+| occupation = Rapper, singer
+| years_active = 2003–present
+| label = {{flatlist|
+*Trademarc
+*[[WWE Music Group|WWE]]}}
+| associated_acts = {{flatlist|
+*[[John Cena]]
+*[[Bumpy Knuckles]]
+*East Coast Avengers}}
+| website = 
+| current_members =
+| past_members =
+}}
+
+'''Marc Joseph Predka''' (born April 21, 1975), better known by his [[stage name]] '''Tha Trademarc''', is an American [[Rapping|hip hop artist]]. He first came to prominence when he and his younger first cousin, [[WWE]] wrestler [[John Cena]], collaborated on the 2005 album ''[[You Can't See Me]]'', including Cena's entrance theme "[[The Time Is Now (John Cena song)|The Time Is Now]]". He also appeared in the music videos of the songs, "Bad Bad Man" and "Right Now" with Cena. Prior to the album, Trademarc appeared on Cena's first WWE DVD ''Word Life''.
+
+In August 2007, Trademarc appeared at [[Total Nonstop Action Wrestling]]'s (TNA) [[TNA Hard Justice#2007|Hard Justice]] pay-per-view as the "new boyfriend" of [[Karen Angle]], later revealed to be a ruse when Karen and Trademarc helped Karen's "estranged" husband [[Kurt Angle]] win the match.<ref>{{cite web|url= http://www.onlineworldofwrestling.com/results/tnappv/hardjustice07.html |title=Hard Justice 2007 results|accessdate=2007-09-06|publisher=Online World of Wrestling}}</ref> He appeared again on ''[[TNA Impact|iMPACT!]]'' the next week.<ref>{{cite web |url=http://www.onlineworldofwrestling.com/results/tnaimpact/070816.html |title=TNA iMPACT! results – August 16, 2007 |accessdate=2007-09-06 |publisher=Online World of Wrestling}}</ref> While working with TNA he also re-recorded Kurt Angle's [[Music in professional wrestling|entrance music]], mixing in a rap he did over a [[Lunatic Fringe (song)|Lunatic Fringe]] beat with the TNA-composed [[Dale Oliver|"My Quest"]] to form the hip hop theme "Gold Medal".{{citation needed|date=April 2015}} In 2008, he released his first solo debut album ''[[Inferiority Complex (album)|Inferiority Complex]]''.
+
+==East Coast Avengers==
+In August 2008, Tha Trademarc collaborated with Massachusetts rappers [[7L & Esoteric|Esoteric]] and DC The Midi Alien to create the East Coast Avengers. Their group debut album ''Prison Planet'' was released in late 2008. The group released their song "Kill Bill O'Reilly" which caused a media controversy due to lyrics that centered on violently killing [[Bill O'Reilly (political commentator)|Bill O'Reilly]].<ref name="Wells">Wells, Steven (2008) "[https://www.theguardian.com/music/2008/aug/19/rap.act.call.for.death.of.bill.oreilly Rap group call for the death of Bill O'Reilly]", ''[[The Guardian]]'', August 19, 2008</ref> [[Michelle Malkin]]'s criticism of the song led to the group recording "Dear Michelle" in response.<ref name="Crawford">Crawford, Byron (2008) "[http://www.xxlmag.com/online/?p=24041 No, really, kill Bill O’Reilly] {{Webarchive|url=https://web.archive.org/web/20080913051450/http://www.xxlmag.com/online/?p=24041 |date=2008-09-13 }}", ''XXLmag'', August 22, 2008</ref> They have since released another single titled "Hey America!".
+
+==Discography==
+
+===With John Cena===
+*''[[You Can't See Me]]'' (May 10, 2005) RIAA: Platinum
+
+===Solo===
+*''[[Inferiority Complex (album)|Inferiority Complex]]'' (Apr. 4, 2008) RIAA: N/A
+*''Black Ash Days'' With DC the Midi Alien (May 16, 2015)
+*''Blood Meridian'' With Filthy Animals (November 22, 2019)
+
+===With East Coast Avengers===
+*''Prison Planet'' (Oct. 7, 2008) RIAA: N/A
+*''Avengers Airwaves''
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|1649903|Tha Trademarc (Marc Predka)}}
+
+{{John Cena}}
+{{WWE Albums}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Trademarc}}
+[[Category:1975 births]]
+[[Category:American male rappers]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Living people]]
+[[Category:People from Peabody, Massachusetts]]
+[[Category:Rappers from Massachusetts]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
