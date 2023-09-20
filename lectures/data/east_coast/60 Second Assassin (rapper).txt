@@ -1,0 +1,126 @@
+{{short description|American rapper}}
+{{BLP sources|date=January 2020}}
+{{Infobox musical artist
+| background        = person
+| name              = 60 Second Assassin
+| image             = 
+| birth_name        = Frederick Cuffie Jr.
+| birth_place       = 
+| alias             = 62nd Assassin
+| origin            = [[New York City|New York]], [[New York (state)|New York]], U.S.
+| genre             = [[Hip hop music|Hip hop]]
+| years_active      = 1994&ndash;present
+| label             = [[Wu Music Group]]
+| current_member_of = [[Sunz Of Man]]
+| website           = 
+}}
+
+'''Frederick Cuffie Jr.''' (born in April 1961), professionally known by his [[stage name]] '''60 Second Assassin''', is an American rapper from [[New York City|New York]], who is a member of [[Wu-Tang Clan]] [[List of Wu-Tang Clan affiliates|affiliated]] group [[Sunz of Man]].<ref>{{Cite web|url=https://hiphopdx.com/news/id.8418/title.sunz-of-mans-60-second-assassin-readies-debut|title=Sunz Of Man's 60 Second Assassin Readies Debut|last=Paine|first=Jake|date=January 15, 2009|website=[[HipHopDX]]|url-status=live|archive-url=https://web.archive.org/web/20150911221537/http://hiphopdx.com/news/id.8418/title.sunz-of-mans-60-second-assassin-readies-debut |archive-date=2015-09-11 |access-date=April 18, 2020}}</ref> He has released his debut solo studio album ''Remarkable Timing'' on June 22, 2010, via Holy Toledo Productions/Sound Records & Entertainment.
+
+==Discography==
+;Studio albums
+*2010 – ''Remarkable Timing''<ref>{{Cite web|url=https://music.apple.com/us/album/remarkable-timing-sunz-of-man-presents-60-second-assassin/371397097|title=Remarkable Timing (Sunz of Man Presents 60 Second Assassin) by 60 Second Assassin & Sunz of Man|website=[[Apple Music]]|language=en-us|access-date=April 18, 2020}}</ref>
+;Mixtapes
+*2010 – ''The History of 60''
+*2010 – ''The Retrospective (A Look Back)''
+
+===with [[Sunz of Man]]===
+;Studio albums
+*1998 – ''[[The Last Shall Be First (Sunz of Man album)|The Last Shall Be First]]''
+*2002 – ''[[Saviorz Day]]''
+*2019 - ''The Rebirth''
+;Mixtapes
+*1998 – ''The Sunz of Man Mixtape'' <small>(with [[Tony Touch]])</small>
+*2003 – ''Inmates to the Fire...'' <small>(hosted by DJ Swarm)</small>
+;Compilations
+*2004 – ''Nothing New Under the Sun''
+*2006 – ''[[The Old Testament (album)|The Old Testament]]''
+
+===Guest appearances===
+{{Incomplete list|date=April 2020}}
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of non-single [[guest appearance]]s, with other performing artists, showing year released and album name
+! scope="col" style="width:18em;"| Title
+! scope="col" | Year
+! scope="col" | Other artist(s)
+! scope="col" | Album
+|-
+! scope="row" | "Proteck Ya Neck II The Zoo"
+| rowspan="2" |1995
+|[[Ol' Dirty Bastard]], [[Brooklyn Zu]], [[Prodigal Sunn]], [[Killah Priest]]
+|''[[Return to the 36 Chambers: The Dirty Version]]''
+|-
+! scope="row" | "Glaciers of Ice"
+|[[Raekwon]], [[Ghostface Killah]], [[Masta Killa]], [[Blue Raspberry (singer)|Blue Raspberry]]
+|''[[Only Built 4 Cuban Linx...]]''
+|-
+! scope="row" | "Tai Chi"
+|1998
+|[[Killah Priest]], [[Hell Razah]], [[Father Lord]]
+|''[[Heavy Mental]]''
+|-
+! scope="row" | "Stay True"
+| rowspan="1"| 2000
+|[[Ghostface Killah]]
+| ''Hell Yeah |''[[Supreme Clientele]]''
+|-
+! scope="row" | "Godz People"
+| 2005
+|[[Prodigal Sunn]]
+| ''[[Return of the Prodigal Sunn]]''
+|-
+! scope="row" | "Take Sword Pt. II"
+| rowspan="2" |2007
+|[[RZA]], [[True Master]]
+|''[[Afro Samurai: The Album|The RZA Presents: Afro Samurai The Soundtrack]]''
+|-
+! scope="row" | "Valentine Day Massacre"
+|[[Cilvaringz]], [[9th Prince]], [[Blue Raspberry (singer)|Blue Raspberry]], [[Shabazz the Disciple]]
+|''[[I (Cilvaringz album)|I]]''
+|-
+! scope="row" | "Profits of Man"
+| rowspan="2" |2008
+|[[Killah Priest]]
+|''[[Behind the Stained Glass]]''
+|-
+! scope="row" | "Dead Flowers"
+|[[Bronze Nazareth]], [[Killah Priest]], [[C-Rayz Walz]]
+|''Original S.I.N.''
+|-
+! scope="row" | "Take the Sword Pt. III"
+| rowspan="2" |2009
+|Leggezin, Crisis, [[Christ Bearer (rapper)|Christ Bearer]], Rugged Monk, Tré Irie, [[Kinetic 9]], [[Reverend William Burke]], [[RZA]]
+|''[[The RZA Presents: Afro Samurai Resurrection OST|The RZA Presents: Afro Samurai Resurrection The Soundtrack]]''
+|-
+! scope="row" | "Forever Regime"
+|[[Killah Priest]], Vendetta Kingz
+|''[[I Killed the Devil Last Night]]''
+|-
+! scope="row" | "Wake Up Pt. 2"
+|2020
+|[[Killarmy]], [[Ill Bill]], [[Killah Priest]]
+|''Full Metal Jackets''
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Discogs artist|artist=60 Second Assassin}}
+
+{{Sunz of Man}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:60 Second Assassin}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:Five percenters]]
+[[Category:Sunz of Man members]]
+[[Category:American male rappers]]
+[[Category:Rappers from Brooklyn]]
+[[Category:Wu-Tang Clan affiliates]]
+[[Category:East Coast hip hop musicians]]
+[[Category:20th-century American rappers]]
+[[Category:21st-century American rappers]]
+[[Category:African-American male rappers]]

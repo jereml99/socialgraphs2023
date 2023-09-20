@@ -1,0 +1,403 @@
+{{Use mdy dates|date=June 2023}}
+{{Short description|American hip hop producer}}
+{{Infobox musical artist
+| name             = Just Blaze
+| image            = Just Blaze Broccoli City 2014 (cropped).jpg
+| image_size       = 
+| caption          = Smith performing in 2014
+| background       = non_vocal_instrumentalist
+| birth_name       = Justin Gregory Smith
+| alias            = 
+| birth_date       = {{birth date and age|mf=y|1978|01|8}}
+| birth_place      = [[Paterson, New Jersey]], U.S.
+| genre            = [[Hip hop music|Hip hop]]
+| occupation       = {{hlist|Record producer|disc jockey}}
+| years_active     = 1997–present
+| label            = {{hlist|[[Roc-A-Fella]]|[[Fort Knocks Entertainment|Fort Knocks]]|[[Hip Hop Since 1978|HHS78]]|F.O.B. Entertainmemt|N.Q.C. Management, LLC.|Roc The World}}
+| associated_acts  = {{hlist|[[Beanie Sigel]]|[[Freeway (rapper)|Freeway]]|[[Jay Electronica]]|[[Jay-Z]]|[[Saigon (rapper)|Saigon]]}}
+| website          = 
+| current_members  = 
+| past_members     = 
+}}
+
+'''Justin Gregory Smith''' (born January 8, 1978), known professionally as '''Just Blaze''', is an American hip hop producer and DJ. Born in [[Paterson, New Jersey]], Blaze attended [[Rutgers University]] for three years before dropping out to pursue his musical career.<ref>{{Cite magazine|url=https://www.wired.com/2013/08/ltwl-musician-just-blaze/|title=How a Producer for Hip-Hop's Biggest Names Hacked His Way Into the Industry|magazine=Wired|language=en-US|access-date=August 22, 2016|last1=Scott|first1=Damien}}</ref><ref>{{cite web|url=http://www.rapbasement.com/rap/032211-producer-just-blaze-will-take-part-in-the-red-bull-music-academy-watch-mannie-freshs-here.html |title=Learn Straight From Producer Just Blaze (Video) &#124; Rap |publisher=Rap Basement |date=March 22, 2011 |access-date=April 2, 2011}}</ref><ref>{{cite web|url=http://www.xxlmag.com/news/2011/03/just-blaze-to-give-live-qa-in-nyc-tomorrow/ |title=Just Blaze to Give Live Q&A in NYC Tomorrow |publisher=Xxlmag.Com |date=March 22, 2011 |access-date=April 2, 2011}}</ref><ref>{{cite web|url=http://vibe.com/hiphopproducerblog/just-blaze-is-putting-finishing-touches-on-eminems-recovery |title=Just Blaze Is Putting Finishing Touches On Eminem's 'Recovery' |publisher=VIBE |date=April 27, 2010 |access-date=April 2, 2011}}</ref> His stage name was inspired by the character [[Blaze Fielding]] from the ''[[Streets of Rage]]'' video game series.<ref>{{Cite magazine|url=https://www.rollingstone.com/glixel/interviews/producer-just-blaze-talks-games-and-crashing-e3-with-kanye-w477771|title=Hip-Hop Producer Just Blaze On Games, Switch and Crashing E3 With Kanye|magazine=Rolling Stone|access-date=April 9, 2018|archive-date=April 10, 2018|archive-url=https://web.archive.org/web/20180410072516/https://www.rollingstone.com/glixel/interviews/producer-just-blaze-talks-games-and-crashing-e3-with-kanye-w477771|url-status=dead}}</ref> Blaze gained recognition as a producer for [[Roc-A-Fella Records]] in the early 2000s, utilizing the "[[chipmunk soul]]" sampling style popularized and used alongside [[Kanye West]], that was prominent in the early to mid-2000s hip-hop scene.<ref>{{Cite web|title=What Was Chipmunk Soul?|url=https://daily.redbullmusicacademy.com/2018/08/chipmunk-soul|access-date=November 30, 2021|website=daily.redbullmusicacademy.com|language=en}}</ref><ref>{{cite web|url=http://www.salon.com/entertainment/music/review/2007/11/06/jay_z/ |title=Crazy for Jay-Z - Bomani Jones |work=Salon.com |date=November 6, 2007 |access-date=April 2, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110504103007/http://www.salon.com/entertainment/music/review/2007/11/06/jay_z |archive-date= May 4, 2011 }}</ref> He appears in the video for the third single from [[Eminem|Eminem's]] 2010 album ''[[Recovery (Eminem album)|Recovery]]'' entitled "[[No Love]]", which he produced. Blaze is also the founder and CEO of [[Fort Knocks Entertainment]].<ref>{{cite web|last=Sidman |first=Amanda P. |url=http://articles.nydailynews.com/2010-11-04/entertainment/27080165_1_blaze-resident-deejay-bet |title=BET puts new spin on NYC underground deejay scene in 'Masters of the Mix' with Just Blaze |work=New York Daily News |date=November 4, 2010 |access-date=April 2, 2011}}</ref> He has also composed soundtracks for video games, and was a character in ''[[NBA Street Vol. 2]]'' .<ref>{{Cite book|title=Decoded|last=Carter|first=Shawn|publisher=Spiegel & Grau|year=2010|isbn=978-1-4000-6892-0|pages=[https://archive.org/details/decoded00jayz_0/page/n41 22]|url-access=registration|url=https://archive.org/details/decoded00jayz_0}}</ref>
+
+His hometown of Paterson honored him in July 2018 with a key to the city in recognition of his "outstanding cultural contribution" to the city.<ref>Kuperinsky Amy. [https://www.nj.com/entertainment/2018/08/just_blaze_gets_key_to_paterson_resolution.html "Oh boy: Just Blaze gets key to Paterson, recognition for 'outstanding cultural contribution'"], NJ Advance Media for [[NJ.com]], August 1, 2018. Accessed August 8, 2019. "The music producer Just Blaze has been the pride of Paterson for a while, but now he has the key to the city.... Earlier this month, Smith collected his latest accolade when Paterson Mayor Andre Sayegh presented him with a key to the city 'for outstanding cultural contribution' and the city council passed a resolution recognizing his achievements."</ref>
+
+==Production discography==
+{{Main|Just Blaze production discography}}
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="5"|Chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Billboard Hot 100|US Hot 100]]
+! width="45"| [[Hot R&B/Hip-Hop Songs|US<br />R&B]]
+! width="45"| [[Hot Rap Tracks|US<br />Rap]]
+! width="45"| [[Canadian Hot 100|CAN]]
+! width="45"| [[UK Singles Chart|UK]]
+|-
+| valign="center" rowspan="1"|1999
+| align="left"| "[[I Really Like It]]" <small>([[Harlem World (group)|Harlem World]] feat. [[Mase]] & [[Kelly Price]])</small>
+| 61
+| 31
+| 8
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[The Movement (Harlem World album)|The Movement]]''
+|-
+| valign="center" rowspan="2"|2001
+| align="left"| "Beanie (Mack Bitch)" <small>([[Beanie Sigel]])</small>
+| &ndash;
+| 49
+| 11
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[The Reason (Beanie Sigel album)|The Reason]]''
+|-
+| align="left"| "[[Girls, Girls, Girls (Jay-Z song)|Girls, Girls, Girls]]" <small>([[Jay-Z]])</small>
+| 17
+| 4
+| 3
+| &ndash;
+| 11
+| align="left" rowspan="1"| ''[[The Blueprint]]''
+|-
+| valign="center" rowspan="7"|2002
+| align="left"| "[[Roc the Mic]]" <small>(Beanie Sigel & [[Freeway (rapper)|Freeway]])</small>
+| 55
+| 16
+| 6
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[State Property (soundtrack)|State Property]]''
+|-
+| align="left"| "[[Song Cry]]" <small>(Jay-Z)</small>
+| &ndash;
+| 45
+| 23
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[The Blueprint]]''
+|-
+| align="left"| "[[Oh Boy (Cam'ron song)|Oh Boy]]" <small>([[Cam'ron]] feat. [[Juelz Santana]])</small>
+| 4
+| 1
+| 1
+| 24
+| 19
+| align="left" rowspan="1"| ''[[Come Home with Me]]''
+|-
+| align="left"| "[[Hovi Baby]]" <small>(Jay-Z)</small>
+| &ndash;
+| 76
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[The Blueprint 2: The Gift & The Curse]]''
+|-
+| align="left"| "[[React (Erick Sermon song)|React]]" <small>([[Erick Sermon]] feat. [[Redman (rapper)|Redman]])</small>
+| 36
+| 12
+| 8
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[React (Erick Sermon album)|React]]''
+|-
+| align="left"| "[[Boy (I Need You)]]" <small>([[Mariah Carey]] feat. Cam'ron)</small>
+| &ndash;
+| 68
+| &ndash;
+| 29
+| 17
+| align="left" rowspan="1"| ''[[Charmbracelet]]''
+|-
+| align="left"| "What We Do" <small>(Freeway feat. Jay-Z & Beanie Sigel)</small>
+| 97
+| 47
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[Philadelphia Freeway]]''
+|-
+| valign="center" rowspan="7"|2003
+| align="left"| "I Really Mean It" <small>(The Diplomats)</small>
+| &ndash;
+| 64
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[Diplomatic Immunity (The Diplomats album)|Diplomatic Immunity]]''
+|-
+| align="left"| "Flipside" <small>(Freeway feat. [[Peedi Crakk]])</small>
+| 82
+| 40
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="2"| ''[[Philadelphia Freeway]]''
+|-
+| align="left"| "Alright" <small>(Freeway feat. Anthony Allen)</small>
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+|-
+| align="left"| "[[Can't Let You Go]]" <small>([[Fabolous]] feat. [[Lil' Mo]] & Mike Shorey)</small>
+| 4
+| 2
+| 2
+| 27
+| 14
+| align="left" rowspan="1"| ''[[Street Dreams (Fabolous album)|Street Dreams]]''
+|-
+| align="left"| "[[Pump It Up (Joe Budden song)|Pump It Up]]" <small>([[Joe Budden]])</small>
+| 38
+| 16
+| 10
+| &ndash;
+| &ndash;
+| align="left" rowspan="2"| ''[[Joe Budden (album)|Joe Budden]]''
+|-
+| align="left"| "[[Fire (Joe Budden song)|Fire]]" <small>([[Joe Budden]] feat. [[Busta Rhymes]])</small>
+| &ndash;
+| 48
+| &ndash;
+| &ndash;
+| &ndash;
+|-
+| align="left"| "[[Round Here (Memphis Bleek song)|Round Here]]" <small>([[Memphis Bleek]] feat. [[Trick Daddy]] & [[T.I.]])</small>
+| &ndash;
+| 53
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[M.A.D.E.]]''
+|-
+| valign="center" rowspan="1"|2004
+| align="left"| "[[Breathe (Fabolous song)|Breathe]]" <small>(Fabolous)</small>
+| 10
+| 4
+| 2
+| 36
+| 28
+| align="left" rowspan="1"| ''[[Real Talk (Fabolous album)|Real Talk]]''
+|-
+| valign="center" rowspan="2"|2005
+| align="left"| "Never Been in Love" <small>([[Talib Kweli]])</small>
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[The Beautiful Struggle]]''
+|-
+| align="left"| "[[Touch the Sky (Kanye West song)|Touch the Sky]]" <small>([[Kanye West]] feat. [[Lupe Fiasco]])</small>
+| 42
+| 23
+| 10
+| 10
+| 6
+| align="left" rowspan="1"| ''[[Late Registration]]''
+|-
+| rowspan="3" valign="center" |2006
+| align="left"| "[[Tell Me (Diddy song)|Tell Me]]" <small>([[Sean Combs|Diddy]] feat. [[Christina Aguilera]])</small>
+| 47
+| 38
+| 14
+| 13
+| 8
+| align="left" rowspan="1"| ''[[Press Play (album)|Press Play]]''
+|-
+| align="left"| "[[Show Me What You Got]]" <small>(Jay-Z)</small>
+| 8
+| 3
+| 4
+| 38
+| 38
+| align="left" rowspan="1"| ''[[Kingdom Come (Jay-Z album)|Kingdom Come]]''
+|-
+| align="left"| "The Champ" <small>([[Ghostface Killah]])</small>
+| -
+| -
+| -
+| -
+| -
+| align="left"| [[Fishscale]]
+|-
+| valign="center" rowspan="2"|2007
+| align="left"| "The Second Coming" <small>(Juelz Santana & Just Blaze)</small>
+| 108
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| [[Juelz Santana|Nike]]
+|-
+| align="left"| "[[Come on Baby (Saigon song)|Come on Baby]]" <small>([[Saigon (rapper)|Saigon]] feat. [[Swizz Beatz]])</small>
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[The Greatest Story Never Told]]''
+|-
+| valign="center" rowspan="1"|2008
+| align="left"| "[[Live Your Life (T.I. song)|Live Your Life]]" <small>(T.I. feat. [[Rihanna]])</small>
+| 1
+| 1
+| 1
+| 3
+| 2
+| align="left" rowspan="1"| ''[[Paper Trail]]''
+|-
+| valign="center" rowspan="3"|2009
+| align="left"| "[[All the Above (Maino song)|All the Above]]" <small>([[Maino (rapper)|Maino]] feat. [[T-Pain]])</small>
+| 39
+| 19
+| 10
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[If Tomorrow Comes...]]''
+|-
+| align="left"| "[[Exhibit C]]" <small>(Jay Electronica)</small>
+| &ndash;
+| 86
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''Act II: Patents of Nobility (The Turn)''
+|-
+| align="left"| "Gotta Believe It" <small>(Saigon feat. Just Blaze)</small>
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''The Greatest Story Never Told''
+|-
+| valign="center" rowspan="1"|2010
+| align="left"| "[[No Love]]" <small>([[Eminem]] feat. [[Lil Wayne]])</small>
+| 23
+| 59
+| 9
+| 21
+| 33
+| align="left" rowspan="1"| ''[[Recovery (Eminem album)|Recovery]]''
+|-
+| valign="center" rowspan="2"|2011
+| align="left"| "The Greatest Story Never Told" <small>(Saigon)</small>
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''The Greatest Story Never Told''
+|-
+| align="left"| "[[I Love My Bitches]]" <small>([[Rick Ross]])</small>
+| &ndash;
+| 72
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| Non-album single
+|-
+| valign="center" rowspan="1"|2016
+| align="left"| "[[Freedom (Beyoncé song)|Freedom]]" <small>([[Beyoncé]] feat. [[Kendrick Lamar]])</small>
+| 35
+| 21
+| &ndash;
+| 60
+| 40
+| align="left" rowspan="1"| ''[[Lemonade (Beyoncé album)|Lemonade]]''
+|-
+| valign="center" rowspan="1"|2019
+| align="left"| "Big Tyme" <small>(Rick Ross feat. [[Swizz Beatz]])</small>
+| 119
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[Port of Miami 2]]''
+|-
+| valign="center" rowspan="1"|2021
+| align="left"| "We Win" <small>([[Lil Baby]] and [[Kirk Franklin]])</small>
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| &ndash;
+| align="left" rowspan="1"| ''[[Space Jam: A New Legacy]]''
+|-
+|}
+
+==Awards and nominations==
+===Grammy Awards===
+The [[Grammy Awards]] are awarded annually by the [[National Academy of Recording Arts and Sciences]]. Just Blaze has been nominated 8 times.<ref>{{cite web|url=https://www.grammy.com/artists/just-blaze/3420|title=Just Blaze Artist Grammy History|accessdate=March 9, 2023}}</ref>
+
+{| class="wikitable" style="width:70%;"
+|-
+! style="width:3%;"| Year
+! style="width:20%;"| Nominated work
+! style="width:23%;"| Award
+! style="width:5%;"|Result
+|-
+| align="center"| [[45th Annual Grammy Awards|2003]]
+| ''[[Nellyville]]'' <small>(as producer)</small>
+|rowspan="4"|[[Grammy Award for Album of the Year|Album of the Year]]
+| {{nom}}
+|-
+| align="center"| [[47th Annual Grammy Awards|2005]]
+| ''[[Confessions (Usher album)|Confessions]]'' <small>(as producer)</small>
+| {{nom}}
+|-
+| align="center"| [[48th Annual Grammy Awards|2006]]
+| ''[[Late Registration]]'' <small>(as producer)</small>
+| {{nom}}
+|-
+| align="center"| [[53rd Annual Grammy Awards|2011]]
+| ''[[Recovery (Eminem album)|Recovery]]'' <small>(as producer)</small>
+| {{nom}}
+|-
+| align="center"| [[54th Annual Grammy Awards|2012]]
+| "[[Far Away (Marsha Ambrosius song)|Far Away]]" <small>(as producer)</small>
+| [[Grammy Award for Best R&B Song|Best R&B Song]]
+| {{nom}}
+|-
+| align="center"| [[56th Annual Grammy Awards|2014]]
+| [[Good Kid, M.A.A.D City]] <small>(as producer)</small>
+| rowspan="2"| Album of the Year
+| {{nom}}
+|-
+| align="center"| [[59th Annual Grammy Awards|2017]]
+| ''[[Lemonade (Beyoncé album)|Lemonade]]'' <small>(as producer)</small>
+| {{nom}}
+|-
+| align="center"| [[64th Annual Grammy Awards|2022]]
+| "We Win" <small>(as producer)</small>
+| [[Grammy Award for Best Contemporary Christian Music Performance/Song|Best Contemporary Christian Music Performance/Song]]
+| {{nom}}
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{musicbrainz artist|id=e527455c-5f72-4208-b892-22f7271a9305|name=Just Blaze}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Just Blaze}}
+[[Category:Living people]]
+[[Category:American hip hop record producers]]
+[[Category:African-American record producers]]
+[[Category:African-American musicians]]
+<!--[[Category:People from Cherry Hill, New Jersey]] Source needed to support the connection-->
+[[Category:Musicians from Paterson, New Jersey]]
+[[Category:1978 births]]
+[[Category:East Coast hip hop musicians]]
+[[Category:21st-century African-American people]]
+[[Category:20th-century African-American people]]

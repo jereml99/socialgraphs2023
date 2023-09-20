@@ -1,0 +1,92 @@
+{{Short description|Musical artist (1971–2001)}}
+{{more citations needed|date=July 2016}}
+{{Infobox musical artist
+| name            = Big Ed
+| image           = Big Ed.jpg
+| caption         =
+| birth_name      = Edward Lee Knight
+| alias           = {{hlist|Big Ed the Assassin}}
+| birth_date      = November 2, 1971
+| birth_place     = [[Richmond, California]], U.S.
+| death_date      = July 8, 2001 (aged 29)<ref>{{cite web|url=http://allhiphop.com/2001/07/09/big-ed-the-assassin-passes/|title=Big Ed The Assassin Passes - Exclusive Hip Hop News, Interviews, Rumors, Rap & Music Videos - Allhiphop|last=AllHipHop|website=allhiphop.com|date=9 July 2001 |accessdate=25 October 2017}}</ref>
+| death_place     = 
+| genre           = {{hlist|[[Hip hop music|Hip hop]]|[[Gangsta rap]]}}
+| occupation      = [[Rapper]]
+| years_active    = 1992–2001
+| label           = {{hlist|Special Forces Records|[[No Limit Records]]|[[Priority Records]]}}
+| associated_acts = {{hlist|[[Master P]]|[[Silkk the Shocker]]|[[Mia X]]|[[TRU (group)|TRU]]|[[Snoop Dogg]]}}
+}}
+
+'''Edward Lee Knight''' (November 2, 1971 &ndash; July 8, 2001), best known by his [[stage name]] '''Big Ed the Assassin''', often shortened to '''Big Ed''', was an American [[rapper]].
+
+Knight was signed to [[Master P]]'s [[No Limit Records]] in 1992, and appeared on numerous No Limit releases during the 1990s, contributing to releases by [[Master P]], [[C-Murder]], [[Mac (rapper)|Mac]], [[Soulja Slim]] and more. Knight later released his debut album, [[The Assassin (album)|The Assassin]] through No Limit Records in 1998.
+
+Knight would go on to leave No Limit in 2000, starting his own label, Special Forces Records. Knight released his second album, [[Special Forces (Big Ed album)|Special Forces]], through the label on May 9, 2000. Knights third and final album, [[Edward Lee Knight 1971-2001]], was released posthumously in August 2002.
+
+==Early life==
+Knight was born in [[Richmond, California]], and attended [[Eastern Washington University]] from 1992 to 1993 on a basketball scholarship, but dropped out to pursue a career in rap music in the Bay Area with [[Master P]]'s West Coast Bad Boy Clique.
+
+==Career==
+Big Ed was an original member of the rap group [[TRU (group)|TRU]] (The Real Untouchables), appearing on the group's first three albums, ''[[Who's Da Killer?]]'', ''[[Understanding the Criminal Mind]]'' and ''[[True (TRU album)|True]]''. Throughout the 90s, Ed had guest spots on many of No Limit's other releases such as Master P's ''[[99 Ways to Die (album)|99 Ways to Die]]'', [[Silkk the Shocker]]'s debut ''[[The Shocker (album)|The Shocker]]'' and [[Mia X]]'s ''[[Unlady Like]]''.
+
+==Solo career==
+
+===The Assassin and Special Forces Records===
+
+His debut album, ''[[The Assassin (album)|The Assassin]]'', was released on September 1, 1998, and peaked at #15 on the [[Billboard 200|''Billboard'' 200]] and #3 on the [[Top R&B/Hip-Hop Albums]].
+
+In 2000, Big Ed left No Limit to start his own record label, Special Forces Records. He released his second album through this label, 2000's ''[[Special Forces (Big Ed album)|Special Forces]]'', which featured contributions from his former No Limit labelmates.
+
+==Death==
+
+Big Ed the Assassin died from [[lymphoma cancer]] on July 8, 2001. His third album, ''[[Edward Lee Knight 1971-2001]]'', was released [[wikt:Special:Search/posthumous|posthumously]] the next month.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Title
+! rowspan="2"| Release
+! colspan="3"| Peak chart positions
+|-
+! scope="col" style=font-size:90%;"| [[Billboard 200|US]]
+! scope="col" style=font-size:90%;"| [[Top R&B/Hip-Hop Albums|US<br/>R&B]]
+|-
+! scope="row"| ''[[The Assassin (album)|The Assassin]]''
+| 1998
+| 15
+| 3
+|-
+! scope="row"| ''[[Special Forces (Big Ed album)|Special Forces]]''
+| 2000
+| -
+| 25
+|-
+! scope="row"| ''[[Edward Lee Knight 1971–2001]]''
+| 2001
+| -
+| —
+|-
+| colspan="6" align="center" style="font-size:90%" | "—" denotes a recording that did not chart.
+|}
+{{No Limit Records}}
+
+{{Authority control}}
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Big Ed}}
+[[Category:1971 births]]
+[[Category:2001 deaths]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Musicians from Richmond, California]]
+[[Category:West Coast hip hop musicians]]
+[[Category:No Limit Records artists]]
+[[Category:Rappers from California]]
+[[Category:Gangsta rappers]]
+[[Category:20th-century American male musicians]]
+[[Category:20th-century African-American musicians]]
+[[Category:Deaths from lymphoma]]
+[[Category:Deaths from cancer in Louisiana]]

@@ -1,0 +1,108 @@
+{{Infobox musical artist
+| name            = Captain Rapp
+| image           =
+| caption         =
+| image_size      =
+| landscape       = yes
+| birth_name      = Larry Earl Glenn
+| alias           =
+| origin          = [[Los Angeles, California]]
+| years_active    = 1981–present
+| genre           = [[Conscious rap]]<br/>[[Post-disco]]<br/>[[West Coast hip hop]]
+| label           = Saturn Records<br/>[[JDC Records]]<br/>[[Rappers Rapp Records]]
+| associated_acts = [[Jimmy Jam and Terry Lewis]]
+| website         =
+| current_members =
+| past_members    = 
+}}
+
+'''Captain Rapp''' is the [[stage name]] of '''Larry Earl Glenn''', an [[United States|American]] [[hip hop music|hip hop]]/[[post-disco]] musician, producer and [[West Coast Rap]] pioneer.<ref name=AMGBi>{{cite web|url=http://www.allmusic.com/artist/captain-rapp-p62318/biography|title=(( Captain Rapp ))|publisher=Allmusic|accessdate=2011-08-05}}</ref>
+
+He is best known for his politically conscious song "[[Captain Rapp#Singles|Bad Times (I Can't Stand It)]]", which was a [[West Coast hip hop|West Coast]] response to [[Grandmaster Flash]]'s "[[The Message (Grandmaster Flash and the Furious Five song)|The Message]]."<ref name="salary">{{Cite book|last=Cross|first=Brian|year=1994|title=It's not about a salary--: rap, race, and resistance in Los Angeles|quote=Captain Rapp had recorded 'Bad Times (I Can't Stand It)', a sort of West Coast bite of 'The Message' with its reversing of the title of the famous Chic track that was a staple of the commercial old school.|publisher=Verso, 1994, (originally) the University of Michigan|page=[https://archive.org/details/itsnotaboutsalar00cros/page/24 24]|isbn=0-86091-445-3|url-access=registration|url=https://archive.org/details/itsnotaboutsalar00cros/page/24}}</ref><ref name="message">{{Cite book|last=Larkin|first=Colin|year=1994|title=It's not about a salary--: rap, race, and resistance in Los Angeles |quote=Captain Rapp Rapp is an old school rapper, famed for 'Badd Times (I Can't Stand It)', a Los Angeles answer to 'The Message.|publisher=Guinness Publishing, 1994 & the University of California (originally)|page=22|isbn=0-85112-788-6}}</ref>
+
+==History==
+Glenn's musical career started in 1981 when he was signed to a small [[Independent record label|indie label]] called [[Rappers Rapp Records]]. His first record, party-oriented, "Gigolo Rapp" was a minor hit on the East Coast yet the record failed in his home state.<ref name=AMGBi/>
+
+In 1983, his most successful single "Bad Times" came out on Saturn Records and reached number 23 on [[Billboard (magazine)|Billboard]] [[Club Play Singles|Dance Charts]].<ref name=Allmusic/> The single was arranged and performed by emerging [[Contemporary R&B]] moguls [[Jimmy Jam and Terry Lewis]].<ref name=AMGBi/> with Rich Cason.
+
+In 1992, Glenn recorded a sequel to his previous hit single, titled "Bad Times, Part 2: The Continuance."<ref name=AMGBi/>
+
+===Themes===
+"Bad Times" lyrically touches sensitive topics, including [[unemployment]], [[child sexual abuse]], [[AIDS]], [[Salvadoran Civil War]] and even [[nuclear war]], in contrast to uptempo [[synth-funk]] melody and soulful vocals.<ref name="future">{{Cite book|last=Rescher|first=Nicholas |year=1998|title=Getting Present as an Art: Predicting the future: an introduction to the theory of forecasting |publisher=SUNY Press|page=49|isbn=0-7914-3554-7}}</ref>
+
+The song is a West Coast variant of "[[The Message (Grandmaster Flash and the Furious Five song)|The Message]]" whereas the title is lampooning a name of the most sampled song in [[hip hop|hip-hop]] history, "[[Good Times (Chic song)|Good Times]]" by [[Chic (band)|Chic]].<ref name="salary"/><ref name="message"/>
+
+==Discography==
+
+===Charts===
+{| class="wikitable"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Song
+! rowspan="2"| Label
+! colspan="2"| Chart positions<ref name=Allmusic>{{cite web|url=http://www.allmusic.com/artist/captain-rapp-p62318/charts-awards/billboard-singles|title=Captain Rapp on Billboard charts|publisher=Allmusic, Billboard|accessdate=2011-08-05}}</ref>
+|-
+! <sup>[[Club Play Singles|U.S.<br/> Dance]]</sup>
+! <sup>[[Hot R&B/Hip-Hop Songs|U.S. <br/>R&B]]</sup>
+|-
+| 1981
+| "The Gigolo Rapp" (with Disco Daddy)
+| [[Rappers Rapp Records|Rappers Rapp]]
+| align=center | – 
+| align=center | –
+|-
+| 1983
+| "Bad Times" 
+| Saturn
+| align=center | #23 
+| align=center | –
+|-
+| 1984
+| "When Doves Cry Rapp" 
+| [[Rappers Rapp Records|Rappers Rapp]]
+| align=center | –
+| align=center | –
+|-
+| 1985
+| "Bite Em" 
+| Evejim
+| align=center | –
+| align=center | –
+|-
+| 1985
+| "Agony" 
+| Evejim
+| align=center | –
+| align=center | –
+|-
+|}
+
+===Singles===
+;"Bad Times"
+{| class="toccolours"  border=1 cellpadding=2 cellspacing=0 style="width: 400px; margin: 0 0 1em 1em; border-collapse: collapse; border: 1px solid #E2E2E2;"
+|-
+! bgcolor="#E7EBEE" | 12" / SAT-2003<ref name=Discogs>{{cite web|url=http://www.discogs.com/artist/Captain+Rapp|title=Captain Rapp discography|publisher=Discogs|accessdate=2011-08-05}}</ref>
+| 
+# "Bad Times (I Can't Stand It)" – ''6:57'' 
+# "Bad Times (I Can't Stand It)" (Part 2) –''5:34''
+# "Bad Times (I Can't Stand It)" (Part 3) (instrumental) –''5:50''
+
+*'''Label:''' Saturn
+*'''Written-by:''' Larry Earl Glenn
+*'''Guest singer: '''Kimberly Ball
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Rapp, Captain}}
+[[Category:American satirists]]
+[[Category:American dance musicians]]
+[[Category:West Coast hip hop musicians]]
+[[Category:American boogie musicians]]
+[[Category:American electro musicians]]
+[[Category:Musicians from Los Angeles]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Living people]]

@@ -1,0 +1,81 @@
+{{short description|American rapper (born 1974)}}
+{{Use mdy dates|date=April 2022}}
+{{Multiple issues|
+{{cleanup rewrite|date=May 2011}}
+{{BLP sources|date=June 2020}}
+}}
+{{Infobox musical artist
+|image = Sheek Louch At the Sound Academy.jpg
+|caption = Jacobs performing at the Sound Academy 2014
+|name = Sheek Louch
+|birth_name = Sean Divine Jacobs
+|alias = <!--this field is not for nicknames. See [[Template:Infobox musical artist/doc]]-->{{hlist|Donnie Def Jam| Donnie G}}
+|birth_date = {{birth date and age|1974|11|9}}
+|birth_place = [[Yonkers, New York]], U.S.
+|genre = [[hip hop music|Hip hop]]
+|occupation ={{hlist| Rapper|songwriter}}
+|years_active = 1992–present
+|label = {{hlist|D-Block|[[Tommy Boy Records|Tommy Boy]]|[[Ruff Ryders]]|[[Def Jam]]|[[Real Talk Entertainment|Real Talk]]|[[Entertainment One Music|Koch]]|[[Ruff Ryders Entertainment|Ruff Ryders]]|[[Universal Records (1995)|Universal]]|[[Bad Boy Records|Bad Boy]]}}
+|associated_acts = {{flatlist|
+*[[The Lox]]
+*[[DMX (rapper)|DMX]]
+*[[DJ Green Lantern]]
+*[[Ghostface Killah]]
+*[[Kanye West]]
+*[[Red Spyda]]}}
+|website =
+}}
+
+'''Sean Divine Jacobs''' (born November 9, 1974), better known as '''Sheek Louch''' (or simpy '''Sheek'''), is an American rapper best known as a member of [[The Lox|The LOX]] and founder of [[D-Block Records]], along with [[Styles P]] and [[Jadakiss]].<ref>{{cite web|author=Jason Birchmeier |url=https://www.allmusic.com/artist/sheek-louch-mn0000745209/biography |title=Sheek Louch – Biography & History |publisher=AllMusic |access-date=June 28, 2020}}</ref>
+
+== Personal life and career ==
+At around the age of 12, he was inspired to rhyme by his friend Jason Phillips ([[Jadakiss]]). He and Jason would later form The LOX with [[Styles P]]. [[Mary J. Blige]] "discovered" the trio, and they would soon be signed to [[Sean Combs]]'s [[Bad Boy Records]]. Their first album, [[Money, Power & Respect]], was released on January 13, 1998.<ref>{{cite web|author=Stephen Thomas Erlewine |url=https://www.allmusic.com/album/money-power-respect-mw0000031595 |title=Money, Power & Respect – The LOX &#124; Songs, Reviews, Credits, Awards |publisher=AllMusic |access-date=June 28, 2020}}</ref>
+
+Sheek and his fellow LOX members later parted ways with Bad Boy Records, and signed a record deal with their management company, [[Ruff Ryders]], after the company formed a record label in the late 1990s.<ref>{{Cite web|url=https://ruffryders.com/about/|title=About: Ruff Ryders}}</ref> Ruff Ryders was also home to [[DMX (rapper)|DMX]]. The group's second album, ''[[We Are the Streets]]'', was released on January 25, 2000.<ref>{{cite web|author=Matt Conaway |url=https://www.allmusic.com/album/we-are-the-streets-mw0000053105 |title=We Are the Streets – The LOX &#124; Songs, Reviews, Credits, Awards |publisher=AllMusic |access-date=June 28, 2020}}</ref> Meanwhile, Sheek, an aspiring entrepreneur, began working on their [[The Lox|D-Block]] brand, building a studio, and looking for new talent to join their roster. In October 2006 he opened a D-Block car wash and gas station in their hometown of [[Yonkers, New York]].<ref>{{cite web|url=https://news.avclub.com/d-block-keep-it-gangsta-by-opening-a-thugged-out-carwas-1798209988|title= D-Block keep it gangsta by opening a thugged-out carwash|author=Nathan Rabin|date=October 19, 2006}}</ref>
+
+Sheek released his solo debut ''[[Walk Witt Me]]'' on Universal Records through [[D-Block Records]]. Early promotional material, such as within the liner notes of Styles P's album ''[[A Gangster and a Gentleman]]'', indicate that the album's original title was ''Walk With Me''. His fifth album, ''Silverback Gorilla'', released in 2008, featured his hit single, "Good Love", which sampled [[Betty Wright]]'s "Tonight Is The Night" and "Pure Love" songs.
+
+He was also featured on an episode of ''[[World's Wildest Police Videos]]'', which demonstrated his notorious past.{{Citation needed|date=August 2011}}
+
+He has worked somewhat prolifically with [[Ghostface Killah]]. They collaborated on a joint album titled ''[[Wu Block]]'' featuring members of [[Wu-Tang Clan]] and D-Block after drawing inspiration from one another while touring and recording. In January 2017 Ghostface and Sheek Louch announced on their respective social media accounts that a second collaborative album was in the works.<ref>{{cite web|url= https://hypebeast.com/2018/1/ghostface-killah-sheek-louch-wu-block-2-101|title=Ghostface Killah and Sheek Louch Reveal 'Wu Block 2' Is Happening|date=January 29, 2017}}</ref>
+
+== Discography ==
+{{Main|Sheek Louch discography}}
+;Studio albums
+* ''[[Walk witt Me]]'' (2003)
+* ''[[After Taxes]]'' (2005)
+* ''[[Silverback Gorilla]]'' (2008)
+* ''[[Life on D-Block]]'' (2009)
+* ''[[Donnie G: Don Gorilla]]'' (2010)
+* ''[[Silverback Gorilla 2]]'' (2015)
+
+;Collaboration albums
+* ''[[Wu Block]]'' <small>(with [[Ghostface Killah]])</small>  (2012)
+
+== References ==
+{{Reflist}}
+
+{{Sheek Louch}}
+{{The Lox}}
+{{Ruff Ryders}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Louch, Sheek}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:D-Block Records members]]
+[[Category:East Coast hip hop musicians]]
+[[Category:MNRK Music Group artists]]
+[[Category:Musicians from Yonkers, New York]]
+[[Category:Rappers from New York City]]
+[[Category:Ruff Ryders artists]]
+[[Category:Tommy Boy Records artists]]
+[[Category:Gangsta rappers]]
+[[Category:The Lox members]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]

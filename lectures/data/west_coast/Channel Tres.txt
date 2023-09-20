@@ -1,0 +1,337 @@
+{{Short description|American rapper and record producer (born 1991)}}
+{{Use American English|date=October 2020}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox musical artist
+| name             = Channel Tres
+| image            = 
+| caption          = 
+| occupation       = {{hlist|Rapper|singer|songwriter|producer}}
+| birth_name       = Sheldon Jerome Young<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/919821600 |title=ALL MY FRIENDS |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 27, 2023}}</ref>
+| alias            = 
+| birth_date       = {{birth date and age|1991|05|26}}
+| birth_place      = [[Compton, California]], U.S.
+| genre            = {{hlist|[[Hip house]]|[[experimental hip hop]]|[[West Coast hip hop]]}}
+| instrument       = {{hlist|Vocals|guitar|keyboard}}
+| years_active     = 2017–present
+| label            = Godmode
+| associated_acts  = {{hlist|[[JPEGMafia]]|[[Emotional Oranges]]|[[Tyler, the Creator]]}}
+| website          = {{URL|www.channeltres.net/}}
+}}
+
+'''Sheldon Jerome Young''' (born May 26, 1991), known professionally as '''Channel Tres''', is an American rapper, singer and record producer from [[Compton, California|Compton]], [[California]].<ref>{{cite web|url=https://www.highsnobiety.com/p/channel-tres-interview/ |title=Channel Tres is boldly redefining house music for a new generation |work=[[Highsnobiety]] |date=2019 |access-date=October 26, 2020 |author=Rinder, Grant}}</ref> Tres is best known for his singles "Controller" and "Topdown".<ref>{{cite web |url=https://www.nme.com/blogs/nme-radar/channel-tres-controller-godmode-2415999/|title=Channel Tres' brand of soulful house has made him LA:s new dance king |work=[[NME]] |date=December 3, 2018 |access-date=October 26, 2020 |author=Smith, Thomas}}</ref>
+
+==Early life  and education==
+Young grew up in southern [[Los Angeles]], between [[Compton, California|Compton]] and [[Lynwood, California|Lynwood]]. He was raised by his great-grandparents. He spent most days at church, where he played drums for the [[choir]]. Channel left home to study music at [[Oral Roberts University]], a private Christian university in [[Tulsa, Oklahoma]].
+
+==Career==
+Upon his return to Los Angeles, a childhood friend ([[88rising]] artist [[August 08 (rapper)|August 08]]) brought him along to studio sessions, where he rose to making beats for [[Duckwrth]], [[Wale (rapper)|Wale]], [[Kehlani]] and others.<ref>{{cite magazine |url=https://www.billboard.com/articles/news/dance/8527444/channel-tres-interview-black-moses-ep/ |title=Compton-raised Channel Tres is taking his West Coast-inspired dance music worldwide |magazine=[[Billboard (magazine)|Billboard]] |date=August 15, 2019 |access-date=October 29, 2020 |author=Rodriguez, Krystal}}</ref>
+
+In  2018  "Controller" received  airplay on [[BBC Radio 1]], and an Essential New Tune call-out from Pete Tong. Australian radio station [[Triple J]] added "Controller" to their A-list rotation and called it "one of 2018's biggest cult hits." Channel Tres continued to see success with the release of his self-titled [[Extended play|EP]] in 2018 and further singles, including his single "Black Moses", which featured [[JPEGMAFIA]].<ref>{{cite web |url=https://www.onestowatch.com/artist/channel-tres/ |title=Channel Tres / Ones to Watch |work=[[Ones to Watch]] |date=2019 |access-date=October 29, 2020}}</ref> He played his first headline shows in the US in 2019.
+
+==Discography==
+{{BLP sources section|date=October 2020}}
+
+===Extended plays===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of EPs, with release date and label shown
+! Title
+! EP details
+|-
+! scope="row"| ''Channel Tres''
+|
+* Released: 27 July 2018<ref>{{cite web |url=https://pitchfork.com/reviews/albums/channel-tres-channel-tres-ep/ |title=Channel Tres: ''Channel Tres'' EP Album Review |work=[[Pitchfork (magazine)|Pitchfork]] |date=August 4, 2018 |access-date=October 29, 2020 |author=Garvey, Meaghan}}</ref>
+* Label: Godmode
+* Formats: [[Music download|Digital download]], [[streaming media|streaming]]
+|-
+! scope="row"| ''Black Moses''
+|
+* Released: 16 August 2019<ref>{{cite web |url=https://pitchfork.com/reviews/albums/channel-tres-black-moses-ep/ |title=Channel Tres: ''Black Moses'' EP Album Review |work=[[Pitchfork (magazine)|Pitchfork]] |date=August 20, 2018 |access-date=October 29, 2020 |author=Smith, Nathan}}</ref>
+* Label: Godmode
+* Formats: Digital download, streaming
+|-
+! scope="row"| ''I Can't Go Outside''
+|
+*Released: 11 December 2020<ref>{{cite web |url=https://pitchfork.com/reviews/albums/channel-tres-i-cant-go-outside/ |title=Channel Tres: ''I Can't Go Outside'' EP Album Review |work=[[Pitchfork (magazine)|Pitchfork]] |date=January 7, 2021 |access-date=August 7, 2022 |author=Gomez, Jade}}</ref>
+*Label: Art for Their Good
+*Formats: Digital download, streaming
+|-
+! scope="row"| ''refresh''
+|
+*Released: 2 March 2022
+*Label: Art for Their Good
+*Formats: Digital download, streaming
+|-
+! scope="row"| ''Acid / Ganzfeld 12"''
+|
+*Released: 25 March 2022
+*Label: Godmode
+*Formats: Digital download, streaming
+|-
+! scope="row"| ''Real Cultural Shit''
+|
+*Release date: 24 February 2023
+*Label: Godmode
+*Formats: Digital download, streaming
+|}
+
+===Singles===
+====As lead artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of singles, with year released and album name shown
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="2"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.9em;font-size:90%;"| [[Dance Club Songs|US<br/>Dance<br />Club]]<br/><ref name="US Dance Club">{{cite magazine|url=https://www.billboard.com/music/sg-lewis/chart-history/DSI|title=SG Lewis Chart History: Hot Dance/Electronic Songs|magazine=[[Billboard (magazine)|Billboard]]|access-date=26 February 2021}}</ref>
+! scope="col" style="width:2.75em;font-size:85%;" | [[Dance/Electronic Songs|US<br/>Dance]]<br/><ref>{{cite magazine | title=Hot Dance/Electronic Songs Chart | url=https://www.billboard.com/charts/dance-electronic-songs/2021-02-20 | magazine=Billboard | accessdate=23 February 2021}}</ref>
+|-
+! scope="row"| "Controller"<ref>{{cite web |url=https://www.smh.com.au/entertainment/music/channel-tres-20181029-p50cnd.html |title=Channel Tres on his way Down Under |work=[[The Sydney Morning Herald]] |date=October 29, 2018 |access-date=October 29, 2020 |author=Drever, Andrew}}</ref>
+| rowspan="3"| 2018 
+| — || —
+| rowspan="3"| ''Channel Tres''
+|-
+! scope="row"| "Jet Black"
+| — || —
+|-
+! scope="row"| "Glide"
+| — || —
+|-
+! scope="row"| "Brilliant Nigga"
+| rowspan="3"| 2019
+| — || —
+| rowspan="3"| ''Black Moses''
+|-
+! scope="row"| "Sexy Black Timberlake"
+| — || —
+|-
+! scope="row"| "Black Moses" <br/>{{small|(featuring [[JPEGMafia]])}}
+| — || —
+|-
+! scope="row"| "Weedman"
+| rowspan="4"| 2020
+| — || —
+| {{N/A|Non-album single}}
+|-
+! scope="row"| "Impact"<br/>{{small|(with [[SG Lewis]] and [[Robyn]])}}<ref>{{Cite web |last=Jones |first=Damian |date=5 August 2020 |title=Listen to 'Impact' – featuring Robyn, Channel Tres and SG Lewis |url=https://www.nme.com/news/listen-to-a-new-song-featuring-robyn-channel-tres-and-sg-lewis-2722008 |archive-url=https://web.archive.org/web/20200817043448/https://www.nme.com/news/listen-to-a-new-song-featuring-robyn-channel-tres-and-sg-lewis-2722008 |archive-date=17 August 2020 |accessdate=17 August 2020 |website=[[NME]]}}</ref> 
+| 25 || —
+| ''[[Times (album)|Times]]''
+|-
+! scope="row"| "Skate Depot"
+| — || —
+| rowspan="2"| ''I Can't Go Outside''
+|-
+! scope="row"| "Fuego"<ref>{{Cite web |last=Strauss |first=Matthew |date=December 10, 2020 |title=Channel Tres and Tyler, the Creator Share New Song 'Fuego"': Listen |url=https://pitchfork.com/news/channel-tres-and-tyler-the-creator-share-new-song-fuego-listen/ |archive-url=https://web.archive.org/web/20201218131356/https://pitchfork.com/news/channel-tres-and-tyler-the-creator-share-new-song-fuego-listen/ |archive-date=December 18, 2020 |access-date=December 23, 2020 |website=[[Pitchfork (magazine)|Pitchfork]]}}</ref> <br/>{{small|(featuring [[Tyler, The Creator]])}}
+| — || —
+|-
+! scope="row"| "Recap"<br/>{{small|(with [[Kito (musician)|Kito]] and [[VanJess]])}}
+| rowspan="2"| 2021
+| — || 32
+| ''Blossom''
+|-
+! scope="row"| "Palms"<br/>{{small|(with [[Gus Dapperton]])}}
+| — || —
+| ''Orca (Deluxe)''
+|-
+! scope="row"| "Hollaback Bitch"<br/>{{small|(with [[Mura Masa]] and Shygirl)}}
+| rowspan="4"| 2022
+| — || —
+| ''Demon Time''
+|-
+! scope="row"| "Just Can't Get Enough"
+| — || —
+| rowspan="3"| ''Real Cultural Shit''
+|-
+! scope="row"| "No Limit"
+| — || —
+|-
+! scope="row"| "6am"
+| — || —
+|-
+! scope="row"| "Fever Dreamer"<br/>{{small|(featuring SG Lewis and Charlotte Day Wilson)}}
+| rowspan="3"| 2023
+| — || —
+| ''AudioLust & HigherLove''
+|-
+! scope="row"| "Fashion Week"<br/>{{small|(with Barney Bones)}}
+| — || —
+| ''Escapism''
+|-
+! scope="row"| "Got Time for Me"<br/>{{small|(with [[Jamie Jones (DJ)|Jamie Jones]])}}
+| — || —
+| {{N/A|Non-album single}}
+|-
+| colspan="15" style="font-size:90%"| "—" denotes a recording that did not chart or was not released in that territory.
+|}
+
+====As featured artist====
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of singles, with year released and album name shown
+! Title
+! Year
+! Album
+|-
+! scope="row"| "Throwyoassout"<br/>{{small|([[Duckwrth]] featuring Channel Tres)}}
+| 2017
+| rowspan="2" {{N/a|Non-album singles}}
+|-
+! scope="row"| "Zamunda"<br/>{{small|(T'Challa King featuring Channel Tres)}}
+| rowspan="2"| 2020 
+|-
+! scope="row"| "All That"<br/>{{small|([[Emotional Oranges]] featuring Channel Tres)}}
+| ''The Juicebox''
+|- 
+! scope="row"| "Tunnel"<br/>{{small|([[Polo & Pan]] featuring Channel Tres)}}
+| rowspan="4"| 2021 
+| ''Cyclorama''
+|-
+! scope="row"| "Lights Up"<br/>{{small|([[Flight Facilities]] featuring Channel Tres)}}<ref>{{Cite web |last=Fuamoli |first=Sose |date=May 5, 2021 |title=Flight Facilities tap Channel Tres for their first release in over a year |url=https://www.abc.net.au/triplej/news/musicnews/flight-facilities-channel-tres-collaboration-lights-up/13329446/ |archive-url=https://web.archive.org/web/20210505003108/https://www.abc.net.au/triplej/news/musicnews/flight-facilities-channel-tres-collaboration-lights-up/13329446/ |archive-date=May 5, 2021 |accessdate=May 5, 2021 |website=[[Triple J]]}}</ref>
+| ''[[Forever (Flight Facilities album)|Forever]]''
+|- 
+! scope="row"| "Wonder"<br/>{{small|([[Yung Bae]] featuring Channel Tres)}}
+| ''Groove Continental: Side A''
+|-
+! scope="row"| "Naked"<br/>{{small|([[Tokimonsta]] featuring Channel Tres)}}
+| rowspan="2" {{N/a|Non-album singles}}
+|- 
+! scope="row"| "Bad Girl"<br/>{{small|(A16Z featuring Channel Tres and omgkirby)}}
+| 2022 
+|-
+! scope="row"| "I've Been in Love"<br>{{small|([[Jungle (band)|Jungle]] featuring Channel Tres)}}<ref>{{cite web|url=https://www.frontview-magazine.be/en/news/jungle-share-the-new-track-ive-been-in-love-featuring-channel-tres|title=Jungle share the new track 'I've Been In Love' featuring Channel Tres |website=Frontview Magazine|date=23 June 2023|access-date=24 June 2023}}</ref>
+| 2023
+| ''Volcano''
+|-
+|}
+
+===Other charted songs===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of non-single chart appearances, with year released and album name shown
+! scope="col" rowspan="2"| Title
+! scope="col" rowspan="2"| Year
+! scope="col" colspan="1"| Peak chart positions
+! scope="col" rowspan="2"| Album
+|-
+! scope="col" style="width:2.5em;font-size:90%;"| [[Dance/Electronic Songs|US<br/>Elec]]<br/><ref>{{cite magazine |url=https://www.billboard.com/artist/disclosure/chart-history/dan/ |title=Disclosure Chart History: Dance/Electronic Songs |magazine=[[Billboard (magazine)|Billboard]] |access-date=October 29, 2020}}</ref>
+|-
+! scope="row"| "Lavender"<br/>{{small|([[Disclosure (duo)|Disclosure]] featuring Channel Tres)}}
+| 2020
+| 44
+| ''[[Energy (Disclosure album)|Energy]]''
+|}
+
+===Guest appearances===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col"| Title
+! scope="col"| Year
+! scope="col"| Other artist(s)
+! scope="col"| Album
+|-
+! scope="row"|"Delete Forver (Channel Tres Remix)"
+| rowspan="5"| 2021
+|[[Grimes]]
+|''Miss Anthropocene (Rave Edition)''
+|-
+! scope="row"|"How Does It Feel"
+|[[Zhu (musician)|Zhu]]
+|''[[Dreamland 2021]]''
+|-
+! scope="row"|"Alter Ego"
+|[[Duke Dumont]]
+|''For Club Play Only, Pt. 7''
+|-
+! scope="row"|"A Tulip with No Shadow Blossoms"
+|AOI
+|''Four Seasons of AOI''
+|-
+! scope="row"|"Tapped"
+|[[Terrace Martin]], [[Celeste (singer)|Celeste]]
+|''Drones''
+|-
+! scope="row"|"HMU for a Good Time"
+| rowspan="4"| 2022
+|[[Tinashe]]
+|''[[333 (Tinashe album)|333]] (Deluxe)''
+|-
+! scope="row"|"Fix Vision"
+|Kyle Dion
+|''SASSY (Deluxe)''
+|-
+! scope="row"|"Attention Whore"
+|[[Tove Lo]]
+|''[[Dirt Femme]]''
+|-
+! scope="row"|"Show Me Some Love"
+|[[Honey Dijon]], Sadie Walker
+|''Black Girl Magic''
+|}
+
+===Remixes===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+List of remixes, with year released and artist shown
+! Title
+! Year
+! Artist(s)
+|-
+! scope="row"| "Tangerine"
+| rowspan="5"| 2018
+| Aaron Childs
+|-
+! scope="row"| "Why Her Not Me"
+| [[Grace Carter (singer)|Grace Carter]]
+|-
+! scope="row"| "Stay Safe"
+| [[Rhye]]
+|-
+! scope="row"| "Project Redo"
+| [[Winston Surfshirt]]
+|-
+! scope="row"| "The End"
+| [[DMA's]]
+|-
+! scope="row"| "[[Earfquake]]"
+| rowspan="4"| 2019
+| [[Tyler, the Creator]]
+|-
+! scope="row"| "Blood On My Hands"
+| [[August 08 (rapper)|August 08]] featuring [[Smino]]
+|-
+! scope="row"| "Summer Fade"
+| [[Snakehips (duo)|Snakehips]] featuring [[Anna of the North]]
+|-
+! scope="row"| "[[Late Night Feelings (song)|Late Night Feelings]]"
+| [[Mark Ronson]] featuring [[Lykke Li]] 
+|-
+! scope="row"| "[[Hit the Back]]"
+| rowspan="4"| 2020
+| [[King Princess]]
+|-
+! scope="row"| "[[Gimme Love (Joji song)|Gimme Love]]"
+| [[Joji (musician)|Joji]]
+|-
+! scope="row"| "I Did It"
+| Kris Yute
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|www.channeltres.net}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tres, Channel}}
+[[Category:1991 births]]
+[[Category:21st-century American male musicians]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Alternative hip hop musicians]]
+[[Category:Living people]]
+[[Category:Musicians from Compton, California]]
+[[Category:Rappers from Los Angeles]]
+[[Category:West Coast hip hop musicians]]
+[[Category:21st-century African-American musicians]]
+
+
+{{US-hiphop-bio-stub}}

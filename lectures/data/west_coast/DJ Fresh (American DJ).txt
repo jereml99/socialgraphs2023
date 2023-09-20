@@ -1,0 +1,191 @@
+{{Short description|American DJ and hip hop producer}}
+{{Use mdy dates|date=June 2021}}
+{{Notability|1=Music|date=March 2021}}
+{{Infobox musical artist
+| name             = DJ.Fresh
+| alias            =
+| image            = The World's Freshest (DJ Fresh) - photo 3.jpg
+| image_upright    = 1.1
+| alt              =
+| caption          =
+| birth_name       = Marqus Brown
+| birth_date       = November 2 1981
+| birth_place      = [[Baltimore, Maryland]], U.S.
+| origin           = [[Oakland, California|Oakland]]/[[Los Angeles, California]], U.S.
+| death_date       = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place      =
+| genre            = {{flatlist|
+* [[Contemporary R&B|R&B]]
+* [[Hip hop music|hip hop]]
+* [[Soul music|soul]]<ref name="qalou"/>
+}}
+| occupation       = Music producer, DJ
+| instrument       = {{flatlist|
+* [[Digital audio workstation]]
+* [[turntables]]
+}}
+| years_active     = Late 1990s – present
+| label            = {{flatlist|
+* Fresh in the Flesh
+* Livewire
+}}
+| associated_acts  =
+| website          = {{URL|theworldsfreshest.com}}
+}}
+
+'''Marqus Brown''', known as '''DJ.Fresh''', is an American [[Hip hop music|hip hop]] [[Disc jockey|DJ]] based in [[Oakland, California|Oakland]] and Los Angeles, California.<ref name="abouthome" /> Acclaim for his work includes being named to [[XXL (magazine)|''XXL'' magazine]]'s 30 Best Hip-Hop Producers of 2016.<ref name="XXL2016">{{Citation | last = Weinstein | first = Max | title = 30 of the Best Hip-Hop Producers of 2016| newspaper = [[XXL (magazine)|XXL]] | date = December 29, 2016 | url = http://www.xxlmag.com/news/2016/12/best-hip-hop-producers-2016/ | access-date = May 6, 2017}}</ref> In 2006 DJ.Fresh began releasing his ''The Tonite Show'' series of albums, which have featured artists such as [[Yukmouth]] and [[Raekwon]]. He has also released a number of mixtapes and has produced albums for other artists. His 2013 collaboration with [[J. Stalin]], ''[[Miracle & Nightmare on 10th Street]]'', peaked at #61 on the [[R&B/Hip-Hop Albums]] chart and at #28 on the [[Heatseekers Albums]] chart.<ref name="allmusicawards" />
+
+== Early life==
+Marqus Brown was born and raised in [[Baltimore, Maryland]].<ref name="abouthome"/> While an adolescent in Baltimore he became immersed in [[hip hop culture]], and he started mixing vinyl on [[turntables]] at age nine.<ref name="qalou"/> Among his early musical influences were [[Soul music|soul]], [[Hip hop music|hip hop]], and [[jazz]] artists popular in the 1970s and 1980s, including [[Anita Baker]], [[Whitney Houston]], and [[the Gap Band]].<ref name="qalou"/>
+
+He moved with his mother and siblings to the [[San Francisco Bay Area]] in California<ref name="shospital"/> at nine years old.<ref name="abouthome"/> The crew battled and performed around the Bay Area.<ref name="qalou"/>
+
+== Music career ==
+=== Early years ===
+[[File:The World's Freshest (DJ Fresh) - photo 2.jpg|thumb|right|250px|DJ.Fresh mixing live]]
+DJ.Fresh's first major break was DJing at a show in [[San Francisco]] with [[Common (rapper)|Common]] at the age of 18, and shortly afterwards he Deejayed on two tours for the rapper [[Nas]].<ref name="qalou"/> He began producing his own music as well, creating beats with turntables and a [[digital audio workstation]].<ref name="abouthome"/> In 1999 he was named the 3rd best DJ in the US by ITF (International Turntablist Federation).<ref name="abouthome"/>
+
+While he initially mixed with the moniker DJ Fresh, he adopted the name the Worlds Freshest (DJ.Fresh) to avoid confusion with [[DJ Fresh]], the English producer of the same name.<ref name="qalou"/>
+
+=== ''The Tonite Show'' series ===
+In 2005 DJ.Fresh started "The Tonite Show" album series, where he produces albums with guest artists that have since included [[Freddie Gibbs]], [[the Jacka]], [[The Grouch (rapper)|the Grouch]], [[J-Stalin]], [[Yukmouth]], [[Mitchy Slick]], [[E-40]],<ref name="abouthome"/> and [[Raekwon]].<ref name="qalou"/>
+
+His 2014 ''Tonite Show'' release with [[Trae Tha Truth]] received a positive review from RapReviews.com, who stated the album "shows glimpses of a nice little partnership brewing".<ref name="rr"/>
+
+=== Recent production ===
+In 2006 DJ.Fresh began producing for a number of major artists, starting with the album ''The Real World West Oakland'' by [[J. Stalin]]. In the next two years he worked on albums by [[Shady Nate]] and [[Bicasso]] as well, and that later extended to artists such as [[Mitchy Slick]].<ref name="dubcnnetminan"/> He won Best West Coast Producer in 2009&ndash;10.<ref name="abouthome"/> As of 2010 he ran the Whole Shabang production team, with producers such as Jamon Dru, Mr. Tower, Sneaky Mike, [[Face the Music (music ensemble)|Face the Music]], Mike Rimzo, Scandal Beats & Young Gully.<ref name="shospital"/>
+
+[[File:The World's Freshest (DJ Fresh) - photo 1.jpg|right|thumb|250px|DJ.Fresh]]
+''[[Miracle & Nightmare On 10th Street]]'' is a double disc collaboration album between [[J. Stalin]] and DJ.Fresh, released on July 16, 2013. It peaked at #61 on the [[R&B/Hip-Hop Albums]] chart and at #28 on the Heatseekers Albums chart.<ref name="allmusicawards"/>
+
+He also released the album ''Feet Match the Paint'' with [[Mitchy Slick]] in 2013,<ref name="siccnessinterview"/> and in 2014 he released his ''Boomin' System'' Mixtape, which has guest artists such as [[Scarface (rapper)|Scarface]] and [[Kendrick Lamar]]. The mixtape was received positively, and a review by ''Complex'' praised the variety and unpredictability of the production styles.<ref name="complexreview"/>
+
+== Style, equipment ==
+DJ.Fresh incorporates a variety of styles in his production, including [[Hip hop music|hip hop]], [[Electronic dance music|EDM]], [[House music|house]], [[jazz]], and [[Contemporary R&B|R&B]], though he self-identifies as more of an R&B than a hip hop producer.<ref name="qalou"/> He uses analog equipment including [[turntables]] and [[Gramophone record|vinyl]], and a [[MIDI controller]] [[Keyboard instrument|keyboard]]. He also uses [[Ableton Live]] and occasionally brings in live instrumentation.<ref name="qalou"/>
+
+== Further reading ==
+*{{cite news
+| title     = The World's Freshest Interview: A Conversation With DJ Fresh
+| url       = http://www.southernhospitality.co.uk/blog/?p=7061
+| newspaper = Southern Hospitality
+| date      = January 21, 2010
+}}
+*{{cite news
+| title     = Mitchy Slick & The World's Freshest Talk "Feet Match The Paint" With The Siccness Network
+| url       = http://www.siccness.net/mitchy-slick-the-worlds-freshest-talks-feet-match-the-paint-with-the-siccness-network
+| publisher = Siccness.net
+| date      = January 9, 2013
+}}
+*{{cite news
+| title     = DubCNN: Exclusive Interview w/Mitchy Slick and The World's Freshest (DJ Fresh)
+| url       = http://www.dubcnn.com/2013/03/28/exclusive-interview-with-mitchy-slick-the-worlds-freshest/
+| publisher = DubCNN
+| date      = March 2013
+}}
+*{{cite news
+| title     = The World's Freshest: Q & A with DJ Fresh
+| url       = http://www.ahumblesoul.com/1/post/2013/11/the-worlds-freshest-q-a-with-dj-fresh.html
+| publisher = A Humble Soul
+| date      = November 26, 2013
+}}
+
+== References ==
+{{reflist|2| refs =
+
+<ref name="allmusicawards">
+{{cite news
+| title      = Nightmare and Miracle on 10th Street
+| url        = http://www.allmusic.com/album/nightmare-and-miracle-on-10th-street-mw0002546122/awards
+| publisher  = [[Allmusic]]
+| date       = 
+| accessdate = April 15, 2014
+}}</ref>
+
+<ref name="abouthome">{{cite news
+| title      = About
+| url      = http://www.theworldsfreshest.com/#!about/cadp
+| publisher      = theworldsfreshest.com
+| date      = 
+| accessdate      = April 15, 2014
+| archive-url      = https://web.archive.org/web/20140419014148/http://www.theworldsfreshest.com/#!about/cadp
+| archive-date      = April 19, 2014
+| url-status      = dead
+}}</ref>
+
+<ref name="shospital">{{cite news
+| title      = The World's Freshest Interview: A Conversation With DJ Fresh
+| first      = Davey Boy
+| last       = Smith
+| url        = http://www.southernhospitality.co.uk/blog/?p=7061
+| newspaper  = Southern Hospitality
+| date       = January 21, 2010
+| accessdate = April 15, 2014
+}}</ref>
+
+<ref name="qalou">{{cite news
+| title      = The World's Freshest: Q & A with DJ Fresh
+| author     = @Lou4President
+| last       = 
+| url        = http://www.ahumblesoul.com/1/post/2013/11/the-worlds-freshest-q-a-with-dj-fresh.html
+| publisher  = A Humble Soul
+| date       = November 26, 2013
+| accessdate = April 15, 2014
+}}</ref>
+
+<ref name="dubcnnetminan">{{cite news
+| title      = DubCNN: Exclusive Interview w/Mitchy Slick and The World's Freshest (DJ Fresh)
+| first      = Nima
+| last       = Etminan
+| url        = http://www.dubcnn.com/2013/03/28/exclusive-interview-with-mitchy-slick-the-worlds-freshest/
+| publisher  = DubCNN
+| date       = March 2013
+| accessdate = April 15, 2014
+}}</ref>
+
+<ref name="siccnessinterview">{{cite news
+| title      = Mitchy Slick & The World's Freshest Talk "Feet Match The Paint" With The Siccness Network
+| url        = http://www.siccness.net/mitchy-slick-the-worlds-freshest-talks-feet-match-the-paint-with-the-siccness-network
+| publisher  = Siccness.net
+| date       = January 9, 2013
+| accessdate = April 15, 2014
+}}</ref>
+
+<ref name="rr">{{cite news
+| title      = Trae Tha Truth & The World's Freshest- The Tonite Show
+| first      = Grant
+| last       = Jones
+| url        = http://www.rapreviews.com/news/View.php?ArticleID=24810
+| publisher  = RapReviews.com
+| date       = February 2014
+| accessdate = April 15, 2014
+}}</ref>
+
+<ref name="complexreview">{{cite news
+| title      = Deep Cut: The Worlds Freshest f/ Fiend and Juvenile "On My Job"
+| first      = Sergio
+| last       = Ornelas
+| url        = http://www.complex.com/music/2014/02/the-worlds-freshest-fiend-juvenile-on-my-job
+| newspaper  = Complex
+| date       = February 24, 2014
+| accessdate = April 15, 2014
+}}</ref>
+}}
+
+== External links ==
+{{Commons category|The World's Freshest (DJ Fresh)}}
+* {{Official website|http://www.theworldsfreshest.com/}}
+
+{{The Worlds Freshest}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fresh, DJ}}
+[[Category:Living people]]
+[[Category:Record producers from Maryland]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Musicians from Baltimore]]
+[[Category:African-American DJs]]
+[[Category:West Coast hip hop musicians]]
+[[Category:1981 births]]
+[[Category:21st-century African-American people]]
+[[Category:20th-century African-American people]]

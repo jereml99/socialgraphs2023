@@ -1,0 +1,198 @@
+{{short description|American rapper}}
+
+{{Use mdy dates|date=February 2020}}
+{{Infobox musical artist
+| image           =
+| image_size      = 150
+| name            = Hi-C
+| birth_date      = {{birth date and age|1973|12|22}}
+| caption         =
+| alias           = Crawf Dog, Bobby Bit O'Honey
+| origin          = [[Compton, California]]
+| instrument      =
+| genre           = [[Hip hop music|Hip hop]] <!-- Please read http://en.wikipedia.org/wiki/Template:Infobox_musical_artist#Genre 
+"The genre or genres of music performed by the act. Aim for generality (e.g. [[Hip hop music|Hip hop]] rather than [[East Coast hip hop]])."-->
+| occupation      = [[Rapper]], Singer
+| years_active    = 1989–present
+| label           = [[Hollywood Records]] (1991–1992) <br /> Skanless Records (1991–1994) <br /> [[Tommy Boy Records]] (1993) <br /> [[Rap-A-Lot Records]] (2003)
+| website         =
+| associated_acts = [[DJ Quik]], [[2nd II None]], [[AMG (rapper)|AMG]], [[E-40]], [[Nate Dogg]], [[B.G. (rapper)|BG]], [[Spider Loc]], [[G-Unit]], Tony A
+}}
+'''Crawford Wilkerson''', better known as '''Hi-C''', is an American rapper from [[Compton, California]]. He is known for his collaborations with [[DJ Quik]], [[AMG (rapper)|AMG]], Cartis Bunny and 2nd II None. Hi-C was also a member of the [[Pirus|Tree Top Piru]] and [[DALE LANE BLOODS]].<ref>[http://unitedgangs.com/2013/12/17/hi-c-rapper/ Hi-C (rapper)] Unitedgang.com 2 October 2015 Retrieved. 2 October 2015</ref>
+
+==Discography==
+===Studio albums===
+*''[[Skanless]]'' (1991)
+*''[[Swing'n]]'' (1993)
+*''[[The Hi-Life Hustle]]'' (2003)
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="1"| <br/>Title<br/><br/>
+! scope="col" rowspan="1"| Release
+! scope="col" rowspan="1"| Album
+|-
+! scope="row"| "I'm Not Your Puppet"
+|1991
+|rowspan="3"|''[[Skanless]]''
+|-
+! scope="row"| "Leave My Curl Alone"
+|rowspan="2"|1992
+|-
+! scope="row"| "[[Sitting in the Park (song)|Sitting in the Park]]"
+|-
+! scope="row"| "Got It Like That"
+|1993
+|''[[Swing'n]]''
+|-
+! scope="row"| "Let Me Know"
+|2003
+|rowspan="2"|''[[The Hi-Life Hustle]]''
+|-
+! scope="row"| "Steez"
+|2004
+|-
+|}
+
+===Soundtrack appearances===
+{| class="wikitable" border="1"
+|-
+!Year
+!Album
+|-
+|rowspan="2"|1992
+|''[[Encino Man]]''
+|-
+|''[[South Central (film)|South Central]]''
+|-
+|1993
+|''[[CB4]]''
+|-
+|1999 
+| ''[[Deep Blue Sea (1999 film)|Deep Blue Sea]]'' 
+|- 
+|rowspan="2"|2003
+|''[[Malibu's Most Wanted]]''
+|-
+|''[[Head of State (2003 film)|Head of State]]''
+|-
+|}
+
+===Guest appearances===
+{| class="wikitable" border="1"
+|-
+!Year
+!Song
+!Artist
+!Other featured performers
+!Album
+|-
+|rowspan="3"|1991
+|"Skanless"
+|[[DJ Quik]]
+|[[AMG (rapper)|AMG]] & [[2nd II None]]
+|''[[Quik Is the Name]]''
+|-
+|"Comin' Like This"
+|rowspan="2"|[[2nd II None]]
+|rowspan="2"|DJ Quik & AMG
+|rowspan="2"|''[[2nd II None (album)|2nd II None]]''
+|-
+|"Niggaz Trippin'"
+|-
+|rowspan="2"|1992
+|"Another One Bites The Dust (Chyskillz Remix)"
+|[[Queen (band)|Queen]]
+|[[Ice Cube (rapper)|Ice Cube]], Chyskillz
+|''[[Hollywood Records#Hollywood Basic|BASIC Queen Bootlegs]]''
+|-
+|"Niggaz Still Trippin'"
+|rowspan="3"|[[DJ Quik]]
+|2nd II None, AMG, Hi-C & JFN
+|''[[Way 2 Fonky]]''
+|-
+|rowspan="2"|1995
+|"The Ho in You"
+|2nd II None
+|rowspan="2"|''[[Safe + Sound]]''
+|-
+|"Keep Tha P In It"
+|[[Playa Hamm]], [[Kam (rapper)|Kam]], & 2nd II None 
+|-
+|1997
+|"Tip Toe"
+|[[Suga Free]]
+|DJ Quik
+|''[[Street Gospel (album)|Street Gospel]]''
+|-
+|rowspan="2"|1998
+|"Medley For A "V" (The Pussy Medley)"
+|rowspan="2"|DJ Quik
+|[[Snoop Dogg]], [[Nate Dogg]], AMG, [[El DeBarge]] & 2nd II None
+|rowspan="2"|''[[Rhythm-al-ism]]''
+|-
+|"Get 2Getha Again"
+|AMG, El DeBarge & 2nd II None
+|-
+|1999
+|"Got a Nu Woman"
+|2nd II None
+|DJ Quik, AMG & Playa Hamm
+|''[[Classic 220]]''
+|-
+|rowspan="3"|2000
+|"In My Face"
+|rowspan="2"|Various
+|[[Xzibit]]
+|rowspan="2"|''[[The Konnectid Project, Vol. 1]]''
+|-
+|"I Wanna See"
+|DJ Quik
+|-
+||"I Can Feel That"
+|Mausberg
+|[[AMG (rapper)|AMG]]
+|''Non Fiction''
+|-
+|rowspan="2"|2002
+|"Tha Proem"
+|rowspan="2"|DJ Quik
+|[[Talib Kweli]] & [[Shyheim]]
+|rowspan="2"|''[[Under tha Influence]]''
+|-
+|"Birdz & da Beez"
+|AMG
+|-
+|2004
+|"Pay Me"
+|Suga Free
+|
+|''[[The New Testament (The Truth)]]''
+|-
+|}
+
+== Filmography ==
+*[[Dead Homiez]] (1996)
+*[[Malibu's Most Wanted]] (2003)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hi-C}}
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Musicians from Compton, California]]
+[[Category:American hip hop record producers]]
+[[Category:African-American record producers]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Bloods]]
+[[Category:21st-century American rappers]]
+[[Category:Record producers from California]]
+[[Category:21st-century American male musicians]]
+[[Category:1973 births]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]

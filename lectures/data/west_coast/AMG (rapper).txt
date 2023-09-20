@@ -1,0 +1,146 @@
+{{Short description|American rapper}}
+{{Infobox musical artist
+| image           =
+| image_size      = 180px
+| caption         =
+| name            = AMG
+| birth_name      = Jason Lewis
+| birth_date      = {{Birth date and age|1970|9|29}}
+| origin          = [[Inglewood, California]], [[United States]]
+| genre           = [[Hip hop music|Hip hop]]
+| occupation      = [[Rapper]]
+| years_active    = 1987–present
+| label           = Getti Records
+| associated_acts = [[The Fixxers]]
+| website         = [https://www.myspace.com/gettirecords www.myspace.com/gettirecords]
+}}
+
+'''Jason Lewis''' (born September 29, 1970, in [[New York City, New York|New York, New York]]), better known by his [[stage name]] '''AMG''', is an American [[rapper]].
+
+==Career==
+AMG made his debut appearance in 1991 on the album ''[[Quik Is the Name]]'' by [[DJ Quik]], on the songs "Deep", "Tear It Off" and "Skanless". His association with DJ Quik helped him secure a record deal with Select Records, who he signed to in 1991. That same year, he released his debut album, ''[[Bitch Betta Have My Money]]'', which featured the singles "[[Bitch Betta Have My Money (song)|Bitch Betta Have My Money]]", "Jiggable Pie", "Vertical Joyride" and "I Wanna Be Yo Ho". AMG produced almost the entire album by himself, with DJ Quik serving as an additional producer on one song. The album was a moderate success commercially, reaching No. 63 on the US [[Billboard 200]].<ref name="LarkinDM"/>
+
+AMG is known for his sexually explicit lyrics, and most notably for songs like "Bitch Betta Have My Money" and "Jiggable Pie".<ref name="LarkinDM">{{cite book|title=[[Encyclopedia of Popular Music|The Virgin Encyclopedia of Dance Music]]|editor=Colin Larkin|editor-link=Colin Larkin (writer)|publisher=[[Virgin Books]]|date=1998|edition=First|isbn=0-7535-0252-6|page=13}}</ref>
+
+AMG appeared on porn star-turn-singer [[Midori (actress)|Midori]]'s album ''Miss Judged'' in 2001.<ref name="Lindemulder">{{cite web |last1=Lindemulder |first1=Janine |title=Weekendowa Bezsensja: Muzyka 18+, czyli muzyka a branża porno (3) |url=https://esensja.pl/muzyka/publicystyka/tekst.html?id=13124&ref=ak_wj |website=Esensja |access-date=15 January 2020|language=pl}}</ref> In 2007, AMG began recording an album with [[DJ Quik]] under the name "[[The Fixxers]]". They released a single through [[Interscope Records]] titled "Can U Werk Wit Dat".<ref>[http://www.hhnlive.com/news/more/1013 HHNLive.com - News - DJ Quik and AMG AKA The Fixxers Sign With Interscope<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20070317045959/http://www.hhnlive.com/news/more/1013 |date=March 17, 2007 }}</ref> The album, ''[[Midnight Life]]'', was scheduled to be released in mid-to-late 2007 but was shelved due to material being leaked prior to its release.
+
+==Discography==
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! rowspan="2"| Title<ref name=discogs>{{cite web|url=https://www.discogs.com/artist/100751-AMG|title=AMG Discography |website=Discogs.com}}</ref>
+! rowspan="2"| Release
+! colspan="2"| Peak chart<br/>positions
+|-
+! scope="col" style=font-size:90%;"| [[Billboard 200|US]]<br/><ref>{{cite web|url=http://www.billboard.com/artist/275328/amg/chart|title=AMG - Chart history |website=Billboard.com}}</ref>
+|-
+! scope="row"| ''Give a Dog a Bone''
+| rowspan="2" | 1991
+| —
+|-
+! scope="row"| ''[[Bitch Betta Have My Money]]''
+| 63
+|-
+! scope="row"| ''[[Ballin' Outta Control]]''
+| 1995
+| 100
+|-
+! scope="row"| ''[[Bitch Betta Have My Money 2001]]''
+| 2000
+| —
+|-
+! scope="row"| ''Rum & Coke''{{citation needed|date=March 2017}}
+| 2008
+| —
+|-
+|}
+
+===Compilation albums===
+* ''Greatest Humps Volume One'' (2002)<ref name=discogs />
+
+===Singles===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|-
+! scope="col" rowspan="2" style="width:9em;"| Title<ref name=discogs />
+! scope="col" rowspan="2" style="width:0.5em;"| Release
+! colspan="1" scope="col" | Peak chart positions
+! scope="col" rowspan="2" style="width:12em;"| Album
+|-
+! scope="col" style="width:2.9em;font-size:90%;"| [[Hot Rap Songs|US<br/>Rap]]
+|-
+! scope="row"| "[[Bitch Betta Have My Money (song)|Bitch Betta Have My Money]]"
+| rowspan="2" width="70px" |  1991
+| 5<ref>{{cite web|url=http://www.billboard.com/charts/rap-song/1991-07-13|title=Rap Music: Top Rap Songs Chart (7/13/91) |website=Billboard.com}}</ref>
+| rowspan="4" | ''Bitch Betta Have My Money''
+|-
+! scope="row"| "Jiggable Pie"
+| 11<ref>{{cite web|url=http://www.billboard.com/charts/rap-song/1992-04-25|title=Rap Music: Top Rap Songs Chart (4/25/92) |website=Billboard.com}}</ref>
+|-
+! scope="row"| "Vertical Joyride"
+| rowspan="3" width="70px" |  1992
+| —
+|-
+! scope="row"| "I Wanna Be a Yo Ho"
+| —
+|-
+! scope="row"| "Don't Be a 304"
+| —
+| [[Trespass (soundtrack)|''Trespass'' (soundtrack)]]
+|-
+! scope="row"| "Butt Booty Naked"
+| width="70px" |  1993
+| —
+| [[House Party 3 (soundtrack)|''House Party 3'' (soundtrack)]]
+|-
+! scope="row"| "Around the World"
+| rowspan="2" width="70px" |  1995
+| —
+| rowspan="2" | ''Ballin' Outta Control''
+|-
+! scope="row"| "Pimp of the Century"
+| —
+|-
+! scope="row"| "Pimp's Anthem"
+| width="70px" |  1997
+| —
+| {{N/A|non-album single}}
+|-
+! scope="row"| "Perfection"
+| width="70px" |  2000
+| —
+| ''Bitch Betta Have My Money 2001''
+|-
+! scope="row"| "No"
+| width="70px" |  2003
+| —
+| ''Greatest Humps Volume 1''
+|-
+! scope="row"| "Somethin' Nasty"
+| width="70px" |  2004
+| —
+| {{N/A|non-album single}}
+|-
+|}
+
+== References ==
+{{reflist|colwidth=30em}}
+
+==External links==
+*[https://web.archive.org/web/20070317045959/http://www.hhnlive.com/news/more/1013 The Fixxers sign with Interscope]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Amg}}
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Living people]]
+[[Category:1970 births]]
+[[Category:Rappers from Los Angeles]]
+[[Category:Select Records artists]]
+[[Category:West Coast hip hop musicians]]
+[[Category:20th-century American rappers]]
+[[Category:21st-century American rappers]]
+[[Category:20th-century American male musicians]]
+[[Category:21st-century American male musicians]]
+[[Category:20th-century African-American musicians]]
+[[Category:21st-century African-American musicians]]

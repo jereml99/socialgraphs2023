@@ -1,0 +1,229 @@
+{{short description|American filmmaker and record executive}}
+{{Use American English|date=August 2022}}
+{{Use mdy dates|date=August 2022}}
+{{Infobox person
+| name                = Dave Free
+| birth_name          = David Isaac Friley<ref name="Birth name" />
+| birth_date          = {{Birth date and age|1986|11|13}}
+| birth_place         = [[Inglewood, California]], U.S.
+| occupation          = {{flatlist|
+* Director
+* writer
+* producer
+* record executive
+* disc jockey
+}}
+| years_active       = 2004–present
+| title              = {{indented plainlist|
+* Co-founder of [[PGLang]]}}
+| module             = {{Infobox musical artist|embed=yes
+| alias              = {{flatlist|
+* Miyatola
+* Dee.Jay.Dave
+}}
+| genre              = [[Hip hop music|Hip hop]]
+| label              = [[Top Dawg Entertainment|Top Dawg]] {{Small|(former)}}
+| past_member_of     = [[Digi+Phonics]]
+}}
+}}
+
+'''David Isaac Friley'''<ref name="Birth name"> {{Cite web |title=David Isaac Friley, Born 11/13/1986 in California |url=https://www.californiabirthindex.org/birth/david_isaac_friley_born_1986_17348486 |access-date=2023-04-01 |website=California Birth Index}} </ref> (born November 13, 1986), known professionally as '''Dave Free''', is an American filmmaker and record executive.<ref>{{Cite news |last=Jackson |first=Mitchell S. |date=2022-12-27 |title=Kendrick Lamar’s New Chapter: Raw, Intimate and Unconstrained |language=en-US |work=The New York Times |url=https://www.nytimes.com/2022/12/27/magazine/kendrick-lamar-dave-free.html |access-date=2023-07-18 |issn=0362-4331}}</ref> Born and raised in [[Inglewood, California]], he is best known for his creative partnership with rapper [[Kendrick Lamar]]. Together, they have directed several music videos and films under the collective name the Little Homies, and founded the entertainment company [[PGLang]] in 2020. Through their partnership, Free has won a [[Grammy Awards|Grammy Award]] and three [[MTV Video Music Awards]].<ref>{{Cite web |last=Tardio |first=Andres |date=2015-08-21 |title=Here's How Kendrick Lamar and Dave Free Became Super Duo 'The Little Homies' |url=https://www.mtv.com/news/2246258/kendrick-lamar-dave-free-little-homies/ |access-date=2023-07-29 |website=[[MTV]]}}</ref><ref>{{Cite web |last=Phillips |first=Yoh |date=2016-04-07 |title=The Little Homies Have the Best Creative Vision in Rap |url=https://djbooth.net/features/2016-04-07-the-little-homies-video-breakdown |access-date=2023-07-29 |website=DJBooth}}</ref>
+
+== Early life ==
+David Isaac Friley was born on November 13, 1986, in [[Inglewood, California]]; the son of a couple from the [[Community areas in Chicago|North]] and [[South Side, Chicago|South Sides]] of [[Chicago]].<ref name="NYT">{{Cite news |last=Jackson |first=Mitchell S. |date=2022-12-27 |title=Kendrick Lamar’s Unconstrained Next Chapter |language=en-US |work=The New York Times |url=https://www.nytimes.com/2022/12/27/magazine/kendrick-lamar-dave-free.html |access-date=2022-12-27 |issn=0362-4331}}</ref> He is the youngest of three children.<ref name="NYT" /> Friley is a childhood friend of rapper [[Kendrick Lamar]], having met while they were both in high school.<ref>{{Cite web |last=Yoo |first=Noah |date=2019-10-04 |title=Dave Free No Longer Co-President of Top Dawg Entertainment: Report |url=https://pitchfork.com/news/dave-free-no-longer-co-president-of-top-dawg-entertainment-report/ |access-date=2022-08-18 |website=Pitchfork |language=en-US}}</ref> After graduating, he worked as a computer technician while helping Lamar begin his rap career.<ref>{{Cite web |last=Greenburg |first=Zack O'Malley |title=Meet Dave Free, Kendrick Lamar's 30 Under 30 Manager |url=https://www.forbes.com/sites/zackomalleygreenburg/2016/01/04/meet-dave-free-kendrick-lamars-30-under-30-manager/ |access-date=2022-08-18 |website=Forbes |language=en}}</ref> He used his job to showcase Lamar's music to Anthony "Top Dawg" Tiffith, founder and CEO of independent record label [[Top Dawg Entertainment]] (TDE), which led to him signing a [[recording contract]] with the label in 2007.<ref>{{Cite web |last=Droke |first=Carolyn |date=2019-10-05 |title=Dave Free Reportedly Steps Down As Top Dawg Entertainment’s President |url=https://uproxx.com/music/dave-free-leaves-top-dawg-entertainment/ |access-date=2022-08-18 |website=UPROXX |language=en-US}}</ref><ref>{{Cite web |date=2011-01-06 |title=Kendrick Lamar: The West Coast Got Somethin' To Say |url=https://hiphopdx.com/interviews/id.1641/title.kendrick-lamar-the-west-coast-got-somethin-to-say |access-date=2022-08-18 |website=HipHopDX}}</ref>
+
+== Career ==
+Shortly after Lamar signed with TDE, Free joined the label as an in-house producer. He became a member of the hip hop production team [[Digi+Phonics]] alongside [[Sounwave]], [[Willie B (producer)|Willie B]] and Tae Beast and worked significantly on projects for the hip hop supergroup [[Black Hippy]], composed of Lamar, [[Jay Rock]], [[Schoolboy Q]] and [[Ab-Soul]].<ref>{{Cite news |last=Ducker |first=Eric |date=2014-07-23 |title=A Rational Conversation: The Sound Of TDE's Success |language=en |work=NPR |url=https://www.npr.org/sections/therecord/2014/07/23/334492009/a-rational-conversation-the-sound-of-tdes-success |access-date=2022-11-12}}</ref> Their production work received critical praise; ''[[Complex Networks|Complex]]'' named Digi+Phonics as one of the top 25 new producers to watch out for in November 2012.<ref>{{Cite web |title=25 New Producers To Watch Out For |url=https://www.complex.com/music/2012/11/25-new-producers-to-watch-out-for/ |access-date=2022-11-12 |website=Complex |language=en}}</ref> [[BET]] named them as one of the top ten young producers on the rise in July 2013.<ref>{{Cite web |title=10 Young Producers On the Rise |url=https://www.bet.com/photo-gallery/nti147/10-young-producers-on-the-rise/5ykijb |access-date=2022-11-12 |website=BET |language=en}}</ref>
+
+Free's business career began as the social media director for TDE.<ref>{{Cite web |title=More Levels, The Brains Behind Top Dawg Entertainment [September 2012 Story] - XXL |url=https://www.xxlmag.com/tde-sidebar-kendrick-coverage/ |access-date=2022-08-18 |website=XXL Mag |language=en}}</ref> In 2007, he was named the label's co-president alongside [[Punch (rapper)|Terrence "Punch" Henderson]].<ref>{{Cite web |title=Kendrick Lamar Addresses Macklemore Text, Will Reportedly Release His New Album In September |url=https://www.complex.com/tag/kendrick-lamar |access-date=2022-08-18 |website=Complex |language=en}}</ref> Free subsequently became Lamar's manager during his tenure and co-directed several of his studio albums and accompanying music videos under the collective name The Little Homies.<ref>{{Cite web |last=Phillips |first=Yoh |title=The Little Homies Have the Best Creative Vision in Rap |url=https://djbooth.net/features/2016-04-07-the-little-homies-video-breakdown |access-date=2022-08-18 |website=DJBooth |language=en}}</ref><ref>{{Cite web |title=Here’s How Kendrick Lamar And Dave Free Became Super Duo ‘The Little Homies’ |url=https://www.mtv.com/news/mpcmpj/kendrick-lamar-dave-free-little-homies |access-date=2022-08-18 |website=MTV |language=en}}</ref> Their filmmaking work earned praise and led to the duo winning the [[Grammy Award for Best Music Video]] and the [[MTV Video Music Awards]] for [[MTV Video Music Award for Best Hip Hop Video|Best Hip Hop Video]] and [[MTV Video Music Award for Video of the Year|Video of the Year]].<ref>{{Cite web |date=2018-01-28 |title=Grammy Awards Winners: The Complete List |url=https://variety.com/2018/music/news/2018-grammys-winners-list-music-awards-1202676802/ |access-date=2022-08-18 |website=Variety |language=en-US}}</ref><ref>{{Cite web |last=Berry |first=Peter A. |title=Kendrick Lamar's 'Humble' Wins Best Hip-Hop at 2017 MTV Video Music Awards - XXL |url=https://www.xxlmag.com/kendrick-lamar-humble-wins-best-hip-hop-2017-mtv-video-music-awards/ |access-date=2022-08-18 |website=XXL Mag |language=en}}</ref>
+
+On October 4, 2019, ''[[Rolling Stone]]'' reported that Free had left TDE and was working independently. He was also helping rapper [[Baby Keem]] as he started gaining recognition and expressed his intention of "getting heavy into the film game."<ref>{{Cite web |last=Leight |first=Elias |date=2019-10-04 |title=Dave Free Leaves Top Dawg Entertainment |url=https://www.rollingstone.com/music/music-news/top-dawg-entertainment-dave-free-split-894781/ |access-date=2022-08-18 |website=Rolling Stone |language=en-US}}</ref> On March 5, 2020, Free and Lamar launched the "multi-lingual" entertainment company [[PGLang]].<ref>{{Cite web |last=Mamo |first=Heran |date=2020-03-05 |title=Kendrick Lamar Announces Mysterious ‘pgLang’ Project: What Does It All Mean? |url=https://www.billboard.com/music/rb-hip-hop/kendrick-lamar-pglang-company-announcement-9328964/ |access-date=2022-08-18 |website=Billboard |language=en-US}}</ref><ref>{{Cite web |last=Holmes |first=Charles |date=2020-03-05 |title=Kendrick Lamar Launches… Something (And Says It's Not a Record Label) |url=https://www.rollingstone.com/music/music-news/kendrick-lamar-dave-free-pglang-962892/ |access-date=2022-08-18 |website=Rolling Stone |language=en-US}}</ref> Through the company, Free has written and directed several music videos and advertising campaigns for [[Calvin Klein (fashion house)|Calvin Klein]], [[Converse (shoe company)|Converse]] and [[Cash App]].<ref>{{Cite web |last=Dunn |first=Frankie |date=2021-01-14 |title=Kendrick Lamar’s pgLang has collaborated with Calvin Klein |url=https://i-d.vice.com/en_uk/article/4ad7p3/kendrick-lamar-pglang-dave-free-calvin-klein-collaboration |access-date=2022-08-18 |website=i-D |language=en}}</ref><ref>{{Cite web |last=Inman |first=DeMicia |date=2022-05-04 |title=A Closer Look At The “pgLang For Converse” Collaboration |url=https://www.vibe.com/gallery/pglang-converse-sold-out-collaboration-1234661029/ |access-date=2022-08-18 |website=VIBE.com |language=en-US}}</ref><ref>{{Cite web |title=Kendrick Lamar Links With Billionaire Ray Dalio for New pgLang-Produced Video Promoting Financial Literacy |url=https://www.complex.com/music/kendrick-lamar-ray-dalio-pglang-financial-literacy-video |access-date=2022-08-18 |website=Complex |language=en}}</ref> On January 13, 2022, Free and Lamar announced they were producing an untitled comedy film with ''[[South Park]]'' creators [[Trey Parker]] and [[Matt Stone]] for [[Paramount Pictures]].<ref>{{Cite web |last=Grobar |first=Matt |date=2022-01-13 |title=Kendrick Lamar, Dave Free & ‘South Park’ Duo Matt Stone And Trey Parker To Produce Comedy Penned By Vernon Chatman For Paramount |url=https://deadline.com/2022/01/kendrick-lamar-dave-free-matt-stone-trey-parker-to-produce-paramount-comedy-1234912409/ |access-date=2022-08-18 |website=Deadline |language=en-US}}</ref>
+
+== Awards and nominations ==
+{| class="wikitable sortable plainrowheaders"
+|-
+! scope="col" |Organization
+! scope="col" |Year{{efn|Indicates the year of ceremony. Each year is linked to the article about the awards held that year, wherever possible.}}
+! scope="col" |Category
+! scope="col" |Nominated work
+! scope="col" |Result
+! scope="col" class="unsortable" |{{Abbr|Ref.|References}}
+|-
+! scope="row"| [[BET Awards]]
+| [[BET Awards 2023|2023]]
+| rowspan="2"| Video Director of the Year
+| rowspan="2"| Free and [[Kendrick Lamar]]
+| {{nom}}
+|<ref>{{Cite web |last=Tinoco |first=Armando |date=2023-06-26 |title=BET Awards: SZA, Beyoncé Lead With Most Wins, Including Tying For Album Of The Year |url=https://deadline.com/2023/06/2023-bet-awards-winners-list-1235424387/ |access-date=2023-08-16 |website=Deadline |language=en-US}}</ref>
+|-
+! scope="row"| [[BET Hip Hop Awards]]
+| [[2022 BET Hip Hop Awards|2022]]
+| {{won}}
+|<ref>{{Cite web |last=Grein |first=Paul |date=2022-10-05 |title=Kendrick Lamar Tops 2022 BET Hip Hop Awards: Full Winners List |url=https://www.billboard.com/music/awards/2022-bet-hip-hop-awards-full-winners-list-kendrick-lamar-1235150410/ |access-date=2023-08-16 |website=Billboard |language=en-US}}</ref>
+|-
+! scope="row"| [[Cannes Lions International Festival of Creativity]]
+| 2023
+| Film Craft Lion for Direction
+| ''We Cry Together – A Short Film''
+| {{won|place=Gold|Grand Prix}}
+|<ref>{{Cite web |last=Nudd |first=Tim |date=2023-06-20 |title=Kendrick Lamar’s short film ‘We Cry Together’ wins Film Craft Grand Prix at Cannes |url=https://adage.com/article/special-report-cannes-lions/cannes-lions-2023-kendrick-lamars-short-film-we-cry-together-wins-film-craft-grand-prix/2500636 |access-date=2023-08-16 |website=Ad Age |language=en}}</ref>
+|-
+! rowspan="3" scope="row"| [[Grammy Awards]]
+| [[58th Annual Grammy Awards|2016]]
+| rowspan="3"| [[Grammy Award for Best Music Video|Best Music Video]]
+| "[[Alright (Kendrick Lamar song)|Alright]]"
+| {{nom}}
+| <ref>{{Cite web |last= |first= |date=2016-02-15 |title=Grammy Awards: Complete Winners List |url=https://variety.com/2016/music/awards/grammy-awards-2016-grammys-winners-list-1201706586/ |access-date=2023-08-16 |website=Variety |language=en-US}}</ref>
+|-
+| [[60th Annual Grammy Awards|2018]]
+| "[[Humble (song)|Humble]]"
+| {{won}}
+|<ref>{{Cite news |date=2018-01-28 |title=Grammy 2018 Winners: Full List (Published 2018) |language=en |work=The New York Times |url=https://www.nytimes.com/2018/01/28/arts/music/grammy-winners.html |access-date=2023-08-16}}</ref>
+|-
+| [[65th Annual Grammy Awards|2023]]
+| "[[The Heart Part 5]]"
+| {{nom}}
+|<ref>{{Cite web |last=Nordyke |first=Kimberly |last2=Thomas |first2=Carly |date=2023-02-06 |title=Grammy Awards: Complete List of Winners |url=https://www.hollywoodreporter.com/news/music-news/grammys-2023-winners-list-1235312839/ |access-date=2023-08-16 |website=The Hollywood Reporter |language=en-US}}</ref>
+|-
+! rowspan="6" scope="row"| [[MTV Video Music Awards]]
+| rowspan="2"| [[2015 MTV Video Music Awards|2015]]
+| [[MTV Video Music Award for Best Direction|Best Direction]]
+| rowspan="2"| "[[Alright (Kendrick Lamar song)|Alright]]"
+| {{won}}
+| rowspan="2"| <ref>{{Cite web |last=Hooton |first=Christopher |date=2015-08-31 |title=VMAs 2015: Taylor Swift and her buddy Kendrick Lamar clean-up at awards |url=https://www.independent.co.uk/arts-entertainment/music/news/vmas-2015-taylor-swift-and-her-buddy-kendrick-lamar-cleanup-at-awards-full-list-of-winners-10479316.html |access-date=2023-08-16 |website=The Independent |language=en}}</ref>
+|-
+| [[MTV Video Music Award for Video of the Year|Video of the Year]]
+| {{nom}}
+|-
+| rowspan="2"| [[2017 MTV Video Music Awards|2017]]
+| Best Direction
+| rowspan="2"| "[[Humble (song)|Humble]]"
+| {{won}}
+| rowspan="2"| <ref>{{Cite news |last=Lee |first=Benjamin |date=2017-08-28 |title=MTV VMAs: Kendrick Lamar wins big in politically charged ceremony |language=en-GB |work=The Guardian |url=https://www.theguardian.com/music/2017/aug/28/mtv-vmas-kendrick-lamar-wins-big-in-politically-charged-ceremony |access-date=2023-08-16 |issn=0261-3077}}</ref>
+|-
+| Video of the Year
+| {{won}}
+|-
+| [[2022 MTV Video Music Awards|2022]]
+| rowspan="2"| Best Direction
+| "[[Family Ties (song)|Family Ties]]"
+| {{nom}}
+|<ref>{{Cite web |last=Langston |first=Keith |date=2022-08-29 |title=MTV VMAs winners: See the full list |url=https://ew.com/mtv-video-music-awards/mtv-vmas-2022-winners-list/ |access-date=2023-08-16 |website=EW.com |language=en}}</ref>
+|-
+| [[2023 MTV Video Music Awards|2023]]
+| "Count Me Out"
+| {{pending}}
+|<ref>{{Cite web |date=2023-08-08 |title=Taylor Swift tops list of 2023 MTV Video Music Award nominations |url=https://www.cbsnews.com/news/taylor-swift-2023-mtv-video-music-award-nominations/ |access-date=2023-08-16 |website=CBS News |language=en-US}}</ref>
+|-
+! scope="row"| [[Variety (magazine)|''Variety'' Hitmakers]]
+| 2022
+| Creativity and Impact Award
+| Himself
+| {{won}}
+|<ref>{{Cite web |last=Panaligan |first=E. J. |date=2022-12-05 |title=Dave Free Accepts Inaugural Creativity & Impact Award at Variety Hitmakers Ceremony: ‘Make Sure We Instill Purpose Into Everything We Do’ |url=https://variety.com/video/dave-free-creativity-impact-award-variety-hitmakers-2022/ |access-date=2023-08-16 |website=Variety |language=en-US}}</ref>
+|}
+
+==Production discography==
+
+{|class="wikitable plainrowheaders" style="text-align:center;"
+|+List of [[Hip hop production|production]] ([[songwriting]] and [[arrangement]]) credits
+! scope="col" style="width:24em;"| Track(s)
+! scope="col" style="width:1em;"| Year
+! scope="col"| Credit
+! scope="col"| Artist(s)
+! scope="col"| Album
+|-
+| {{n/a}}
+|rowspan="1"|2009
+|rowspan="4"| Executive producer
+|rowspan="2"|[[Kendrick Lamar]]
+|rowspan="1"|''[[Kendrick Lamar (EP)|Kendrick Lamar]]''
+|-
+| {{n/a}}
+|rowspan="1"|2010
+|rowspan="1"|''[[Overly Dedicated]]''
+|-
+| {{n/a}}
+|rowspan="4"|2011
+|rowspan="1"|[[Schoolboy Q]]
+|rowspan="1"|''[[Setbacks (album)|Setbacks]]''
+|-
+| {{n/a}}
+|rowspan="2"|Kendrick Lamar
+|rowspan="2"|''[[Section.80]]''
+|-
+|rowspan="1"| "The Spiteful Chant"<br>{{small|(featuring Schoolboy Q)}}
+|rowspan="1"| Record producer
+|-
+| "#LTM"<br>{{small|(featuring Pat Brown)}}
+| Record producer<br>{{small|(produced with [[Tae Beast]])}}
+|rowspan="1"|[[Ab-Soul]]
+|rowspan="1"|''[[Longterm Mentality]]''
+|-
+| {{n/a}}
+|rowspan="6"|2012
+| Executive producer
+|rowspan="5"|[[Schoolboy Q]]
+|rowspan="5"|''[[Habits & Contradictions]]''
+|-
+|rowspan="1" | "Tookie Knows (Interlude)"
+|rowspan="1"| Record producer<br>{{small|(produced with Tae Beast)}}
+|-
+|rowspan="1" | "Raymond 1969"
+|rowspan="1"| Record producer<br>{{small|(produced with [[Sounwave]])}}
+|-
+|rowspan="1" | "How We Feeling"
+|rowspan="2"| Record producer<br>{{small|(produced with [[Tae Beast]])}}
+|-
+|rowspan="1" | "Blessed"<br>{{small|(featuring [[Kendrick Lamar]])}}
+|-
+| {{n/a}}
+| Associate producer
+|rowspan="1"|Kendrick Lamar
+|rowspan="1"|''[[Good Kid, M.A.A.D City]]''
+|-
+| {{n/a}}
+|rowspan="4"|2013
+| Co-executive producer
+|rowspan="4"|Ab-Soul
+|rowspan="4"|''[[Control System]]''
+|-
+|rowspan="1" | "Solo Ho3"<br>{{small|(featuring [[Jhené Aiko]])}}
+|rowspan="1"| Record producer<br>{{small|(produced with Sounwave)}}
+|-
+|rowspan="1" | "Bohemian Grove"
+|rowspan="1"| Record producer<br>{{small|(produced with Tae Beast)}}
+|-
+|rowspan="1" | "Terrorist Threats"<br>{{small|(featuring [[Danny Brown]] and Jhené Aiko)}}
+|rowspan="1"| Record producer
+|}
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{MTV Video Music Award for Best Direction}}
+{{Kendrick Lamar}}
+{{Baby Keem}}
+{{Authority control}}
+
+{{DEFAULTSORT:Free, Dave}}
+[[Category:1986 births]]
+[[Category:21st-century African-American musicians]]
+[[Category:African-American film directors]]
+[[Category:African-American record producers]]
+[[Category:American music industry executives]]
+[[Category:American music managers]]
+[[Category:American music video directors]]
+[[Category:Filmmakers from California]]
+[[Category:Grammy Award winners]]
+[[Category:Living people]]
+[[Category:MTV Video Music Award winners]]
+[[Category:People from Inglewood, California]]
+[[Category:PGLang artists]]
+[[Category:Top Dawg Entertainment artists]]
+[[Category:West Coast hip hop musicians]]
+[[Category:African-American DJs]]
+[[Category:American hip hop DJs]]

@@ -1,0 +1,127 @@
+{{short description|American rapper from New Jersey}}
+{{Use mdy dates|date=January 2020}}
+{{BLP sources|date=February 2018}}
+{{Infobox musical artist
+| name            = David Rush
+| image           =
+| image_size      =
+| alt             =
+| caption         =
+| birth_name      = David Mauricio Bowen-Petterson
+| alias           = {{hlist|Rush|Young Bo$|Rachid Aziz|PenGod}}
+| birth_date      = {{birth date and age|mf=y|1983|05|20}}
+| birth_place     = [[Highland Park, New Jersey|Highland Park]], New Jersey, United States
+| origin          =
+| death_date      =
+| death_place     =
+| genre           = [[Hip hop music|Hip hop]], pop, [[R&B]]
+| occupation      = {{hlist|Rapper|singer|songwriter|record producer}}
+| instrument      = Vocals
+| years_active    = 2005–present
+| label           = {{hlist|WinsOnlyMusic|[[Mr. 305 Inc.]]|[[Republic Records|Universal Republic]]}}
+| associated_acts = {{hlist|[[Kevin Rudolf]]|[[LMFAO]]|[[Pitbull (rapper)|Pitbull]]}}
+| website         = {{URL|davidrushonline.com}}
+}}
+
+'''David Mauricio Bowen-Petterson''' (born May 20, 1983), better known by his [[stage name]] '''David Rush''', is an American rapper from [[Highland Park, New Jersey]]. He is perhaps best known for his commercial debut (and only) single as a lead artist, "[[Shooting Star (David Rush song)|Shooting Star]]" in 2008, which had a popular [[remix]] featuring American EDM duo [[LMFAO]]. He was also featured on the song "Go Girl" by [[Pitbull (rapper)|Pitbull]] and [[Trina]], which was featured on ''[[The Boatlift]]'' (2007). Rush eventually became a [[record producer]], having produced for [[Jason Derulo]]'s single "[[Stupid Love (Jason Derulo song)|Stupid Love]]" from the album ''[[Talk Dirty (album)|Talk Dirty]]'' (2014).
+
+== Career ==
+In 2007, under the moniker Young Bo$$, Rush scored his first big feature on the song "[[Go Girl (Pitbull song)|Go Girl]]", by fellow American rapper [[Pitbull (entertainer)|Pitbull]], which peaked at No. 83 on the US [[Billboard Hot 100|''Billboard'' Hot 100]]. Following this, he officially changed his stage name to David Rush and on September 18, 2008, released his debut [[mixtape]], ''Feel the Rush Vol. 1''.<ref>{{Cite web|url=http://www.datpiff.com/David-Rush-Feel-The-Rush-Vol-1-mixtape.20287.html|title=Feel the Rush Vol 1 Mixtape by David Rush Hosted by DJ Noodles}}</ref> The mixtape features his biggest success to date, his commercial debut single, "[[Shooting Star (David Rush song)|Shooting Star]]", which features Pitbull and was produced by AYB. The single charted on the [[Canadian Hot 100]] and also reached the top ten on the US ''Billboard'' [[Rhythmic Top 40]] chart. "Shooting Star" was [[remix]]ed featuring production from LMFAO and vocals from [[Kevin Rudolf]]. Rush collaborated with Pitbull again in the making of Pitbull's 2012 album ''[[Global Warming (Pitbull album)|Global Warming]]'', where Rush was featured on a song titled "[[Everybody Fucks]]", alongside African-American [[R&B]] singer [[Akon]].
+
+==Discography==
+===Mixtapes===
+*2008: ''Feel the Rush Vol. 1''
+*2016: The Alive Project 
+*2016: GAWD <nowiki>[[Get A Win Daily]]</nowiki>
+*2017: One Day From The Sun
+
+===Singles===
+{| class="wikitable"
+!align="center" valign="top" width="40"|Year
+!align="left" valign="top"|Song
+!align="center" valign="top" width="40"|<small>[[Pop 100|US<br/>Pop]]</small><br/><ref>{{BillboardURLbyName|artist=david rush|chart=Pop 100}}</ref>
+!align="center" valign="top" width="40"|<small>[[Rhythmic Top 40|US<br/>Rhyt.]]</small><br/><ref>{{BillboardURLbyName|artist=david rush|chart=Rhythmic Top 40}}</ref>
+!align="center" valign="top" width="40"|<small>[[Canadian Hot 100|CAN]]</small><br/><ref>{{Cite web|url=http://acharts.us/song/51820|title = Shooting Star by David Rush featuring LMFAO, Pitbull and Kevin Rudolf - Music Charts|website = αCharts}}</ref>
+
+!align="left" valign="top"|Album
+|-
+|align="center" rowspan="1"|2008
+|align="left" valign="top"|"[[Shooting Star (David Rush song)|Shooting Star (Party Rock Remix)]]" <br/><small>(featuring [[Kevin Rudolf]], [[LMFAO (group)|LMFAO]] and [[Pitbull (rapper)|Pitbull]])</small>
+|align="center" valign="top"|33
+|align="center" valign="top"|9
+|align="center" valign="top"|66
+|align="left" rowspan="2"|''Feel the Rush Vol. 1''
+|-
+|-
+|align="center" rowspan="1"|2009
+|align="left" valign="top"|"Where You Wanna Go"
+|align="center" valign="top"|-
+|align="center" valign="top"|-
+|align="center" valign="top"|-
+|-
+|}
+
+====Featured singles====
+{| class="wikitable"
+!align="center" valign="top" width="40"|Year
+!align="left" valign="top"|Song
+!align="center" valign="top" width="40"|<small>[[Billboard Hot 100|US]]</small>
+!align="center" valign="top" width="40"|<small>[[Pop 100|US<br/>Pop]]</small>
+!align="center" valign="top" width="40"|<small>[[VG-lista|NOR]]<br/><ref>[http://norwegiancharts.com/showinterpret.asp?interpret=David+Rush NorwegianCharts.com David Rush discography (Norway)]</ref></small>
+!align="left" valign="top" width="220"|Album
+|-
+|align="center" rowspan="1"|2007
+|align="left" valign="top"|"[[Go Girl (Pitbull song)|Go Girl]]" <br/><small>([[Pitbull (rapper)|Pitbull]] featuring [[Trina]] and Young Bo$$)</small>
+|align="center" valign="top"|83
+|align="center" valign="top"|64
+|align="center" valign="top"|-
+|align="left" rowspan="1"|''[[The Boatlift]]''
+|-
+|align="center" rowspan="1"|2011
+|align="left" valign="top"|"Took My Love" <br/><small>([[Pitbull (rapper)|Pitbull]] featuring [[Redfoo]], Vein & David Rush)</small>
+|align="center" valign="top"|-
+|align="center" valign="top"|-
+|align="center" valign="top"|-
+|align="left" rowspan="1"|''[[Planet Pit]]''
+|-
+|align="center" rowspan="1"|2013
+|align="left" valign="top"|"[[Everybody Fucks]]" <br/><small>([[Pitbull (rapper)|Pitbull]] featuring [[Akon]] & David Rush)</small>
+|align="center" valign="top"|-
+|align="center" valign="top"|-
+|align="center" valign="top"|19
+|align="left" rowspan="1"|''[[Global Warming (Pitbull album)|Global Warming]]''
+|-
+|align="center" rowspan="1"|2013
+|align="left" valign="top"|"All Night" <br/><small>([[Pitbull (rapper)|Pitbull]] featuring David Rush)</small>
+|align="center" valign="top"|-
+|align="center" valign="top"|-
+|align="center" valign="top"|-
+|align="left" rowspan="1" {{N/A|Non-album singles}}
+|-
+|}
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20110807015131/http://feeltherush.tv/ Official website]
+* {{AllMusic|class=artist|id=mn0001021651|label=David Rush}}
+* {{Discogs artist | artist=David+Rush | name=David Rush}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rush, David}}
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Living people]]
+[[Category:Rappers from New Jersey]]
+[[Category:East Coast hip hop musicians]]
+[[Category:African-American record producers]]
+[[Category:American hip hop record producers]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:1983 births]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]
+
+
+{{US-hiphop-bio-stub}}

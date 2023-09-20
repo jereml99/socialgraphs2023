@@ -1,0 +1,289 @@
+{{Short description|American rapper from New York}}
+{{Infobox person
+| name               = Consequence
+| image              = Consequence by David Shankbone.jpg
+| caption            = Consequence in 2007
+| alias              = {{flatlist|
+* Cons
+* Quence
+* Ray Tip
+}}
+| birth_name         = Dexter Raymond Mills Jr.
+| birth_date         = {{birth date and age|1977|06|14}}
+| birth_place        = [[Queens]], [[New York (state)|New York]], U.S.
+| education          = 
+| occupation         = {{flatlist|
+* Rapper
+* songwriter
+}}
+| years_active       = 1993–present
+| organization       = 
+| works              = 
+| net_worth          = 
+| title              = 
+| spouse             = 
+| children           = 1
+| relatives          = {{ubl|[[Q-Tip (musician)|Q-Tip]] (cousin)}}
+| awards             = 
+| website            = 
+| module             = {{Infobox musical artist|embed=yes
+| genre        = {{flatlist|
+* [[East Coast hip hop]]
+}}<!--Do not add genres without a source.-->
+| label        = {{flatlist|
+* [[GOOD Music|GOOD]]
+* [[Sony Urban Music|Sony Urban]]
+* [[Columbia Records|Columbia]]
+* [[RED Ink Records|RED Ink]]
+* 192 Records
+}}
+}}
+}}
+
+'''Dexter Raymond Mills Jr.''', better known by his [[stage name]] '''Consequence''', is an American rapper from [[Queens, New York City]], [[New York (state)|New York]]. He is best known for his collaborative work with [[A Tribe Called Quest]] and [[Kanye West]].
+
+==Career==
+Consequence debuted in 1996, appearing several times on [[A Tribe Called Quest]]'s fourth album ''[[Beats, Rhymes, and Life]]'', as he is the cousin of member [[Q-Tip (musician)|Q-Tip]]. In March 2007, he released his debut album ''[[Don't Quit Your Day Job!]]'', under [[Columbia Records]] and [[Kanye West]]'s [[GOOD Music]]. Consequence left GOOD Music in 2011, on bad terms, after being signed with the label since 2005. He and West later reconciled, despite Consequence speaking ill of West. Consequence consequently launched his own record label, Band Camp Records, following his departure from GOOD Music.
+
+== Personal life ==
+In 2020, Consequence came forth about his battle with [[lupus]].<ref>{{Cite web |last=Miss2Bees |date=2020-10-01 |title=Rapper Consequence Reveals Lupus and Diabetes Diagnosis |url=https://thesource.com/2020/10/01/rapper-consequence-reveals-lupus-and-diabetes-diagnosis/ |access-date=2022-05-26 |website=The Source |language=en-US}}</ref>
+
+==Discography==
+
+===Studio albums===
+{|class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Title
+!colspan="4"|Chart positions
+|-
+!width=40|<small>[[Billboard 200|U.S.]]</small>
+!width="40"|<small>[[Top Rap Albums|U.S. Rap]]</small>
+!width="40"|<small>[[Top Independent Albums|U.S. Independent]]</small>
+!width=40|<small>[[Top Heatseekers|U.S. Heatseekers]]</small>
+|-
+|2007
+|'''''[[Don't Quit Your Day Job!]]'''''<ref>{{cite magazine|url={{BillboardURLbyName|artist=consequence|chart=all}}|title= Click to Play Don't Quit Your Day Job – Consequence|magazine=Billboard|access-date=April 18, 2010}}</ref>
+*Released: March 6, 2007
+*Label: [[GOOD Music|GOOD]], [[Columbia Records|Columbia]]
+*Format: CD (#8287689631), digital download
+|align=center|113
+|align=center|12
+|align=center|10
+|align=center|1
+|-
+|2016
+|'''''A Good Comeback Story (EP)'''''
+*Released: January 18, 2016
+|align=center|-
+|align=center|-
+|align=center|-
+|align=center|-
+|}
+
+===Mixtapes===
+*''The Cons Vol. 1: All Sales Are Final'' (2002)
+*''The Cons Vol. 2: Make The Game Come To You'' (2003)
+*''Take 'Em To The Cleaners'' (2004)
+*''A Tribe Called Quence (1995-2004)'' (2005)
+*''The Cons Vol. 3: Da Comeback Kid'' (2005)
+*''The Cons Vol. 4: Finish What You Started'' (2006)
+*''The Wait Is Over Vol. 1: The Best Of The Cons'' (2006)
+*''The Cons Vol. 5: Refuse 2 Die'' (2007)
+*''Movies on Demand'' (2010)
+*''Movies on Demand II'' (2011)
+*''Movies on Demand III'' (2011)
+*''Curb Certified'' (2011)
+*''Movies on Demand IV'' (2013)
+
+===Singles===
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!|Chart positions
+!rowspan="2"|Album
+|-
+!  style="text-align:center; width:31px;"|<small>[[Hot R&B/Hip-Hop Songs|US<br />R&B]]</small>
+|-
+|align=center|1997
+|align=left|"Queens Get the Money" <small>(featuring [[Havoc (musician)|Havoc]])</small>
+|align=center|—
+|align=left|''Niggaz Get the Money EP''
+|-
+|align=center|2003
+|align=left|"Turn Ya Self In"
+|align=center|—
+|align=left|''Take 'Em to the Cleaners''
+|-
+|align=center|2005
+|align=left|"Caught Up in the Hype"
+|align=center|—
+| {{N/A|Non-album single}}
+|-
+|align=center|2006
+|align=left|"Callin' Me"
+|align=center|—
+| style="text-align:left;" rowspan="4"|''Don't Quit Your Day Job!''
+|-
+| style="text-align:center;" rowspan="2"|2007
+|align=left|"Don't Forget 'Em"
+|align=center|—
+|-
+|align=left|"The Good, the Bad, the Ugly" <small>(featuring [[Kanye West]])</small>
+|align=center|—
+|-
+|align=center|2008
+|align=left|"Job Song"
+|align=center|—
+|-
+|align=center|2009
+|align=left|"[[Whatever U Want (Consequence song)|Whatever U Want]]" <small>(featuring Kanye West and [[John Legend]])</small>
+|align=center|–{{efn|group=upper-alpha|"Whatever U Want" did not enter the Hot R&B/Hip-Hop Songs chart, but peaked at number 4 on the Bubbling Under R&B/Hip-Hop Singles chart.}}
+|-
+|align=center|2010
+|align=left|"Down This Road" <small>(featuring Maino)</small>
+|align=center|–
+| {{N/A|Non-album single}}
+|-
+</small>
+|-
+|align=center|2012
+|align=left|"Something Light" <small>(featuring Pooch Hall)</small>
+|align=center|—
+| {{N/A|Non-album single}}
+|-
+|align=center|2013
+|align=left|"Going Thru Withdrawal" <small>(featuring Mysonne & [[Jae Millz]])</small>
+|align=center|—
+| {{N/A|Non-album single}}
+|-
+|align=center|2014
+|align=left|"The Whole World" <small>(featuring [[Mark Crozer]])</small>
+|align=center|—
+| {{N/A|Non-album single}}
+|-
+| style="text-align:center;" rowspan="2"|2017
+|align=left|"All Black Neighborhood" <small>(featuring [[Royce da 5'9"]])</small>
+|align=center|—
+| {{N/A|Non-album single}}
+|-
+|align=left|"Say My Name" <small> (featuring [[Papoose (rapper)|Papoose]] & [[Peedi Crakk]])</small>
+|align=center|—
+| {{N/A|Non-album single}}
+|-
+|align=center|2019
+|align=left|"Complex Con" <small>(featuring [[Conway the Machine]])</small>
+|align=center|—
+| ''Make Up for Lost Time''
+|-
+|align=center|2020
+|align=left|"Thanks Ye" <small>(featuring [[Ant Clemons]], Bongo ByTheWay, [[KayCyy Pluto]])</small>
+|align=center|—
+| ''No Cap Pack''
+|-
+|align=center|2022
+|align=left|"Blood Stain"
+|align=center|—
+|''Nice Doing Business With You''
+|}
+
+====As featured artist====
+{| class="wikitable"
+|-
+!rowspan="2"|Year
+!rowspan="2"|Single
+!colspan="2"|Chart positions
+!rowspan="2"|Album
+|-
+!  style="text-align:center; width:31px;"|<small>[[Billboard Hot 100|US]]</small>
+!  style="text-align:center; width:31px;"|<small>[[Hot R&B/Hip-Hop Songs|US<br />R&B]]</small>
+|-
+|align=center|2005
+|align=left|"[[Gone (Kanye West song)|Gone]]"{{efn|group=upper-alpha|"Gone" charted in October 2013, following increased sales as a result of its use in a viral Internet video.<ref>{{cite magazine |url=http://www.billboard.com/articles/news/5748232/kanye-wests-long-gone-song-debuts-in-hot-100s-top-20 |title=Kanye West's Long-'Gone' Song Debuts In Hot 100's Top 20 |magazine=[[Billboard (magazine)|Billboard]] |publisher=[[Prometheus Global Media]] |date=October 9, 2013 |access-date=October 11, 2013 |author=Gruger, William}}</ref>}} <small>([[Kanye West]] feat. [[Cam'Ron]], Consequence)</small>
+|align=center|18
+|align=center|6
+|align=left|''[[Late Registration]]''
+|-
+|align=center|2006
+|align=left|"[[Grammy Family]]" <small>([[DJ Khaled]] feat. [[Kanye West]], Consequence, and [[John Legend]])</small>
+|align=center| —
+|align=center|—{{efn|group=upper-alpha|"Grammy Family" did not enter the Hot R&B/Hip-Hop Songs chart, but peaked at number 24 on the Bubbling Under R&B/Hip-Hop Singles chart.<ref name="US-Bubbling-R&B-singles">{{cite magazine|url=http://www.billboard.com/biz/search/charts?f%5B0%5D=ts_chart_artistname%3AFat+Joe&f%5B1%5D=itm_field_chart_id%3A345&f%5B2%5D=ss_bb_type%3Achart_item&type=2&artist=Fat+Joe|title=Chart Search for Fat Joe (Bubbling Under R&B/Hip-Hop Singles) &#124; Billboard|magazine=Billboard|access-date=October 18, 2017}}</ref>}}
+|align=left|''[[Listennn... the Album]]'' and ''Don't Quit Your Day Job!''
+|-
+|align=center|2007
+|align=left|"Anything" <small>([[Patti LaBelle]] feat. Kanye West and Consequence)</small>
+|align=center| —
+|align=center|64
+|align=left|''[[The Gospel According to Patti LaBelle]]''
+|}
+;Notes
+{{notelist-ua}}
+
+===Guest appearances===
+*[[A Tribe Called Quest]] – "The Chase, Part II" on ''[[Award Tour]]'' 12" single [[A-side and B-side|B-side]] (1993)
+*A Tribe Called Quest – "Glamour and Glitz" on [[The Show (soundtrack)|''The Show'' soundtrack]] (1995)
+*A Tribe Called Quest – "Phony Rappers", "Motivators", "Jam", "Mind Power", "Baby Phife's Return", "Word Play", "[[Stressed Out (A Tribe Called Quest song)|Stressed Out]]" on ''Beats, Rhymes and Life'' (1996)
+*[[Kanye West]] – "Spaceship" on ''[[The College Dropout]]'' (2004)
+*[[Common (rapper)|Common]] – "They Say" (Alternate version) (2005)
+*Rell – "Real Love" (2004)
+*Kanye West – "Electric Relaxation" ''(Freshmen Adjustment)'' (2005)
+*Kanye West – "Gone" on ''[[Late Registration]]'' (2005)
+*[[Miri Ben-Ari]] – "I've Been Waiting on You" on ''[[The Hip-Hop Violinist]]'' (2005)
+*Consequence – "Couped Up" feat. [[DJ Swivel]] & [[Chris Stylez]] on ''DJ Whoo Kid – BET Awards Mixtape '06, Clinton Sparks – The Cons Vol. 4'' (2006)
+* [[Talib Kweli]] – "Engine Runnin'" on ''[[Liberation (Talib Kweli and Madlib album)|Liberation]]'' (2006)
+* [[Kanye West]] – "The Good, The Bad, and the Ugly" on ''Prelude to Graduation Mixtape'' (2007)
+* Kanye West – "Don't Forget 'Em" on "[[Can't Tell Me Nothing (mixtape)|Can't Tell Me Nothing]]" (2007)
+* [[Beyoncé]] – "[[Suga Mama]] (Remix)" (2007)
+* [[Statik Selektah]] – "Express Yourself" (with [[Termanology]] & [[Talib Kweli]]) (2007)
+* Statik Selektah – "Mr Popularity" (2008)
+* [[AZ (rapper)|AZ]] – "Heavy in da Game" (2008)
+* [[Kid Cudi]] – "Buggin' Out 2009" (2009)
+* [[Nefew]] – "Biko" on ''Homesick'' (2009)
+* Kanye West – "Chain Heavy" on ''[[G.O.O.D. Fridays]]'' (2010)
+* Statik Selektah – "Life Is Short" (2010)
+* [[Beyoncé Knowles|Beyoncé]] – "[[Party (Beyoncé song)|Party]]" ''(production with Kanye West)'' on ''[[4 (Beyoncé Knowles album)|4]]'' (2011)
+* Son of Light – "Love & Hate" (2012)
+* A Tribe Called Quest – "Whateva Will Be", "Mobius" (with [[Busta Rhymes]]), "Black Spasmodic", "The Killing Season" (with Kanye West and Talib Kweli) – ''[[We Got It from Here... Thank You 4 Your Service]]'' (2016)
+* [[Danny Brown]] – "Combat" (with Q-Tip) – ''[[U Know What I'm Sayin?]]'' (2019)
+
+==Filmography==
+{| class="wikitable sortable"
+|+ Television 
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 2013
+| ''[[Love & Hip Hop: New York]]''
+| Himself
+| Supporting Cast
+|}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{GOOD Music}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Consequence}}
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:African-American record producers]]
+[[Category:Record producers from New York (state)]]
+[[Category:African-American songwriters]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Rappers from Queens, New York]]
+[[Category:People from St. Albans, Queens]]
+[[Category:Songwriters from New York (state)]]
+[[Category:Columbia Records artists]]
+[[Category:Participants in American reality television series]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:American male songwriters]]
+[[Category:1977 births]]

@@ -1,0 +1,71 @@
+{{short description|American video game designer and rapper}}
+{{Infobox musical artist | <!-- See Wikipedia:WikiProject Musicians -->
+| name                = Psychosiz
+| image               =
+| caption             = 
+| image_size          = 
+| background          = solo_singer
+| birth_name          = 
+| alias               = Psycho
+| origin              = [[Los Angeles]], [[California]]
+| instrument          = 
+| genre               = [[Underground hip hop]]
+| occupation          = [[Rapper]]
+| years_active        = 2005-present
+| label               = [[Mush Records]]
+| associated_acts     = [[Project Blowed]], [[Thirsty Fish]], Swim Team, Customer Service, [[Open Mike Eagle]], [[Dumbfoundead]], [[Nocando]], SP83, Kail
+| website             = {{URL|psychosiz.bandcamp.com}} 
+}}
+'''Psychosiz''' is an American [[video game designer]] and [[rapper]].<ref>{{cite web|url=http://exclaim.ca/Reviews/HipHop/thirsty_fish-watergate|title=Thirsty Fish - Watergate|publisher=[[Exclaim!]]|first=Thomas|last=Quinlan|date=28 May 2011}}</ref> He is a member of hip hop groups [[Thirsty Fish]], Swim Team,<ref>{{cite web|url=http://www.urb.com/2009/05/06/mp3-swim-team-members-open-mike-eagle-dumbfoundead-sahtyre-and-alpha-mc/|title=MP3: Swim Team Members Open Mike Eagle, Dumbfoundead, Sahtyre, and Alpha MC|publisher=[[URB (magazine)|URB]]|date=6 May 2009|url-status=dead|archive-url=https://web.archive.org/web/20121021131938/http://www.urb.com/2009/05/06/mp3-swim-team-members-open-mike-eagle-dumbfoundead-sahtyre-and-alpha-mc/|archive-date=21 October 2012}}</ref> and Customer Service.<ref>{{cite book|editor1-first=Darnell|editor1-last=Hunt|editor2-first=Ana-Christina|editor2-last=Ramon|first=Jooyoung|last=Lee|chapter='Blowing Up' at Project Blowed: Rap Dreams and Young Black Men|title=Black Los Angeles: American Dreams and Racial Realities|page=129|publisher=[[New York University Press]]|year=2010}}</ref>
+
+==Career==
+Shortly after being introduced to [[Project Blowed]] by SP83, Psychosiz requested membership in the newly formed group Customer Service alongside SP83, Kail, Y-Not, JoeSue, A-ok, and group leader [[Nocando]].<ref name="noc">{{cite web|url=http://theurbandecadence.com/category/reviews/page/2/|title=Reviews « The Urban Decadence|publisher=Theurbandecadence.com|date=|access-date=4 February 2010|archive-url=https://web.archive.org/web/20120303041840/http://theurbandecadence.com/category/reviews/page/2/|archive-date=3 March 2012|url-status=dead}}</ref>
+
+Psychosiz formed [[Thirsty Fish]] alongside [[Open Mike Eagle]] and [[Dumbfoundead]]. The trio released the debut album ''[[Testing the Waters]]'' in 2007.<ref>{{cite web|url=http://insidepulse.com/2008/04/01/mgf-presents-the-thirsty-fish-testing-the-waters-roundtable-review-extravaganza/|title=MGF Presents the Thirsty Fish Testing the Waters Roundtable Review Extravaganza!|publisher=Inside Pulse|first=J R.|last=Fernandez|date=1 April 2008}}</ref> The second album, ''[[Watergate (album)|Watergate]]'', was released on [[Mush Records]] in 2011.<ref>{{cite web|url=http://www.theaureview.com/albums/thirsty-fish-watergate-2011-lp-0|publisher=The AU Review|title=Thirsty Fish - Watergate (2011 LP)|first=James|last=O'Doherty|date=15 October 2011}}</ref>
+
+Shortly after the formation of Thirsty Fish, Psychosiz expanded the roster to include several more Los Angeles rappers to the Project Blowed scene.<ref name="ome">{{cite web|url=http://theurbandecadence.com/2009/04/30/mike-eagle/|title=MIKE EAGLE. « The Urban Decadence|publisher=Theurbandecadence.com|date=30 April 2009|access-date=4 February 2010|archive-url=https://web.archive.org/web/20090626180612/http://theurbandecadence.com/2009/04/30/mike-eagle/|archive-date=26 June 2009|url-status=dead}}</ref>
+
+Psychosiz has been featured on several solo projects by Swim Team members including Sahtyre's debut album ''High Saht''.<ref name="saht">{{cite web|url=https://itunes.apple.com/us/album/high-saht/id307844419 |title=High Saht by Sahtyre - Download High Saht on iTunes|publisher=[[iTunes]]|date=14 March 2009|access-date=4 February 2010}}</ref>
+
+== Discography ==
+
+=== Albums ===
+* ''Please Hold'' (2005) as Customer Service
+* ''[[Testing the Waters]]'' (2007) as Thirsty Fish
+* ''Ocean's 11'' (2008) as Swim Team
+* ''Free Y-Not'' (2009) as Customer Service
+* ''[[Watergate (album)|Watergate]]'' (2011) as Thirsty Fish
+
+=== Guest appearances ===
+* 8-Bit Bandit & [[Dumbfoundead]] - "Three Pipes" from ''Super Barrio Bros.'' (2007)
+* [[Open Mike Eagle]] - "Broken Face" from ''Premeditated Folly'' (2008)
+* Kenny Segal - "Pot Luck" from ''Ken Can Cook'' (2008)
+* Sahtyre - "Move" from ''High Saht'' (2009)
+* DJ Zo - "Player Collab" from ''Chocolate Water'' (2009)
+* Open Mike Eagle - "Go Home" from  ''[[Unapologetic Art Rap]]'' (2010)
+
+=== Compilation appearances ===
+* ''[[Project Blowed|Project Blowed 10th Anniversary LP]]'' (2005)
+* ''Project Blowed for Dummies'' (2006)
+* ''Los Scandalous'' (2007)
+* ''Heavy Troopa Is Ready to Launch'' (2008)
+* ''Danger Room Vol. 2'' (2009)
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Bandcamp|psychosiz|Official page}}
+* {{Discogs artist|Psychosiz}}
+
+{{Authority control}}
+
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:West Coast hip hop musicians]]
+[[Category:African-American rappers]]
+[[Category:Rappers from Los Angeles]]
+[[Category:Video game musicians]]
+[[Category:21st-century American rappers]]
+[[Category:Project Blowed]]
+[[Category:21st-century African-American musicians]]

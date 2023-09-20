@@ -1,0 +1,65 @@
+{{short description|American rapper}}
+
+{{Infobox musical artist
+| name            = Larry Larr
+| image           =
+| caption         =
+| birth_name      = {{nowrap|Lawrence Hill }}
+| birth_date      = {{birth date and age|1971|9|4}}
+| birth_place     = [[Logan, Philadelphia]], [[Pennsylvania]] U.S.
+| occupation      = {{flatlist|
+* Rapper
+* businessman 
+}}
+| years_active    = late 1980s–early 1990s
+| genre           = {{hlist|[[Hip hop music|Hip hop]]}}
+| instrument      = Vocals
+| label           = {{flatlist| 
+* [[Ruffhouse Records|Ruffhouse]], [[Columbia Records|Columbia]]
+}}
+| associated_acts = {{flatlist|
+* [[Schooly D]]
+* [[Steady B]]
+* [[DJ Jazzy Jeff & The Fresh Prince]]
+}}
+| website         = 
+}}
+'''Lawrence Hill''' (born September 4, 1971)<ref>{{Cite instagram |user=reallarrylarr|postid=CTYytETLzJ8|title=TODAY IS MY BIRTHDAY..THE BIG 5.0|date=2021-09-04}}</ref> better known by his stage name '''Larry Larr''' is an American rapper and businessman. He first came in the music wave with other Philadelphia rappers such as [[Schooly D]], [[Steady B]] and [[DJ Jazzy Jeff & The Fresh Prince]] in the mid eighties.<ref>{{Cite web|url=https://rareandobscuremusic.wordpress.com/2018/01/01/larry-larr/|title=Larry Larr rareandobsecuremusic|accessdate=2018-04-19|date=|publisher=Rareandobscuremusic.com}}</ref> He first signed his deal with [[Ruffhouse Records]] and released his debut album entitled "Da Wizzard Of Odds" in 1991 with the lead single "Larry, What They Called Me" which only charted on the [[Hot Rap Songs]] at the position 7 and his second single "Confused" only made it at 10 on the Hot Rap Songs as well. However the album didn't sell well only making 67 on [[Top R&B/Hip-Hop Albums]] chart.
+
+==Studio albums==
+{|class="wikitable"
+|-
+!rowspan="2"| Year
+!rowspan="2"| Title
+!colspan="2"| Chart positions
+|-
+! <small>[[Top R&B/Hip-Hop Albums|U.S. R&B]]</small>
+|-
+|1991
+|''[[Da Wizzard of Odds]]''
+*Released: July 16, 1991
+*Label: [[Ruffhouse Records|Ruffhouse]], [[Columbia Records|Columbia]]
+|align="center"|67<ref>{{Cite web|url=https://www.billboard.com/music/larry-larr/chart-history/r-b-hip-hop-albums|archive-url=https://web.archive.org/web/20180524134716/https://www.billboard.com/music/larry-larr/chart-history/r-b-hip-hop-albums|url-status=dead|archive-date=May 24, 2018|title=Billboard Chart History|accessdate=2018-03-03|date=|publisher=Billboard.com}}</ref>
+|-
+|}
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Larr, Larry}}
+[[Category:1971 births]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Living people]]
+[[Category:Businesspeople from Philadelphia]]
+[[Category:Rappers from Philadelphia]]
+[[Category:Ruffhouse Records artists]]
+[[Category:Columbia Records artists]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Gangsta rappers]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]

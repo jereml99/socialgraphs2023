@@ -1,0 +1,136 @@
+{{short description|American rapper}}
+
+{{BLP sources|date=May 2010}}
+{{Infobox musical artist
+| name            = Webstar
+| image           =
+| caption         =
+| birth_name      = Troy Ryan
+| alias           = DJ Webstar
+| birth_date      = {{birth date and age|1986|10|25}}
+| birth_place     =
+| origin          = [[Harlem]], [[New York City]], [[New York (state)|New York]], U.S.
+| genre           = [[hip hop music|Hip hop]]
+| occupation      = [[Disc jockey]], [[Rapping|rapper]], [[record producer|producer]]
+| instrument      = [[Vocal]]s, [[auto-tune]]
+| label           = Scrilla Hill, [[SRC Records|SRC]], [[E1 Music|E1]], [[Universal Republic Records|Universal Republic]]
+| years_active    = 2006–present
+| associated_acts = [[Jim Jones (rapper)|Jim Jones]], [[Ron Browz]], [[Bianca Bonnie|Young B.]], [[Frenchie (rapper)|Frenchie]]
+| website         = {{URL|http://www.Webstaronline.com}}
+}}
+'''Troy Ryan''' (born October 25, 1986), better known by his stage name '''DJ Webstar''' (or simply '''Webstar''') is an American DJ and [[record producer]]. In 2006, his song "[[Chicken Noodle Soup (Webstar song)|Chicken Noodle Soup]]", became popular and became an [[Internet meme]], with fans uploading amateur videos dancing to the track. The song's popularity led to him being signed by the now defunct [[Universal Records (defunct record label)|Universal Records]].<ref>{{cite web|url={{AllMusic|class=artist|id=p828967/biography|pure_url=yes}}|title=Biography: Webstar|last=Jeffries|first=David|publisher=[[Allmusic]]|access-date=5 May 2010}}</ref>
+
+==Discography==
+
+===Albums===
+{| class="wikitable"
+!align="left"|Album information
+|-
+|align="left"|''[[Webstar Presents: Caught in the Web]]''
+*Released: September 26, 2006
+*Label: Scrilla Hill
+*Singles: "[[Chicken Noodle Soup (Webstar song)|Chicken Noodle Soup]]"
+|-
+|align="left"|''[[Uptown Harlem]]''
+*Released: August 2, 2008
+*Label: Scrilla Hill
+*Singles: "Uptown Harlem"
+|-
+|align="left"|''[[The Rooftop (album)|The Rooftop]]''
+*With: [[Jim Jones (rapper)|Jim Jones]]
+*Released: October 6, 2009
+*Label: Scrilla Hill
+*Singles: "[[Dancin On Me]]"
+|}
+
+=== Singles ===
+{| class="wikitable plainrowheaders" style="text-align:center;" border="1"
+|+ List of singles, with selected chart positions, showing year released and album name
+! scope="col" rowspan="2" style="width:16em;" | Title
+! scope="col" rowspan="2" | Year
+! scope="col" colspan="3" | Peak chart positions
+! scope="col" rowspan="2" style="width:12em;" | [[List of music recording certifications|Certifications]]
+! scope="col" rowspan="2" | Album
+|-
+!style="width:3em; font-size:90%"|[[Billboard Hot 100|US]]
+!style="width:3em; font-size:90%"|[[Hot R&B/Hip-Hop Songs|US<br>R&B]]
+!style="width:3em; font-size:90%"|[[Hot Rap Songs|US<br>Rap]]
+|-
+!scope="row"|"[[Chicken Noodle Soup (Webstar song)|Chicken Noodle Soup]]"<br><span style="font-size:85%;">(featuring [[Bianca Bonnie|Young B]] and The Voice of Harlem)</span>
+| 2006
+| 45 || 30 || 15
+|
+* [[Recording Industry Association of America|RIAA]]: Gold<ref>{{cite certification|region=United States|artist=Webstar|title=Chicken Noodle Soup|type=single|accessdate=November 26, 2011}}</ref>
+|''Webstar Presents: Caught in the Web''
+|-
+!scope="row"|"[[Dancin on Me]]"<br><span style="font-size:85%;">(with [[Jim Jones (rapper)|Jim Jones]], featuring [[Juelz Santana]])</span>
+| 2009
+| 104 || 48 || 19
+|
+|''The Rooftop''
+|-
+!scope="row"|"Tipsy"<ref>{{cite web|title=Tipsy (feat. Serani & Jadakiss) - Single by Webstar |url=https://itunes.apple.com/us/album/tipsy-feat.-serani-jadakiss/id376405896 |work=[[iTunes Store]] |publisher=[[Apple Inc.|Apple]] |access-date=November 26, 2011 }}{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><br><span style="font-size:85%;">(featuring [[Serani]] and [[Jadakiss]])</span>
+| 2010
+| — || — || —
+|
+|Non-album single
+|-
+|colspan="7" style="font-size:90%"| "—" denotes a title that did not chart, or was not released in that territory.
+|}
+
+===Guest appearances===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of non-single guest appearances, with other performing artists, showing year released and album name
+! scope="col" style="width:20em;"| Title
+! scope="col" | Year
+! scope="col" | Other performer(s)
+! scope="col" | Album
+|-
+! scope="row"| "Skatez On"<ref>{{cite web|url=http://www.datpiff.com/Lumidee-The-Queen-Of-Spanish-Harlem-mixtape.10179.html|title=The Queen Of Spanish Harlem Mixtape by Lumidee Hosted by DJ Suave|website=DatPiff}}</ref>
+| rowspan="1"| 2007
+| [[Lumidee]], Boogie Black, [[Ron Browz]]
+| ''The Queen of Spanish Harlem''
+|-
+! scope="row"| "Get Ya Bounce On"
+| rowspan="1"| 2009
+| Large Amount, A.P., Bully
+| ''[[No Security (D-Block album)|No Security]]''
+|-
+! scope="row"| "Club Jam Packed"
+| rowspan="1"| 2010
+| [[Sheek Louch]]
+| ''[[Donnie G: Don Gorilla]]''
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.ballerstatus.net/news/read/id/81644094/ ''Baller Status'' News about DJ Webstar and ''Chicken Noodle Soup'']
+*[https://web.archive.org/web/20070929133532/http://www.bet.com/Music/MUSIC.WEBSTAR.htm?wbc_purpose=Basic&WBCMODE=PresentationUnpublished ''BET'' News on DJ Webstar]
+*[http://www.Webstaronline.com Webstar]
+*[https://web.archive.org/web/20070927195604/http://www.gotuit.com/gtv/index.html?c=music&p=76475&s=1416709 Webstar "Chicken Noodle Soup" Music Video on Gotuit Music]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Webstar, DJ}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:American hip hop DJs]]
+[[Category:East Coast hip hop musicians]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Musicians from Harlem]]
+[[Category:Rappers from Manhattan]]
+[[Category:African-American record producers]]
+[[Category:American hip hop record producers]]
+[[Category:Record producers from New York (state)]]
+[[Category:SRC Records artists]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]
+
+
+{{hiphop-bio-stub}}

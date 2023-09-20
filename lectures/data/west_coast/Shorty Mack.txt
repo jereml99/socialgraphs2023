@@ -1,0 +1,141 @@
+{{short description|American rapper}}
+
+{{Multiple issues|
+{{BLP sources|date=June 2012}}
+{{BLP primary sources|date=June 2012}}
+}}
+{{Infobox musical artist
+|name            = Shorty Mack
+|image           = 
+|caption         = 
+|alias           = 
+|birth_name      = Derrelle Owens
+|birth_date      = {{birth date and age|1981|6|9}}
+|birth_place     = 
+|background      = solo_singer
+|origin          = [[Sacramento, California]], United States
+|genre           = [[Hip hop music|Hip hop]]
+|occupation      = [[Record producer|Producer]], [[Rapping|Rapper]], [[songwriter]], [[Actor]]
+|years_active    = 1991 - present
+|associated_acts = [[Ray J]]
+|label           = [[Knockout Entertainment|Knockout]]
+|website         = http://www.myspace.com/officialpurpman
+}}
+'''Derrelle Owens''' (born June 9, 1981), better known by his stage name '''Shorty Mack''', is a [[Record producer|producer]], [[rapping|rapper]] and [[actor]]. He is most significantly known by his 1996 single, "Hard To Tame Me", and his self-titled debut album, both released under [[JVC]]/Vertex Music. He has since made appearances on numerous recordings by [[Ray J]], including the Knockout remix of "[[Formal Invite]]" and the Smokin' Trees version of "[[What I Need (Ray J song)|What I Need]]". He also played the role of "Nyce" on the sitcom [[Moesha]]. Owens co-created [[Knockout Entertainment]]. A full-length album, tentatively titled ''Shorty Mack'', was expected to be released in 2012.
+
+==Filmography==
+* [[A Day In The Life]] (2009)
+* Welfare to Millionaire (2007)
+* [[Coach Carter]] (2005)
+* JC In The Hood (2006)
+
+=== TV series ===
+* [[Moesha]] (1999–2001; 13 episodes)
+* [[Boston Public]] (2004; 1 episode)
+* [[Lincoln Heights (TV series)|Lincoln Heights]](2007; 3 episodes)
+* [[For The Love Of Ray J]] (2009–2010)
+* [[Brandy and Ray J: A Family Business]] (2010–2011)
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable"
+! width="28" rowspan="2" | '''Year'''
+! width="257" rowspan="2" | '''Title'''
+! colspan="2" | '''Chart positions'''
+|-
+! width="40" bgcolor="#EEEEEE" | <small>[[Billboard Hot 100|US]]</small>
+! width="40" bgcolor="#EEEEEE" | <small>[[Hot R&B/Hip-Hop Songs|US R&B]]</small>
+|-
+|align="left" rowspan="1"|1996
+| ''Shorty Mac''
+|{{center| —}}
+|{{center| —}}
+|
+|}
+
+===Singles===
+{| class="wikitable"
+! width="28" rowspan="2" | '''Year'''
+! width="257" rowspan="2" | '''Title'''
+! colspan="2" | '''Chart positions'''
+! width="207" rowspan="2" | '''Album'''
+|-
+! width="40" bgcolor="#EEEEEE" | <small>[[Billboard Hot 100|US]]</small>
+! width="40" bgcolor="#EEEEEE" | <small>[[Hot R&B/Hip-Hop Songs|US R&B]]</small>
+|-
+|align="left" rowspan="1"|1996
+| "Hard To Tame Me"
+|{{center| —}}
+|{{center| 73}}
+|''Shorty Mac''
+|-
+|align="left" rowspan="1"|2009
+| "[[Sexy Ladies]]" <small>([[Ray J]] featuring Truth & Shorty Mack)</small>
+|{{center| —}}
+|{{center| 71}}
+|align="left" rowspan="1"| ''For the Love of Ray J''
+|}
+
+===Guest appearances===
+{|class="wikitable"
+!rowspan="1"|Year
+!rowspan="1"|Song
+!rowspan="1"|Album
+|-
+|align="center" rowspan="2"|2001
+|align="left"|"Out Tha Ghetto" <small>(with [[Ray J]])</small>
+|rowspan="1"|''[[This Ain't A Game]]''
+|-
+|align="left"|"Formal Invite" (Knockout Remix) <small>(with [[Ray J]], [[Pharrell]] & [[Brandy Norwood|Brandy]])</small>
+|rowspan="1"|''[[Formal Invite]]'' - Single
+|-
+|align="center" rowspan="2"|2005
+|align="left" rowspan="1"|"Quit Actin" <small>(with [[R. Kelly]] & [[Ray J]])</small>
+|rowspan="2"|''[[Raydiation]]''
+|-
+|align="left" rowspan="1"|"Unbelievable" <small>(with [[Ray J]] & [[Noel "Detail" Fisher|Detail]])</small>
+|-
+|align="center" rowspan="1"|2006
+|align="left" rowspan="1"|"Smokin' Smokin' Trees" <small>(with [[Snoop Dogg]], [[Slim Thug]], [[Nate Dogg]] & [[Ray J]])</small>
+|rowspan="1"|--
+|-
+|align="center" rowspan="1"|2008
+|align="left" |"Good Girl Gone Bad" <small>(with [[Ray J]])</small>
+|rowspan="1"|''[[All I Feel]]'' 
+|-
+|align="center" rowspan="4"|2009
+|align="left" |"Sexy Ladies" <small>(with [[Ray J]] & Truth)</small>
+|rowspan="4"|''[[For the Love of Ray J (album)|For The Love Of Ray J]]''
+|-
+|align="left" |"Sex In The Rain" <small>(with [[Ray J]])</small>
+|-
+|align="left" |"Dirty Samantha" <small>(with [[Ray J]])</small>
+|-
+|align="left" |"Good Times" <small>(with [[Ray J]])</small>
+|-
+|align="center" rowspan="1"|2011
+|align="left" |"Ready To Roll" <small>(with [[Ray J]])</small>
+| ''[[A Family Business]]''
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* http://myspace.com/officialpurpman
+* {{AllMusic|class=artist|id=p744516}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shorty Mack}}
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:1981 births]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Rappers from Sacramento, California]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]

@@ -1,0 +1,217 @@
+{{short description|American rapper}}
+
+{{BLP sources|date=May 2016}}
+
+{{Infobox musical artist
+| name            = Omega Crosby
+| image           =
+| alt             =
+| caption         =
+| birth_name      = Micah Omega Crosby
+| birth_date      = {{Birth date and age|1993|12|3}}
+| birth_place     = [[Modesto, California]], U.S.
+| genre           = {{flatlist|
+* [[Rap]]
+* [[Hip hop music|hip hop]]
+}}
+| associated_acts = [[Clyde Carson]], [[Adrian Marcel]], [[Chingy]], [[Mayne Mannish]]
+| occupation      = Rapper, Singer-songwriter, record producer
+| instrument      = [[Digital audio workstation]]
+| years_active    = 2012–present
+| label           = {{Flatlist|
+* [[Empire Distribution]], Kemani Entertainment
+}}
+| website         = 
+}}
+
+'''Micah Omega Crosby''' (born December 3, 1993), is an American rapper, producer, and songwriter from [[Modesto, California|Modesto]], [[California]]. By 2012 Omega Crosby was releasing his own singles and music videos, and
+his first mixtape, Urban Muzik Vol.1, came out in early 2013.
+Currently signed to [[Empire Distribution]],<ref name=empire/> he has collaborated with hip hop artists such as [[Clyde Carson]],<ref name=clyde/> [[Adrian Marcel]], [[Mayne Mannish]]<ref name=mayne/> and [[Chingy]].<ref name=chingy/> He has also completed production for members of the group [[The Team (band)|The Team]].<ref name=team/> He was nominated for Best Hip Hop Artist
+in late October 2015 for the Modesto Area Music Awards.<ref name=mama/> In 2015 he released a mixtape titled "Modesto". A digital exclusive mixtape called "2016" was released January 1, 2016 by [[Bay Area]] based company Thizzler and Swisha House CEO, DJ Michael "5000" Watts.<ref name=thizzler/> On January 20, 2016 he released his first independent album titled "Kalifornia".
+
+== Early life ==
+Micah Crosby was born in 1993 in Modesto, California, where he also spent his childhood. 
+He is also the son of pastor and politician Darius Crosby, who is heavily involved in the Modesto community.<ref name=community/>
+He started making music at around age twelve, picking up hip hop production as a hobby. He soon started rapping over his own beats, and by sixteen he had decided he wanted to pursue music as a career. Crosby is a cousin to late singer and record producer, [[Rick James]].<ref name=facts/> Encouraged by family members such as his father, early musical inspirations included hip hop artists such as [[Lil Wayne]], [[Jodeci]], [[Curtis Mayfield]] and [[Notorious B.I.G.]]<ref name=facts/>
+
+== Discography ==
+=== Mixtapes ===
+{| class="wikitable"
+|-
+! Title !! Release details
+|-
+| Lucid: The Official Mixtape || 
+* Released: March 21, 2012 
+* Label: Self-released 
+* Format: Digital
+|-
+| Urban Muzik Vol.1 || 
+* Released: October 15, 2013 
+* Label: Self-released 
+* Format: Digital
+|-
+| 2016 || 
+* Released: January 1, 2016 
+* Label: Self-released 
+* Format: Digital
+
+|}
+
+=== Albums ===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ Albums by Omega Crosby <ref name="omegacrosbyitunes"/>
+|-
+
+! Title !! Release details
+|-
+| Modesto || 
+* Released: October 17, 2015 
+* Label: Omega Crosby Music
+* Format: Digital
+|-
+| Kalifornia || 
+* Released: January 20, 2016 
+* Label: Omega Crosby Music
+* Format: Digital
+|-
+
+|}
+
+=== Singles ===
+{| class="wikitable"
+|-
+! Title !! Release details
+|-
+| Get It|| 
+* Released: October 12, 2013 
+* Label: UMA Entertainment 
+* Digital Download
+|-
+| "Him" (feat. [[Chingy]])|| 
+* Released: February 10, 2016
+* Label: Omega Crosby Music
+* Digital Download
+|-
+| Bugging|| 
+* Released: April 15, 2016 
+* Label: EMPIRE / Kemani Entertainment 
+* Digital Download
+|-
+| Prince (feat. Mayne Mannish)|| 
+* Released: May 9, 2016
+* Label: EMPIRE / Kemani Entertainment 
+* Digital Download
+|-
+| That Bounce|| 
+* Released: May 10, 2016
+* Label: EMPIRE / Kemani Entertainment
+* Digital Download
+|-
+| Everything New (feat. [[Clyde Carson]])|| 
+* Released: May 13, 2016
+* Label: EMPIRE / Kemani Entertainment
+* Digital Download
+|}
+
+==References==
+{{reflist| refs =
+<ref name="empire">{{cite news
+| title       = Omega Crosby Signs With Empire Distribution 
+| url         = http://siccness.net/wp/omega-crosby-signs-with-empire-distribution
+| publisher   =siccness.net
+| date        = 
+| accessdate  = 2016-05-16
+}}</ref><ref name="clyde">
+{{cite news
+| title       =Omega Crosby ft. Clyde Carson - Everything New
+| url         =http://www.thizzler.com/blog/2016/4/12/omega-crosby-ft-clyde-carson-everything-new.html
+| publisher   =thizzler.com
+| date        =
+| accessdate  = 2016-05-14
+}}</ref><ref name="mayne">
+{{cite news
+| title       =Omega Crosby – Prince (Feat. Mayne Mannish)
+| url         =http://siccness.net/wp/omega-crosby-prince-feat-mayne-mannish
+| publisher   =siccness.net
+| date        =
+| accessdate  = 2016-05-14
+}}</ref><ref name="chingy">
+{{cite news
+| title       =Omega Crosby "Him" Feat. Chingy
+| first       =
+| last        =
+| url         =http://www.thisis50.com/profiles/blogs/omega-crosby-him-feat-chingy
+| newspaper   =
+| publisher   =Indie Castle
+| date        =February 24, 2016
+| accessdate  = 2016-02-24
+}}</ref><ref name="thizzler">
+{{cite news
+| title       =Omega Crosby – 2016
+| url         =http://www.thizzler.com/blog/2015/12/16/dj-ghost-b-walker-presents-omega-crosby-2016-mixtape.html
+| publisher   =thizzler.com
+| date        =December 16, 2015
+| accessdate  = 2015-12-16
+}}</ref><ref name="community">
+{{cite news
+| title       =Panelists see a true reflection of Modesto's ills in 'American Crime'
+| url         =http://www.modbee.com/news/local/article12544211.html
+| newspaper   =[[The Modesto Bee]]
+| publisher   =
+| date        =May 2015
+| accessdate  = 2015-05-11
+}}</ref><ref name="omegacrosbyitunes">
+{{cite news
+| title       = Omega Crosby Discography
+| url         = https://itunes.apple.com/us/artist/baeza/id540735145
+| publisher   = [[iTunes]]
+| date        = 
+| accessdate  = 2014-05-06
+}}</ref><ref name="facts">
+{{cite news
+| title       = 8 Facts We Know About Omega Crosby
+| url         = http://siccness.net/wp/omega-crosby-signs-with-empire-distribution
+| publisher   =siccness.net
+| date        = 
+| accessdate  = 2016-05-16
+}}</ref><ref name="team">
+{{cite news
+| title       = The Team > Charts & Awards > Billboard Albums
+| url         = http://www.allmusic.com/artist/the-team-mn0000918866/awards
+| publisher   =All Media Guide, LLC
+| date        = 
+| accessdate  = 2016-05-16
+}}</ref><ref name="mama">
+{{cite news
+| title       = Modesto Area Music Awards 2015
+| url         = http://www.modbee.com/news/article40569138.html
+| publisher   =[[The Modesto Bee]]
+| date        = 
+| accessdate  = 2016-05-16
+}}</ref>
+
+{{Listen
+ |filename     = 
+ |title        = 
+ |description  = 
+}}
+
+}}
+
+==External links==
+*[http://www.vevo.com/artist/omega-crosby Omega Crosby] on [[VEVO]]
+*[http://www.discogs.com/artist/OmegaCrosby Omega Crosby] at [[Discogs]]
+*[http://www.allmusic.com/artist/omega-crosby-mn0003496351 Omega Crosby] at [[AllMusic]]
+
+{{authority control}}
+
+{{DEFAULTSORT:Crosby, Omega}}
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Living people]]
+[[Category:1993 births]]
+[[Category:People from Modesto, California]]
+[[Category:West Coast hip hop musicians]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]

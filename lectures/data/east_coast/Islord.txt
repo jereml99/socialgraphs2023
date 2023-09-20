@@ -1,0 +1,107 @@
+{{BLP sources|date=January 2010}}
+{{Infobox musical artist <!-- See Wikipedia:WikiProject_Musicians -->
+| name              = Islord
+| image             = 
+| caption           = 
+| image_size        = 
+| birth_name        = Rodney Stevenson
+| background        = solo_singer
+| birth_date        = {{Birth date and age|1974|01|31}}
+| origin            = [[Steubenville, Ohio]], [[Staten Island, New York]]
+| genre             = [[Hip hop music|Hip hop]]
+| label             = [[Wu Music Group]]
+| current_member_of = [[Killarmy]]
+| associated_acts   = [[Killarmy]], [[Wu-Tang Clan]]
+| website           = 
+}}
+
+'''Rodney Stevenson''' (born January 31, 1974) better known by his stage name '''Islord''' is a [[rapper]] and a member of the [[hip hop]] group [[Killarmy]]. Although named Rodney Stevenson at birth,he, as all members of Killarmy, is a [[Five-Percent Nation|Five Percenter]], and, thus, changed his name legally to Islord. The first three letters of his name: I, S, L, are also the first three letters of "Islam"; in the Five Percent way of life, "Islam" does not represent the religion but "I.S.L.A.M." which is often represented as  "I Self Lord And Master."<ref>{{Cite book|title=Manifestations of Masculine Magnificence: Divinity in Africana Life, Lyrics, and Literature|last=Washington|first=Teresa N.|publisher=Oya's Tornado|year=2014|isbn=978-0991073009|pages=65, 98, 265}}</ref> The name Islord is a reiteration of the rapper's assertion of his divinity: "I Self Lord," and a fusion of the terms "Islam" and "lord." Islord is also known as the "Thief of Baghdad."<ref>{{cite book | title = [[Silent Weapons for Quiet Wars]] album booklet | author= Killarmy | author-link= Killarmy | publisher=Wu Tang Records}}</ref> In addition to appearing on Killarmy's albums, Islord appears on two tracks from ''[[Bobby Digital in Stereo]]'' and the song "Holy Water" from Dom Pachino's ''Unreleased'' solo album.{{Citation needed|date=May 2019}}
+
+== Discography ==
+{| class="wikitable"
+! colspan=2 | Discography with [[Killarmy]]
+|-
+! Album Title
+! Album Info
+|-
+| [[Silent Weapons for Quiet Wars]]
+|
+* Released: August 5, 1997
+* Billboard 200 chart position: #34
+* R&B/Hip Hop chart position: #10
+* Singles: "Swinging Swords," "Camouflage Ninjas"/"Wake Up,"<br />"Wu-Renegades"/"Clash of the Titans"
+|-
+| [[Dirty Weaponry]]
+|
+* Released: August 11, 1998
+* Billboard 200 chart position: #40
+* R&B/Hip Hop chart position: #13
+* Singles: "Red Dawn"/"Where I Rest At," "The Shoot-Out"
+|-
+| [[Fear, Love & War]]
+|
+* Released: September 11, 2001
+* Billboard 200 chart position: #122
+* R&B/Hip Hop chart positions: #34
+* Singles: "Street Monopoly"/"Monster," "Feel It"/"Militant,"<br />"Nonchalantly"
+|-
+| Greatest Hits
+|
+* Released: May, 2011
+|-
+|Full Metal Jackets
+|
+* Released: April 10, 2020
+* Billboard 200 chart position: TBA
+* R&B/Hip Hop chart positions: TBA
+* Singles: "Musical Terrorist", "The Shoot-Out Pt. II"
+|}
+
+== Videography ==
+{| class="wikitable"
+|-
+! Artist(s)
+! Album Info
+! Video Title(s)
+! Release Date
+|
+|-
+| [[Killarmy]]
+| [[Silent Weapons for Quiet Wars]]
+| Swinging Swords<br />Wake Up (featuring [[Hell Razah]], [[Prodigal Sunn]] and various [[Wu-Tang Clan]] cameos)<br />Wu-Renegades (featuring various [[Wu-Tang Clan]] cameos)
+| 1997 Loud/Priority/Wu-Tang Records
+|
+|-
+| [[Killarmy]]
+| [[Dirty Weaponry]]
+| The Shoot-Out (featuring [[Rza]])
+| 1998 Wu-Tang Records
+|
+|-
+| Killarmy
+| [[Fear, Love & War]]
+| Feel It
+| 2001
+|
+|}
+
+== References ==
+{{Reflist}}
+
+{{Killarmy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Islord}}
+[[Category:1975 births]]
+[[Category:Living people]]
+[[Category:Rappers from New York City]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Wu-Tang Clan affiliates]]
+[[Category:Killarmy members]]
+[[Category:East Coast hip hop musicians]]
+[[Category:21st-century American rappers]]
+
+
+{{rapper-stub}}

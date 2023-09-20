@@ -1,0 +1,64 @@
+{{Use mdy dates|date=August 2023}}
+{{Short description|American rapper}}
+{{about|the rapper|the metal band|Hittman (band)|other uses|Hitman (disambiguation)}}
+
+{{Infobox musical artist
+| name            = Hittman
+| image           =
+| caption         =
+| birth_name      = Brian Anthony Bailey
+| alias           =
+| birth_date      = {{Birth date and age|mf=yes|1974|9|14}}
+| birth_place     = [[Los Angeles]], [[California]], U.S.
+| genre           = [[Hip hop music|Hip hop]] <!-- Please read http://en.wikipedia.org/wiki/Template:Infobox musical_artist#Genre
+"The genre or genres of music performed by the act. Aim for generality (e.g. [[Hip hop music|Hip hop]] rather than [[East Coast hip hop]])."-->
+| occupation      = {{hlist|[[Rapping|Rapper]]|[[record producer]]}}
+| years_active    = 1996–present
+| label           = {{hlist|[[Aftermath Entertainment|Aftermath]]|[[Interscope Records|Interscope]]|[[Bad Boy Records|Bad Boy]]}}
+| associated_acts = {{hlist|[[Dr. Dre]]|[[Kurupt]]|[[Snoop Dogg]]|[[The Last Emperor (rapper)|The Last Emperor]]|[[Royce Da 5'9"]]|[[Eminem]]|[[King T]]|[[Rakim]]|[[Bishop Lamont]]}}
+| website         = 
+}}
+
+'''Brian Anthony Bailey''' (born September 14, 1974), best known under his stage name '''Hittman''' (acronym for '''''H'''ighly '''I'''ntense '''T'''ongue '''T'''alents '''M'''ake '''A'''ll '''N'''ervous''), is an American West Coast rapper, songwriter and record producer originating from Los Angeles.
+
+==Career==
+Hittman was signed into [[Dr. Dre]]'s [[Aftermath Entertainment]] label in 1998. He received various guest appearances, rapping on 9 tracks off Dr. Dre's ''[[2001 (Dr. Dre album)|2001]]'' album, making him the most featured artist. Under Dr. Dre's label, he failed to release his own album, and soon faded into obscurity and left the label.<ref>{{cite web| url= http://allhiphop.com/2014/11/13/dr-dre-protege-hittman-aftermath-didnt-succeed/ |publisher= AllHipHop.com | title= Dr. Dre's Former Protégé Hittman Gives His Opinion On Why Artists Didn't Succeed On Aftermath| date=  November 13, 2014| access-date= }}</ref><ref>{{cite web| url= http://www.dubcnn.com/interviews/hittman/ | publisher= DubCNN.com (West Coast News Network)| title= Interviews: Hittman|  interviewer= Lil Jay| date= July 2006| access-date= }}</ref>
+
+In 2000, he released his most popular single, "Last Dayz", featured on the [[B-side]] of the Dr. Dre single, "[[Forgot About Dre]]". In the music video for "Forgot About Dre", "Last Dayz" got its own one-minute segment at the end.<ref>{{cite web| url= https://www.youtube.com/watch?v=QFcv5Ma8u8k| title= Forgot About Dre Music Video | via= YouTube | date= | access-date= | publisher= }}</ref> After leaving Aftermath, he released his own solo album in 2005, ''Hittmanic Verses'' under Sick Bay Records.
+
+Though he rarely continues to provide guest verses for artists, he has produced tracks, such as "Progression" from [[Dizzy Wright]]'s ''[[The Golden Age (Dizzy Wright album)|The Golden Age]]''.
+
+==Discography==
+===Albums===
+*''Hittmanic Verses'' (2005)
+
+===EPs===
+*''Big Hitt Rising'' (2008)
+
+===Charted songs===
+*"[[Let's Get High]] (feat Hittman, Ms. Roq, Kurupt" (1999)
+*"[[Ackrite]] (feat Hittman)" (1999)
+*"[[Xxplosive]] (feat Hittman, Kurupt & 6Two)" (1999)
+*"Some L.A. Niggaz" (feat Time Bomb, King T, Hittman, Xzibit, Defari, MC Ren, Knoc-turn'al & Kokane)" (1999)
+*"Last Dayz" (2000)
+*"Light Speed (feat Hittman)" (1999)
+*"Big Ego's (feat Hittman)" (1999)
+*"Housewife (feat Hittman & Kurupt)" (1999)
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Rappers from Los Angeles]]
+[[Category:Aftermath Entertainment artists]]
+[[Category:Gangsta rappers]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]

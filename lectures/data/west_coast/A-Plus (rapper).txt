@@ -1,0 +1,72 @@
+{{short description|American rapper and producer (born 1975)}}
+{{For|Andre Levins|A+ (rapper)}}
+{{BLP sources|date=July 2019}}
+{{Infobox musical artist
+| image           =
+| name            = A-Plus
+| image_size      =
+| birth_name      = Adam Carter
+| alias           = A-Plus
+| birth_date      = {{birth date and age|1975|04|15}}
+| birth_place     = [[Denver, Colorado]], [[United States|U.S.]]
+| death_date      =
+| origin          = <nowiki>Oakland, California, </nowiki>U.S.
+| instruments      = [[Microphone]], [[Sampler (musical instrument)|sampler]]
+| genre           = [[Hip hop music|Hip hop]] <!-- Please read http://en.wikipedia.org/wiki/Template:Infobox_musical_artist#Genre "The genre or genres of music performed by the act. Aim for generality (e.g. [[Hip hop music|Hip hop]] rather than [[East Coast hip hop]])."-->
+| occupations      =
+| years_active    = 1991–present
+| label           = [[Hieroglyphics Imperium Recordings]]<br/>[[Jive Records]]
+| website         = http://www.hieroglyphics.com
+| current_member_of = [[Souls of Mischief]], [[Hieroglyphics (band)|Hieroglyphics]]
+}}
+
+'''Adam Carter''', known by the [[stage name]], '''A-Plus''', is an American [[rapping|rapper]] and [[Record producer|producer]].  He is one of the founding four members of the [[Oakland, California]]-based [[Alternative hip hop|underground hip hop]] group [[Souls of Mischief]] and, with Souls of Mischief, a part of the eight-person, alternative hip hop [[musical collective|collective]], the [[Hieroglyphics (band)|Hieroglyphics]].
+
+== Biography ==
+Born in [[Denver, Colorado]] as the son of [[Jamaica]]n [[immigration|immigrants]], A-Plus moved to [[Oakland, California]] with his family when he was 5 years old.<ref name="Public Service Announcement: A-Plus">{{cite web |url = http://www.soundslam.com/articles/interviews/interviews.php?interviews=in051214aplus|accessdate = 2007-02-03|author = Fruchter, Alexander|title = Public Service Announcement: A-Plus|publisher = SoundSlam.com|year = 2003|archiveurl = https://web.archive.org/web/20090323144248/http://soundslam.com/articles/interviews/interviews.php?interviews=in051214aplus|archivedate = 23 March 2009|url-status=dead}}</ref>  In [[kindergarten]], A-Plus met future [[Hieroglyphics (band)|Hieroglyphics]] member, [[Casual (rapper)|Casual]], and in [[elementary school]], met fellow [[Souls of Mischief]] member [[Tajai]].<ref name="Interview: Casual">{{cite web|url=http://www.geocities.com/hiphopinterview/casualint.html |accessdate=2007-02-03 |author=Jones, Todd E. |title=Interview: Casual |publisher=Hip-Hop Interviews |year=2002 |archiveurl=https://web.archive.org/web/20091027061209/http://www.geocities.com/hiphopinterview/casualint.html |archivedate=2009-10-27 |url-status=dead }}</ref>  Tajai eventually introduced A-Plus to future Souls of Mischief members [[Phesto]] and [[Opio]], and the group formed in [[high school]] before releasing their debut album, ''[[93 'til Infinity]]'' on [[Jive Records]] in 1993.<ref name="Phesto Interview">{{cite web | url = http://ensim.hieroglyphics.com/artists/souls/phesto-interview.html | accessdate = 2007-02-03 | author = StinkE | title = Phesto Interview | publisher = StinkE Productions | date = 1996-07-18 | archive-url = https://web.archive.org/web/20060719094917/http://ensim.hieroglyphics.com/artists/souls/phesto-interview.html | archive-date = 2006-07-19 | url-status=dead }}</ref>
+
+After A-Plus and the Souls of Mischief were dropped by Jive, the group was incorporated into the Hieroglyphics in 1995, at the urging of [[Del tha Funkee Homosapien]].<ref name="Phesto Interview"/>
+
+A-Plus has contributed to all four Souls of Mischief albums, as well as the two Hieroglyphic studio albums.  He has also produced or performed on solo projects of various Hieroglyphics members.
+
+In 2005, A-Plus released a [[remix]] album, ''Pleemix, Vol. 1'', through [[Hieroglyphics Imperium Recordings]]. On May 1, 2007, A-Plus released his debut [[solo album]], ''My Last Good Deed'' through [[Hieroglyphics Imperium Recordings]].
+
+== Discography ==
+
+=== Solo albums ===
+*2007: ''My Last Good Deed''
+*2011: ''Pepper Spray (EP) ''
+*2014: ''Molly's Dirty Water''
+
+== See also ==
+*[[:Category:Albums produced by A-Plus (rapper)]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.discogs.com/artist/A-Plus Discogs Profile - A-Plus]
+* [http://www.hieroglyphics.com Hieroglyphics - Official Site]
+*{{AllMusic|class=artist|id=p909431|label=A-Plus}}
+
+{{Hieroglyphics (band)}}
+{{Souls of Mischief}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:A-Plus}}
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:American rappers of Jamaican descent]]
+[[Category:Hieroglyphics (group) members]]
+[[Category:Musicians from Denver]]
+[[Category:Rappers from Oakland, California]]
+[[Category:1975 births]]
+[[Category:West Coast hip hop musicians]]
+[[Category:20th-century American rappers]]
+[[Category:21st-century American rappers]]
+[[Category:20th-century American male musicians]]
+[[Category:21st-century American male musicians]]
+[[Category:20th-century African-American musicians]]
+[[Category:21st-century African-American musicians]]

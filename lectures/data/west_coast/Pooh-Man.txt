@@ -1,0 +1,111 @@
+{{Short description|American rapper}}
+{{Distinguish|DJ Pooh|Big Pooh}}
+{{BLP sources|date=April 2014}}
+{{Infobox musical artist<!-- See Wikipedia:WikiProject_Musicians -->
+| name            = Pooh-Man
+| background      = solo_singer
+| image           = Lawrence Thomas aka PoohMan.jpg
+| image_size      = 
+| caption         = 
+| birth_name      = Lawrence Lee Thomas
+| alias           = MC Pooh
+| birth_date      = {{Birth date and age|1969|01|25}}
+| origin          = [[Oakland, California]], U.S.
+| death_date      = 
+| genre           = {{hlist|[[Hip hop music|Hip hop]]|[[gangsta rap]]}}
+| occupation      = 
+| instrument      = 
+| years_active    = 1990-present
+| label           = [[Jive Records|Jive]], Scarface, In-A-Minute, Killa Kali, AniraMusic
+| associated_acts = 
+| website         = 
+}}
+'''Lawrence Lee Thomas''' (born January 25, 1969),<ref>[http://www.familytreelegends.com/records/39461?first=Lawrence&c=search&last=Thomas&offset=60 Family Tree Legends]</ref> also known as '''Pooh-Man''', '''MC Pooh''' and '''MC Pooh-Man''', is an American rap artist who has released several albums on various labels, including [[Jive Records]].<ref>[{{AllMusic|class=artist|id=p23961/discography|pure_url=yes}} Pooh-Man Discography]. [[Allmusic]].</ref> His lyrics focused on the topics of [[Sexual intercourse|sex]], [[money]] and [[murder]] (his song "Sex, Money & Murder" appeared on the soundtrack to the 1992 film ''[[Juice (1992 film)|Juice]]'').<ref>Larkin, Colin (1995). ''The Guinness Encyclopedia of Popular Music''. Guinness Pub. p. 2769</ref> He also had a small role in the film ''[[Menace II Society]]'', playing Doc.
+
+He has been active in the music industry since the early 1990s.<ref>[http://www.undergroundwestcoastrap.com/poohman.htm Pooh-Man on Undergroundwestcoastrap.com] {{webarchive|url=https://web.archive.org/web/20080210060106/http://www.undergroundwestcoastrap.com/poohman.htm |date=2008-02-10 }}</ref> His only charting album, 1992's ''Funky as I Wanna Be'', gained notoriety for its risque cover, featured guest appearances by [[MC Breed]], [[Too Short]] and [[Ant Banks]] and brought him his biggest success, peaking at #158 on the [[Billboard Top 200]].
+
+On February 28, 2000, Thomas pleaded guilty to one count of bank robbery and was sentenced to 6 years in prison.<ref>[http://law.justia.com/cases/federal/appellate-courts/F3/361/653/582058/ United States of America, Appellee, v. Lawrence E. Thomas, Appellant,, 361 F.3d 653 (D.C. Cir. 2004)]</ref>
+
+==Discography==
+{|class="wikitable"
+! scope="col" rowspan="2"|Year
+! scope="col" rowspan="2"|Title
+! scope="col" rowspan="2"|Label
+! scope="col" colspan="2"|Peak chart positions
+|-
+! scope="col" style="width:3em;font-size:85%;"| [[United States|US<BR>R&B/HH]]<br><ref name="bb">{{Cite magazine |url=https://www.billboard.com/music/pooh-man |title=Pooh-Man |magazine=Billboard |access-date=2018-11-08}}</ref>
+! scope="col" style="width:3em;font-size:85%;"| [[United States|US]]<br><ref name="bb"/>
+|-
+| 1990
+| ''Life of a Criminal''
+| [[Jive Records|Jive]]
+| 39
+| —
+|-
+| 1992
+| ''Funky As I Wanna Be''
+| Jive
+| 38
+| 158
+|-
+| 1993
+| ''Judgement Day''
+| Scarface
+| 57
+| —
+|-
+| 1994
+| ''Ain't No Love''
+| In-A-Minute
+| 85
+| —
+|-
+| 1997
+| ''State Vs. Pooh-Man Straight from San Quentin''
+| In-A-Minute
+| —
+| —
+|-
+| 2001
+| ''Fukin' Wit Dank 2001''
+| Killa Kali
+| —
+| —
+|-
+| 2014
+| ''Kaos Theory''
+| Infinite Kaos 
+| —
+| —
+|-
+|2017 
+|''Cookies n'Drank''
+|No More Tears
+| —
+| —
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://wwwp.musicmatch.com/artist/artist.cgi?ARTISTID=777829 MusicMatch profile for Pooh-Man]
+
+{{Authority control}}
+
+[[Category:1969 births]]
+[[Category:Living people]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American male musicians]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:American people convicted of robbery]]
+[[Category:American prisoners and detainees]]
+[[Category:Gangsta rappers]]
+[[Category:G-funk artists]]
+[[Category:Jive Records artists]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Rappers from the San Francisco Bay Area]]
+[[Category:West Coast hip hop musicians]]
+[[Category:21st-century African-American musicians]]
+[[Category:20th-century African-American people]]

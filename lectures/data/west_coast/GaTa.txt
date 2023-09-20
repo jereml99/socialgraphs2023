@@ -1,0 +1,56 @@
+{{Short description|American actor and rapper}}
+{{Use mdy dates|date=September 2021}}
+{{Infobox musical artist
+| honorific_prefix = 
+| name             = GaTa
+| image            = GaTa.jpg
+| image_upright    = 
+| alt              = GaTa
+| caption          =
+| birth_name       = Davionte Ganter
+| alias            = 
+| birth_date       = <!-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year unless the exact date is already WIDELY published, as per [[WP:DOB]] -->
+| birth_place      = 
+| origin           = 
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date first) -->
+| death_place      = 
+| genre            = 
+| occupation       = {{hlist|Rapper|actor}}
+| years_active     = 2006–present
+| label            = G.E.D Inc.
+| associated_acts  = {{hlist|[[Lil Dicky]]|[[Tyga]]|[[Schoolboy Q]]}}
+| website          = {{URL|https://twitter.com/GaTaGED}}
+}}
+'''Davionte Ganter''', known professionally as '''GaTa''', is an American rapper and actor known for his role in the [[FXX]] TV series [[Dave (TV series)|''Dave'']], as well as for being the [[hype man]] for rapper [[Lil Dicky]] throughout his career as well as on the show.
+
+== Early life and education ==
+GaTa grew up in [[South Los Angeles]], where he was adopted out of foster care by an aunt whom he considers his mother. He never knew his biological mother or father.<ref name="Wong">{{cite news |last1=Wong |first1=Stevie |title='Dave's Breakout Star GaTa On Racism In America: "It Really Does Hurt Me As A Black Man, To See Our Life Not Valued The Way It Should Be" |url=https://deadline.com/2020/06/dave-star-gata-lil-dicky-fxx-interview-news-1202966349/ |access-date=August 6, 2021 |publisher=Deadline |date=June 25, 2020}}</ref> Inspired by the rapper [[Da Brat]], he began rapping while a student at Audubon Middle School.<ref name="Wood">{{cite news |last1=Wood |first1=Mikael |title=How a white rapper's sidekick became a breakout sitcom star — and TV's unlikeliest role model |url=https://www.latimes.com/entertainment-arts/music/story/2020-04-15/gata-dave-lil-dicky |access-date=August 6, 2021 |newspaper=LA Times |date=April 15, 2020}}</ref>
+
+== Career ==
+
+=== Music ===
+As a [[hype man]], GaTa traveled the world performing with rappers including [[Lil Wayne]] and [[Gym Class Heroes]]. [[Tyga]], GaTa, and his childhood friend [[Schoolboy Q]] formed the music label G.E.D., which GaTa says stands for "grinding every day, getting every dollar, getting educated daily."<ref name="Wood" /> Around 2013, GaTa began working with [[David Burd]], known professionally as [[Lil Dicky]], who would become his close friend and with whom he would later star on the sitcom ''Dave''.<ref name="Jones">{{cite news|last1=Jones|first1=Jiggy|date=June 21, 2021|title=How 'Dave' Star GaTa Landed the Role As Himself on Lil Dicky's Hit FX Series|agency=The Source|url=https://thesource.com/2021/06/21/how-dave-star-gata-landed-the-role-as-himself-on-lil-dickys-hit-fx-series/|access-date=August 6, 2021}}</ref><ref name="Wong" /> After gaining popularity as an actor, he continued to build his own burgeoning solo rap career, most recently dropping the single "Check Up" in July 2021.<ref>{{cite news |title="Dave" Star Gata Shares New Single "Check Up" | last = A. | first = Aron | url=https://www.hotnewhiphop.com/dave-star-gata-shares-new-single-check-up-new-song.1991932.html |access-date=August 6, 2021 |publisher=Hot New HipHop |date=July 10, 2021}}</ref>
+
+=== Television and film ===
+GaTa began his acting career in the [[FXX]] TV series [[Dave (TV series)|''Dave'']], in which he plays an authentic but "heightened" version of himself.<ref>{{cite web|last1=Preston|first1=Devon|date=28 February 2020|title=Meet Lil Dicky's On and Off Screen Hype Man|url=https://www.inkedmag.com/original-news/lildicky-gata|url-status=live|website=Inked Mag}}</ref> Having never acted beyond music videos or taken any acting classes, he had to audition to play the role of himself on the show.<ref name="Jones" /><ref name="KTLA">{{cite news |title=GaTa talks about starring in 'Dave' and sharing his bipolar diagnosis on the show |last = Rubin | first = Sam | url=https://ktla.com/entertainment/gata-talks-about-starring-indaveand-sharing-his-bipolar-diagnosis-on-the-show/ |access-date=August 6, 2021 |publisher=KTLA |date=July 7, 2021}}</ref> His performance has been well received, leading some critics to say he deserved an [[Emmy Awards|Emmy]] nomination.<ref>{{cite news |title=Critics' Conversation: Overlooked Series and Performances That Deserve Emmy Nominations |last1 = Kang | first1 = Inkoo | last2 = Feinberg | first2 = Daniel | url=https://www.hollywoodreporter.com/tv/tv-news/critics-conversation-overlooked-series-performances-deserve-emmy-nominations-1301307/ |access-date=August 6, 2021 |publisher=The Hollywood Reporter |date=July 9, 2020}}</ref><ref name="Menta">{{cite news |last1=Menta |first1=Anna |title='Dave' Has One of the Best Representations of Bipolar Disorder on TV |url=https://decider.com/2020/04/21/dave-fx-hulu-gata-bipolar-disorder-scene/ |access-date=August 6, 2021 |publisher=Decider |date=April 21, 2020}}</ref>
+
+In 2022, GaTa appeared in the [[stoner film]] ''[[Good Mourning (film)|Good Mourning]]'' with [[Machine Gun Kelly (musician)|Machine Gun Kelly]] and [[Mod Sun]]. GaTa also appeared on season 1, episode 10 of Apple TV’s ''[[Loot (TV series)|Loot]]'' as himself.
+
+== Personal life ==
+GaTa has [[bipolar disorder]], a condition that was also given to his character on ''Dave''. He takes medication for the disorder.<ref name="Menta" /> He was initially reluctant to talk about bipolar disorder on the show, but his family and David Burd convinced him that doing so could help others.<ref name="Wong" />
+
+== References ==
+<!-- Inline citations added to your article will automatically display here. See en.wikipedia.org/wiki/WP:REFB for instructions on how to add citations. -->
+{{reflist}}
+
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:Rappers from Los Angeles]]
+[[Category:African-American actors]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Male actors from Los Angeles]]
+[[Category:People with bipolar disorder]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American actors]]
+[[Category:American male television actors]]
+[[Category:21st-century African-American musicians]]

@@ -1,0 +1,86 @@
+{{short description|American rapper}}
+
+{{Use mdy dates|date=April 2023}}
+{{Infobox musical artist
+| name            = HeeSun Lee
+| image           =
+| image_size      =
+| caption         =
+| birth_name      = Hee-Sun Lee
+| alias           = HeeSun Lee
+| birth_date      = {{Birth date and age|1983|6|4|mf=y}}
+| birth_place     = [[Seoul]], South Korea
+| genre           = [[Christian hip hop]], [[urban contemporary gospel]]
+| occupation      = Singer, songwriter
+| instrument      = Vocals
+| years_active    = 2008–present
+| label           = In My City, Jahrock'n
+| associated_acts =
+| website         = {{URL|www.heesunleemusic.com}}
+}}
+
+'''Hee-Sun Lee''' (born June 4, 1983),<ref name="CDBABY">{{cite web|title=HeeSun Lee : Re:Defined. |url=http://www.cdbaby.com/cd/heesunlee |publisher=NoiseTrade |accessdate=February 24, 2014}}</ref><ref name="FB">{{cite web|title=Not too shabby for 31 ... thank u to everyone for all of the bday wishes today! Turn up time!!! |url=https://www.facebook.com/heesunleemusic/photos/a.10152026383103849.1073741825.77907468848/10152972573968849/|publisher=HeeSun Lee|accessdate=February 24, 2015|date=June 4, 2014}}</ref> known professionally by the stage name '''HeeSun Lee''', is an American [[Christian hip hop]] musician.<ref name="CRP">{{cite web|title=HeeSun Lee Artist Profile|url=http://www.crossrhythms.co.uk/artists/HeeSun_Lee/26039/|publisher=[[Cross Rhythms]]|accessdate=February 24, 2015}}</ref><ref name="NRTP">{{cite web|title=Heesun Lee Artist Profile|url=http://www.newreleasetuesday.com/artistdetail.php?artist_id=3148|publisher=New Release Tuesday|accessdate=February 24, 2015}}</ref> Her first studio album released by Jahrock'n in 2008, ''Re:Defined.''.<ref name="CDBABY"/> She released, ''Stereotypes'', in 2014, with In My City Records.<ref name="NRTA">{{cite web|title=Stereotypes by Heesun Lee|url=http://www.newreleasetuesday.com/albumdetail.php?album_id=13650|publisher=New Release Tuesday|accessdate=February 24, 2014|date=January 21, 2014}}</ref> This was her ''[[Billboard (magazine)|Billboard]]'' chart breakthrough release.<ref name="BILLBOARD">{{cite magazine|url=http://www.billboard.com/files/index/artistindex_02_08_2014.pdf|title=Artist Index: February 8, 2014|magazine=[[Billboard (magazine)|Billboard]]|accessdate=February 24, 2015|date=February 8, 2014}}</ref>
+
+==Early life==
+HeeSun Lee was born Hee-Sun Lee on June 4, 1983, in [[Seoul]], South Korea, but was abandoned by both of her birth parents at four months old.<ref name="INMYCITY">{{cite web|url=http://inmycityrecords.com/artists/heesun-lee/|title=HeeSun Lee|publisher=In My City Records|accessdate=February 24, 2015}}</ref> She was then adopted by Chinese-American immigrants, who brought her to live and reside in [[Staten Island]], New York.
+
+==Music career==
+Her music career got started in 2008, with the release of ''Re:Defined.'' by Jahrock'n Productions.<ref name="CDBABY"/> She released her second album, ''Stereotypes'', on January 21, 2014, with In My City Records.<ref name="NRTA"/> This would be her ''[[Billboard (magazine)|Billboard]]'' chart breakthrough album on the [[Top Gospel Albums]] chart at No. 25.<ref name="BILLBOARD"/> The album was reviewed by Wade-O Radio where they called it "a great one", Jam the Hype receiving a 7.6 out of ten, and Reel-Gospel receiving a three out of five star rating.<ref>{{cite web|title=Album Review: HeeSun Lee – Stereotypes|url=http://wadeoradio.com/album-review-heesun-lee-stereotypes/|first=Aubrey|last=McKay|publisher=Wade-O Radio|accessdate=March 5, 2015|date=January 30, 2014}}</ref><ref>{{cite web|title=HeeSun Lee – Stereotypes|url=http://jamthehype.com/hee-sun-lee-stereotypes/|author=Lucy|publisher=Jam the Hype |accessdate=March 5, 2015|date=January 27, 2014}}</ref><ref>{{cite web|title=Album Review: HeeSun Lee – Stereotypes|url=http://reel-gospel.com/2014/02/14/album-review-heesun-lee-stereotypes/|first=Sam|last=Robinson|publisher=Reel-Gospel|accessdate=March 5, 2015|date=February 14, 2014}}</ref>
+
+==Discography==
+
+===Studio albums===
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+ List of studio albums, with selected chart positions
+! scope="col" rowspan="2" style="width:16em;" | Title
+! scope="col" rowspan="2" style="width:16em;" | Album details
+! scope="col" colspan="1" | Peak chart positions
+|-
+|-
+!style="width:3em; font-size:90%"|[[Top Gospel Albums|US<br>Gos]]
+|-
+!style="width:3em; font-size:90%"|''Re:Defined.''<ref name="CDBABY"/>
+|
+* Released: September 19, 2008
+* {{nowrap|Label: Jahrock'n}}
+* CD, digital download
+| –
+|-
+!style="width:3em; font-size:90%"|''Stereotypes''<ref name="NRTA"/>
+|
+* Released: January 21, 2014
+* {{nowrap|Label: In My City}}
+* CD, digital download
+| 25<ref name="BILLBOARD"/>
+|-
+!''Beauty for Ashes''
+|
+* Released: October 14, 2016
+* {{nowrap|Label: -}}
+* CD, digital download
+|–
+|}
+
+==References==
+{{reflist|2}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Lee, HeeSun}}
+[[Category:1983 births]]
+[[Category:21st-century American rappers]]
+[[Category:21st-century American women musicians]]
+[[Category:American adoptees]]
+[[Category:American musicians of Korean descent]]
+[[Category:American performers of Christian hip hop music]]
+[[Category:American rappers of Asian descent]]
+[[Category:American rappers of East Asian descent]]
+[[Category:American women rappers]]
+[[Category:East Coast hip hop musicians]]
+[[Category:South Korean adoptees]]
+[[Category:Living people]]
+[[Category:Musicians from Staten Island]]
+[[Category:Rappers from New York City]]
+[[Category:Songwriters from New York (state)]]
+[[Category:South Korean emigrants to the United States]]
+[[Category:21st-century women rappers]]

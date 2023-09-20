@@ -1,0 +1,123 @@
+{{short description|American rapper}}
+
+{{BLP sources|date=September 2014}}
+{{Infobox musical artist
+| name            = Scoop DeVille
+| image           = Scoop DeVille.jpg
+| caption         = Scoop DeVille during ''[[The Source]]''
+| birth_name      = Elijah Blue Molina
+| birth_date      = {{Birth date and age|mf=yes|1987|10|15}}
+| birth_place     =
+| origin          = [[Los Angeles]], [[California]], United States
+| instrument      = {{hlist|Keyboard|sampler|drums|vocoder|synthesizer|vocals}}
+| occupation      = {{hlist|Record producer|rapper|DJ}}
+| years_active    = 2005–present
+| genre           = [[Hip hop music|Hip hop]]
+| label           =
+| associated_acts = {{hlist|[[Kendrick Lamar]]|[[Snoop Dogg]]|[[Frost (rapper)|Kid Frost]]}}[[Get Busy Committee]]
+| website         = [http://scoopdeville.tumblr.com/ Official website]
+}}
+
+'''Elijah Blue Molina''' (born October 15, 1987), better known by his [[stage name]] '''Scoop DeVille''', is an American record producer, rapper and DJ. DeVille has produced records for rappers such as [[Kendrick Lamar]], [[Dr. Dre]], [[Snoop Dogg]], [[Nipsey Hussle]], [[50 Cent]], [[Busta Rhymes]] and [[Fat Joe]]. He produced Kendrick Lamar's "[[Poetic Justice (song)|Poetic Justice]]" featuring [[Drake (musician)|Drake]], as well as Snoop Dogg's "[[I Wanna Rock (Snoop Dogg song)|I Wanna Rock]]" featuring [[Jay-Z]], both of which charted in the top 50 of the US [[Billboard Hot 100|''Billboard'' Hot 100]] chart.
+
+==Early life==
+Molina was born in [[Los Angeles]], and is the son of [[Latino hip-hop]] pioneer [[Frost (rapper)|Kid Frost]]. At age three, he was seen being carried in his father's arms in the video for Kid Frost's 1990 single “[[La Raza (song)|La Raza]]”. Raised in a musical family, Molina started rapping at the age of two, writing music at the age of nine, and produced his first hit single, "Mamacita" by [[Baby Bash]], at fifteen.{{citation needed|date=December 2017}}
+
+==Career==
+DeVille has produced songs such as "The Recipe" by [[Kendrick Lamar]] featuring [[Dr. Dre]], [[Kendrick Lamar]] 'Poetic Justice' Ft. [[Drake (rapper)|Drake]], [[Snoop Dogg]] 'I Wanna Rock' ft. [[Jay-Z]], "Wait Until Tonight" by [[50 Cent]], "(Haha) Slow Down" by [[Fat Joe]] ft. [[Young Jeezy]], "Calm Down" by [[Busta Rhymes]] ft. [[Eminem]], "Nate" by [[Vince Staples]] ft. [[James Fauntleroy]], and "Trouble On Central" by [[Buddy (rapper)|Buddy]].
+
+DeVille was nominated for a [[Grammy]] in the categories of [[Grammy Award for Best Rap Album|Best Rap Album]] and [[Grammy Award for Album of the Year|Album of the Year]] for his [[Hip hop production|production]] on Kendrick Lamar's major-label debut ''[[Good Kid, M.A.A.D City]]''.
+
+==Production discography==
+{{main|Scoop DeVille production discography}}
+
+=== Singles ===
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"| Year
+! rowspan="2"| Single
+! colspan="3"|Chart positions
+! rowspan="2"| Album
+|- style="font-size:smaller;"
+! width="45"| [[Billboard Hot 100|US Hot 100]]
+! width="45"| [[Hot R&B/Hip-Hop Songs|US<br />R&B]]
+! width="45"| [[Hot Rap Tracks|US<br /> Rap]]
+|-
+| valign="center" rowspan="1"|2008
+| align="left"| "[[Life of da Party]]" {{small|([[Snoop Dogg]] featuring [[Too Short]] & [[Mistah F.A.B.]])}}
+| 105
+| 48
+| 14
+| align="left" rowspan="1"| ''[[Ego Trippin']]''
+|-
+| valign="center" rowspan="1"|2009
+| align="left"| "[[I Wanna Rock (Snoop Dogg song)|I Wanna Rock]]" {{small|([[Snoop Dogg]])}}
+| 41
+| 10
+| 3
+| align="left" rowspan="1"| ''[[Malice n Wonderland]]''
+|-
+| valign="center" rowspan="2"|2010
+| align="left"| "[[(Ha Ha) Slow Down]]" {{small|([[Fat Joe]] featuring [[Young Jeezy]])}}
+| &ndash;
+| 54
+| 23
+| align="left" rowspan="1"| ''[[The Darkside, Vol. 1]]''
+|-
+| align="left"| "[[New Year's Eve (song)|New Year's Eve]]" {{small|([[Snoop Dogg]] featuring Marty James)}}
+| &ndash;
+| 66
+| &ndash;
+| align="left" rowspan="1"| Non-album single
+|-
+| valign="center" rowspan="1"|2011
+| align="left"| "[[Haters (Tony Yayo song)|Haters]]" {{small|([[Tony Yayo]] featuring [[50 Cent]], [[Shawty Lo]] & [[Roscoe Dash]])}}
+| &ndash;
+| 112
+| &ndash;
+| align="left" rowspan="1"|
+|-
+| valign="center" rowspan="1"|2012
+| align="left"| "[[The Recipe (Kendrick Lamar song)|The Recipe]]" {{small|([[Kendrick Lamar]] featuring [[Dr. Dre]])}}
+| 103
+| 38
+| 23
+| align="left" rowspan="2"| ''[[good kid, m.A.A.d city]]''
+|-
+| valign="center" rowspan="1"|2013
+| align="left"| "[[Poetic Justice (song)|Poetic Justice]]" {{small|(Kendrick Lamar featuring [[Drake (entertainer)|Drake]])}}
+| 26
+| 8
+| 6
+|-
+| valign="center" rowspan="1"|2014
+| align="left"| "[[Calm Down (Busta Rhymes song)|Calm Down]]" {{small|([[Busta Rhymes]] featuring [[Eminem]])}}
+| 94
+| 29
+| 16
+| align="left" rowspan="1"| ''E.L.E.2 (Extinction Level Event 2)''
+|-
+| valign="center" rowspan="1"|2023
+| align="left"| "Give It To Me" {{small|([[Miguel (singer)|Miguel]])}}
+| –
+| –
+| –
+| align="left" rowspan="1"| ''TBA''
+|-
+|}
+
+{{Authority control}}
+
+{{DEFAULTSORT:DeVille, Scoop}}
+[[Category:Living people]]
+[[Category:American rappers of Mexican descent]]
+[[Category:American hip hop DJs]]
+[[Category:American hip hop record producers]]
+[[Category:West Coast hip hop musicians]]
+[[Category:Rappers from Los Angeles]]
+[[Category:1987 births]]
+[[Category:21st-century American rappers]]
+[[Category:Record producers from California]]
+
+
+{{US-record-producer-stub}}

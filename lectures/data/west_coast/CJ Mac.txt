@@ -1,0 +1,87 @@
+{{Short description|American rapper and actor (born 1964)}}
+{{Multiple issues|
+{{Notability|Music|date=February 2011}}
+{{BLP sources|date=February 2011}}
+}}
+
+{{Infobox musical artist
+| name            = CJ Mac
+| image           =
+| caption         =
+| image_size      =
+| birth_name      = Bryaan Ross
+| birth_date      = {{Birth date and age|mf=yes|1968|3|26}}
+| death_date      =
+| origin          = [[Los Angeles]], [[California]], U.S.
+| instrument      =
+| genre           = {{hlist|[[West Coast hip hop]]|[[G-funk]]|[[Gangsta rap]]}}
+| occupation      = {{hlist|[[Rapper]]|[[Actor]]}}
+| years_active    = 1984–present
+| label           = [[Rap-A-Lot Records|Rap-A-Lot]]<br />[[Ruthless Records|Ruthless]]<br />[[Death Row Records|Death Row]]<br />[[Hoo-Bangin' Records|Hoo-Bangin']]
+| associated_acts = [[Mack 10]], [[Allfrumtha I]], [[WC (rapper)|WC]], [[Poppa LQ]], [[Adam Grandmaison|Adam22]]
+| website         = 
+}}
+
+'''Bryaan Ross''', also known as '''CJ Mac''' (Born in March 26, 1968) is an American rapper and actor.
+
+==Music career==
+He released his debut EP, ''Color Me Funky'', independently in 1991, under the name "CJ Mack." The album is out of print, and extremely rare. He returned in 1995 and released his second album, ''[[True Game]]'' on [[Rap-A-Lot Records]], in 1995 with producer Mad. He was originally going to release the album through [[Ruthless Records]].
+
+He appeared in the movie ''[[Thicker than Water (1999 film)|Thicker than Water]]'' with Mack 10 and [[Fat Joe]], where he played a drug lord called Gator.<ref>{{cite news
+ | url = http://movies2.nytimes.com/gst/movies/movie.html?v_id=181484
+ | title = Thicker Than Water
+ | work = 
+ | publisher = Movie section, New York Times
+ | year = 1999
+| first=Manohla
+| last=Dargis
+| accessdate=2010-04-30
+}}</ref>
+
+His third album, ''[[Platinum Game]]'', featured various west coast rappers and peaked at 77 Top R&B/Hip-hop albums.<ref>[{{AllMusic|class=artist|id=p375590/charts-awards|pure_url=yes}} Allmusic charts]</ref>
+
+CJ Mac also directed a documentary called ''On the C-Walk''. He is also known for working with [[Death Row Records]] in late 2000 with his song "I Ain't Fuccin Wit' Cha" (from ''[[Too Gangsta for Radio]]''), in which he insulted [[Dr. Dre]] for leaving the label and declaring [[gangsta rap]] dead, as well as artists Hittman, [[Eminem]], [[Snoop Dogg]] and [[Aftermath Records]]. CJ Mac is also known for collaborating with artists [[C-Bo]], [[Yukmouth]], [[Dresta]], [[Poppa LQ]], [[Mack 10]], [[Techniec]], [[Scarface (rapper)|Scarface]] and [[WC (rapper)|WC]].
+
+Cj Mac was featured on a No Jumper interview, a podcast on the internet released May 15, 2016.<ref>{{cite news
+ | url = http://movies2.nytimes.com/gst/movies/movie.html?v_id=286575
+ | title = C-Walk: It's a Way of Livin'
+ | work = 
+ | publisher = Movie section, New York Times
+ | year = 2003
+| first=Manohla
+| last=Dargis
+| accessdate=2010-04-30
+}}</ref>
+
+==Discography==
+=== Studio albums ===
+*''[[True Game]]'' (1995)
+*''[[Platinum Game]]'' (1999)
+
+=== Extended plays ===
+*''Color Me Funky'' (1991)
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mac, CJ}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:21st-century American rappers]]
+[[Category:African-American male actors]]
+[[Category:African-American rappers]]
+[[Category:American male film actors]]
+[[Category:Crips]]
+[[Category:Death Row Records artists]]
+[[Category:Gangsta rappers]]
+[[Category:G-funk artists]]
+[[Category:Male actors from Los Angeles]]
+[[Category:Rap-A-Lot Records artists]]
+[[Category:Rappers from Los Angeles]]
+[[Category:Ruthless Records artists]]
+[[Category:West Coast hip hop musicians]]
+
+
+{{US-hiphop-bio-stub}}

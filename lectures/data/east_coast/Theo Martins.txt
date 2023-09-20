@@ -1,0 +1,54 @@
+{{short description|American actor and singer}}
+{{Cleanup bare URLs|date=September 2022}}
+{{Use mdy dates|date=December 2020}}
+{{Infobox musical artist
+| name              = Theo Martins
+| image             = Theophilus Martins, Los Angeles CA 2015.jpg
+| image_size        = 
+| caption           = 
+| birth_name        = Theophilus A. Martins<ref>{{cite web|url=https://www.ascap.com/repertory#/ace/search/workID/884615780 |title=BALLOONS |website=ASCAP |publisher=American Society of Composers, Authors and Publishers |access-date=April 29, 2023}}</ref>
+| birth_place       = [[Providence, Rhode Island]], U.S.
+| genre             = [[Contemporary R&B|R&B]], [[Hip hop music|Hip hop]]
+| occupation        = Artist, Singer, Songwriter, Record Producer, Designer
+| instrument        = {{hlist|Vocals|keyboards|guitar|percussion|}}
+| label             = 
+| website           = {{URL|http://toymartllc.com}}
+}}
+
+'''Theophilus A. Martins''' is an American artist, songwriter, and actor.<ref>{{cite web |url=https://www.culturedmag.com/new-kids-on-the-%E2%80%AFblocks/ |title=New Kids on the Blocks {{!}} Cultured Magazine |website=www.culturedmag.com |url-status=dead |archive-url=https://web.archive.org/web/20190724202013/https://www.culturedmag.com/new-kids-on-the-%e2%80%afblocks/ |archive-date=2019-07-24}}</ref><ref>{{cite news|last=Stewart|first=Allison|title=Singles from Rye Rye, Theo Martins|url=https://www.washingtonpost.com/wp-dyn/content/article/2010/07/12/AR2010071204866.html|newspaper=The Washington Post|date=July 13, 2010}}</ref><ref>{{cite web |url=https://facultydept.com/theo-martins-cereal-and-such/ |title=Theo Martins, Cereal and Such |website=facultydept.com |access-date=2022-11-27}}</ref> <ref name="suspendmag.com">http://www.suspendmag.com/blog/2015/9/27/good-posture-by-theophilus-martins-official-launch-party-at-dope-fairfax</ref><ref>[http://saintheron.com/news/theophilus-martins-releases-new-ep-debuts-collection-editorial/ Theo Martins RELEASES NEW EP & DEBUTS COLLECTION EDITORIAL]</ref><ref name="blog.urbanoutfitters.com">{{Cite web|url=http://blog.urbanoutfitters.com/blog/uo_interviews_theo_martins_of_cereal__such|title = UO Interviews: Theo Martins of Cereal & Such - Urban Outfitters - Blog}}</ref><ref name="theomartins.org">{{Cite web|url=https://www.theomartins.org/pages/about|title=Biography}}</ref><ref name="gossamer.co">{{Cite web|url=https://www.gossamer.co/articles/theo-martins|title=Gossamer &#124; Theo Martins}}</ref> His output has drawn praise from outlets including ''[[Los Angeles Times|The LA Times]]'', ''[[GQ]]'' magazine, ''[[The Washington Post]]'' and [[Wallpaper Magazine]].<ref>{{Cite web|url=https://www.wallpaper.com/design/under-over-marta-toilet-roll-holders|title=Roll up: Unravel these inventive toilet roll holder designs|date=September 15, 2020}}</ref><ref>{{Cite web|url=https://www.latimes.com/entertainment-arts/story/2020-10-26/toilet-paper-holder-designs-marta-gallery|title = How 53 artists redesigned the toilet paper holder. Selfie stick, anyone?|website = [[Los Angeles Times]]|date = October 26, 2020}}</ref><ref name="la.eater.com">{{Cite web|url=https://la.eater.com/2017/5/15/15641510/cereal-and-such-theo-martins-virgil-village|title = A genre-bending hip hop musician opens a cereal bar in Virgil Village|date = May 15, 2017}}</ref><ref name="uospaces.com">{{cite web |url=http://www.uospaces.com/15twenty/en/los-angeles-ca/blog/posts/about-theo-martins |title=About: Theo Martins |website=www.uospaces.com |url-status=dead |archive-url=https://web.archive.org/web/20170826032019/http://www.uospaces.com/15twenty/en/los-angeles-ca/blog/posts/about-theo-martins |archive-date=2017-08-26}}</ref>
+
+== Life and career ==
+Martins was born in [[Providence, Rhode Island]].<ref>{{cite web |first1=Gossamer |last1=Magazine |title=Theo Martins - Gossamer |url=https://www.gossamer.co/articles/theo-martins |website=Gossamer |publisher=Gossamer Magazine |access-date=15 December 2021}}</ref> Martins credits his parents for the musical and artistic exposure gained throughout his upbringing. He noted that his mother found [[Casting (performing arts)|casting calls]] searching local newspapers while his father was a trumpeter and avid music collector.<ref name="gossamer.co"/>
+
+==References==
+{{reflist}}
+
+== External links ==
+
+*{{IMDb name|nm6221593 }}
+*[https://soundcloud.com/theomartins Official Soundcloud profile]
+*[https://www.discogs.com/artist/1767965-Theo-Martins Theo Martins Discography on Discogs]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martins, Theo}}
+[[Category:Living people]]
+[[Category:African-American male rappers]]
+[[Category:American male rappers]]
+[[Category:University of Rhode Island alumni]]
+[[Category:Male actors from Providence, Rhode Island]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Musicians from Providence, Rhode Island]]
+[[Category:African-American record producers]]
+[[Category:American bloggers]]
+[[Category:American hip hop record producers]]
+[[Category:Songwriters from Rhode Island]]
+[[Category:Rappers from Rhode Island]]
+[[Category:1987 births]]
+[[Category:21st-century American rappers]]
+[[Category:American male bloggers]]
+[[Category:21st-century American male musicians]]
+[[Category:African-American songwriters]]
+[[Category:21st-century African-American writers]]
+[[Category:20th-century African-American people]]
+[[Category:American male songwriters]]
