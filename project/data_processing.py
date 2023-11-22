@@ -29,12 +29,27 @@ def update_json(filepath, update_func, *args):
     with open(filepath, 'w', encoding='utf-8') as json_file:
         json.dump(data, json_file, ensure_ascii=False, indent=4)
 
+
+def update_json_with_country_of_development(data):
+    # Extract countries of development based on the categories
+    countries_of_development = []
+    for category in data.get('categories', []):
+        match = re.match(r'Video games developed in (.+)', category)
+        if match:
+            country = match.group(1)
+            countries_of_development.append(country)
+    
+    # If no countries are found, set to ["other"]
+    data['country of development'] = countries_of_development if countries_of_development else ["other"]
+    
+                  
 # Specific update methods
 def filter_outlinks(data, all_page_names):
     data['outpages'] = [link for link in extract_outlinks(data['text']) if link in all_page_names]
 
 def add_categories(data):
     data['categories'] = extract_categories(data['text'])
+
 
 def integration_test_on_one_file(base_directory, all_page_names):
     test_subcategory = os.listdir(base_directory)[0]
@@ -59,28 +74,6 @@ def load_csv_as_list(filepath):
 
 def main():
     base_directory = 'project/data'
-    csv_filepath = 'all_page_names.csv'  # Replace with your CSV file path
-    page_names_list = load_csv_as_list(csv_filepath)
-    # The page_names_list is a list of lists. If you want a flat list of page names:
-    all_page_names = [item for sublist in page_names_list for item in sublist]
-
-    print(all_page_names)
-    
-    # Step 1: Get all page names
-    with ThreadPoolExecutor() as executor:
-        futures = [executor.submit(get_all_page_names_from_json, os.path.join(base_directory, subcategory, json_file))
-                   for subcategory in os.listdir(base_directory)
-                   for json_file in os.listdir(os.path.join(base_directory, subcategory))]
-        
-        for future in tqdm(futures, desc="Fetching Page Names", unit="files"):
-            all_page_names.append(future.result())
-
-    # Save all page names to CSV
-    with open('all_page_names.csv', 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(['Page Names'])
-        for page_name in all_page_names:
-            writer.writerow([page_name])
 
     # Step 2: Update JSON files with filtered outlinks and categories
     json_files = [os.path.join(base_directory, subcategory, json_file)
@@ -88,13 +81,15 @@ def main():
                   for json_file in os.listdir(os.path.join(base_directory, subcategory))]
 
     with ThreadPoolExecutor() as executor:
-        list(tqdm(executor.map(lambda x: update_json(x, filter_outlinks, all_page_names), json_files), 
-                  total=len(json_files), desc="Filtering Outlinks", unit="files"))
-        list(tqdm(executor.map(lambda x: update_json(x, add_categories), json_files), 
-                  total=len(json_files), desc="Adding Categories", unit="files"))
+        # list(tqdm(executor.map(lambda x: update_json(x, filter_outlinks, all_page_names), json_files), 
+        #           total=len(json_files), desc="Filtering Outlinks", unit="files"))
+        # list(tqdm(executor.map(lambda x: update_json(x, add_categories), json_files), 
+        #           total=len(json_files), desc="Adding Categories", unit="files"))
+        list(tqdm(executor.map(lambda x: update_json(x, update_json_with_country_of_development), json_files), 
+            total=len(json_files), desc="Adding cantry of development", unit="files"))
 
-    # Run integration test
-    integration_test_on_one_file(base_directory, all_page_names)
+    # # Run integration test
+    # integration_test_on_one_file(base_directory, all_page_names)
 
 if __name__ == '__main__':
     main()
