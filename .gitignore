@@ -1,3 +1,7 @@
 lectures/data
 .DS_Store
 project/data
+project/data.7z
+project/graph.pickle
+*.pkl
+*.7z
