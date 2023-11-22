@@ -3,3 +3,4 @@ lectures/data
 project/data
 project/graph.pickle
 *.pkl
+project/game_data.json
